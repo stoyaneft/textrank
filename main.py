@@ -1,10 +1,10 @@
 from text_preprocessor import text_to_sentences
+# from text_preprocessor import format_text
 
 
 def main():
-    text = ""
-    sentences = text_to_sentences(text)
-    [print(sentence) for sentence in sentences]
+    # format_text("article")
+    sentences = text_to_sentences("article_formatted.txt")
 
 
 if __name__ == "__main__":
