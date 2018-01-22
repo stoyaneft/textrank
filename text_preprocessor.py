@@ -1,9 +1,10 @@
 import nltk.data
 import re
 
+nltk.download('punkt')
+
 
 def text_to_sentences(file_name):
-    nltk.download('punkt')
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
     print("Extracting sentences from " + file_name)
     fp = open(file_name)
