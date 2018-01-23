@@ -27,21 +27,19 @@ def get_score(graph, vertex_idx, beta, scores):
 # It is expected that A[i][i] = 0
 def page_rank(graph, eps=0.0001, beta=0.85):
     i = 0
-    scores = np.random.rand(1, len(graph))[0]
-
+    # scores = np.random.rand(1, len(graph))[0]
+    scores = np.ones(len(graph)) / len(graph)
+    # print('init scores', scores)
     while True:
         new_scores = [get_score(graph, idx, beta, scores) for idx in range(len(graph))]
-        print('old scores', scores)
-        print('scores: ', new_scores)
         x = [abs(scores[i] - new_scores[i]) <= eps for i in range(len(graph))]
-        print('x', x)
-        if any(x) or i > 1000:
-            print('i',i)
+        if all(x) or i > 200:
+            print('iterations', i)
             return new_scores
 
         i += 1
         scores = new_scores
 
 # results = page_rank(graph)
-
+#
 # print("Results:", results)
