@@ -1,12 +1,28 @@
 from nltk.corpus import stopwords
 from nltk import word_tokenize
 from nltk.cluster.util import cosine_distance
+from page_rank import page_rank
+from textrank_util import file_to_sentences
 import nltk
 import string
 import numpy as np
 
 nltk.download('stopwords')
 STOP_WORDS = set(stopwords.words('english') + list(string.punctuation))
+
+
+def summarize(file_name, sentences_count):
+    sentences = file_to_sentences(file_name)
+    sentence_similarity(sentences[0], sentences[1])
+    graph = create_sentences_similarity_graph(sentences)
+    print('Calculating scores')
+    scores = page_rank(graph)
+    sorted_scores = sorted(enumerate(scores),
+                           key=lambda item: item[1],
+                           reverse=True)[:sentences_count]
+    print('top scores', sorted_scores)
+    summary = [sentences[idx] for idx, _ in sorted(sorted_scores)]
+    print("\n-----\n".join(summary))
 
 
 def sentence_similarity(s1, s2):

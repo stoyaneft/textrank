@@ -2,16 +2,28 @@ import nltk.data
 import re
 
 nltk.download('punkt')
+tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 
-def text_to_sentences(file_name):
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-    print("Extracting sentences from " + file_name)
-    fp = open(file_name)
-    text = fp.read()
+def file_to_sentences(file_name):
+    text = get_text_from_file(file_name)
+    return text_to_sentences(text)
+
+
+def text_to_sentences(text):
+    print("Extracting sentences")
     sentences = tokenizer.tokenize(text)
     print("Extracted sentences count: %d" % len(sentences))
     return sentences
+
+
+def get_text_from_file(file_name):
+    fp = open(file_name, 'r')
+    return fp.read()
+
+
+def words_to_indexed_words(words):
+    return {word: idx for idx, word in enumerate(words)}
 
 
 def format_text(file_name):
