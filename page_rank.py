@@ -50,6 +50,32 @@ def page_rank(graph, eps=0.0001, beta=0.85):
         i += 1
         scores = new_scores
 
+
+def page_rank_undirected_unweighted(graph, eps=0.0001, beta=0.85):
+    iteration = 0
+    # print(graph)
+    scores = np.ones(len(graph))
+    while True:
+        print("Iteration: ", iteration)
+        # print(scores)
+        new_scores = [get_score1(graph, idx, beta, scores)
+                      for idx in range(len(graph))]
+        x = [abs(scores[i] - new_scores[i]) < eps for i in range(len(graph))]
+        if all(x) or iteration > 200:
+            print('Iterations: ', iteration)
+            return new_scores
+
+        iteration += 1
+        scores = new_scores
+
+
+def get_score1(graph, vertex_idx, beta, scores):
+    neighbours = [i for i in range(len(graph)) if graph[vertex_idx][i] != 0]
+    score = 0
+    for idx in neighbours:
+        score += scores[idx] * graph[vertex_idx][idx] / graph[idx].sum()
+    return beta * score + 1 - beta
+
 # results = page_rank(graph)
 #
 # print("Results:", results)

@@ -7,7 +7,7 @@ import nltk.data
 import string
 import numpy as np
 from scipy.sparse import csc_matrix
-from page_rank import page_rank
+from page_rank import page_rank, page_rank_undirected_unweighted
 from textrank_util import file_to_sentences, words_to_indexed_words
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
@@ -27,23 +27,22 @@ def extract_keywords(file_name):
     indexed_words = words_to_indexed_words(words_for_graph)
     graph = np.zeros((len(indexed_words), len(indexed_words)))
     for sentence in sentences:
-        print(sentence)
         for idx in range(len(sentence) - 1):
             # TODO try only filtered words (nouns and adjectives)
             word1 = ps.stem(sentence[idx])
             word2 = ps.stem(sentence[idx + 1])
             if word1 in indexed_words and word2 in indexed_words:
-                print(word1, word2)
                 graph[indexed_words[word1]][indexed_words[word2]] = 1
+                graph[indexed_words[word2]][indexed_words[word1]] = 1
 
-    print(np.sum(graph))
-    scores = pageRank(graph)
-    print(scores)
+    # print(np.sum(graph))
+    scores = page_rank_undirected_unweighted(graph)
+    print("Scores", len(scores))
     sorted_scores = sorted(enumerate(scores),
                            key=lambda item: item[1],
                            reverse=True)[:10]
-    keywords = [words_for_graph[idx] for idx, score in sorted_scores]
-    return np.unique(scores)
+    keywords = [words_for_graph[idx] for idx, score in sorted_scores if score > 0.16]
+    return keywords
     return _get_words_for_graph(sentences)
 
 
