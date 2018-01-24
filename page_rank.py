@@ -1,4 +1,9 @@
 import numpy as np
+import logging
+from textrank_util import LOGGER_FORMAT
+
+LOGGER = logging.getLogger(__name__)
+logging.basicConfig(format=LOGGER_FORMAT, level=logging.DEBUG)
 
 beta = 0.85
 
@@ -23,10 +28,10 @@ def page_rank(graph, eps=0.0001, beta=0.85):
                       for idx in range(len(graph))]
         not_converged = [i for i in range(len(graph))
                          if not abs(scores[i] - new_scores[i]) < eps]
-        print("Iteration: ", iteration)
-        print("Not converged vertices: ", len(not_converged))
+        LOGGER.info("Iteration: %d", iteration)
+        LOGGER.info("Not converged vertices: %d", len(not_converged))
         if not any(not_converged) or iteration > 200:
-            print('Iterations: ', iteration)
+            LOGGER.info('Iterations: %d', iteration)
             return new_scores
 
         iteration += 1

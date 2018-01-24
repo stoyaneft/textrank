@@ -8,6 +8,11 @@ import string
 import numpy as np
 from page_rank import page_rank
 from textrank_util import file_to_sentences, words_to_indexed_words
+from textrank_util import LOGGER_FORMAT
+import logging
+
+LOGGER = logging.getLogger(__name__)
+logging.basicConfig(format=LOGGER_FORMAT, level=logging.DEBUG)
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 nltk.download('averaged_perceptron_tagger')
@@ -19,7 +24,8 @@ ps = PorterStemmer()
 TAG_CLASSES = ['NN', 'JJ']
 
 
-def extract_keywords(file_name):
+def extract_keywords(file_name, keywords_count=10):
+    LOGGER.info("Extracting keywords")
     sentences = file_to_sentences(file_name)
     sentences = [text_to_words(sentence) for sentence in sentences]
     words_for_graph = _get_words_for_graph(sentences)
@@ -34,15 +40,14 @@ def extract_keywords(file_name):
                 graph[indexed_words[word1]][indexed_words[word2]] = 1
                 graph[indexed_words[word2]][indexed_words[word1]] = 1
 
-    # print(np.sum(graph))
     scores = page_rank(graph)
-    print("Scores", len(scores))
     sorted_scores = sorted(enumerate(scores),
                            key=lambda item: item[1],
-                           reverse=True)[:10]
+                           reverse=True)[:keywords_count]
     keywords = [words_for_graph[idx] for idx, score in sorted_scores]
+    LOGGER.info("Extracting keywords completed")
+    LOGGER.debug(keywords)
     return keywords
-    return _get_words_for_graph(sentences)
 
 
 def _get_words_for_graph(words):

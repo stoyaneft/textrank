@@ -4,6 +4,8 @@ import re
 nltk.download('punkt')
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
+LOGGER_FORMAT = '%(name)s:%(levelname)s:%(message)s'
+
 
 def file_to_sentences(file_name):
     text = get_text_from_file(file_name)
