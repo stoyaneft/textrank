@@ -16,7 +16,7 @@ tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 nltk.download('averaged_perceptron_tagger')
 ps = PorterStemmer()
 
-TAG_CLASSES = ['NN', 'JJ']
+TAG_CLASSES = ['NN', 'JJ', 'NNS']
 
 
 def extract_keywords_from_file(file_name):
@@ -53,6 +53,8 @@ def extract_keywords(text, keywords_count=10):
     tokenized_sentences = tokenize_sentences(sentences)
     LOGGER.info(tokenized_sentences)
     words_for_graph = _get_words_for_graph(tokenized_sentences)
+    stemmed_words = words_to_stemmed_words(tokenized_sentences)
+    tagged_words = get_tagged_words(tokenized_sentences)
     indexed_words = words_to_indexed_words(words_for_graph)
     graph = np.zeros((len(indexed_words), len(indexed_words)))
     for sentence in tokenized_sentences:
@@ -68,13 +70,13 @@ def extract_keywords(text, keywords_count=10):
     sorted_scores = sorted(enumerate(scores),
                            key=lambda item: item[1],
                            reverse=True)
-    ranked_words = [words_for_graph[idx] for idx, score in sorted_scores]
+    print('sorted', [(words_for_graph[idx], score) for (idx, score) in sorted_scores])
+    ranked_words = [stemmed_words[words_for_graph[idx]] for idx, score in sorted_scores]
     print('top ranked', ranked_words[:keywords_count])
-
     matched_pairs = match_pairs(ranked_words, sentences, keywords_count)
     paired_words = list(sum(matched_pairs, ()))
     keywords = [' '.join(pair) for pair in matched_pairs] + list(filter(
-        lambda word: word not in paired_words,
+        lambda word: word not in paired_words and word in tagged_words and tagged_words[word] in ['NN', 'NNS'],
         ranked_words
     ))[:keywords_count - len(paired_words)]
     print('matched pairs', matched_pairs)
@@ -83,15 +85,26 @@ def extract_keywords(text, keywords_count=10):
     return keywords
 
 
-def _get_words_for_graph(words):
+def get_tagged_words(words):
     tagged_words = pos_tag_sents(words)
     tagged_words = [word for sent_words in tagged_words for word in sent_words]
+    print('fdafdsf', [x for x in tagged_words if x[0] == 'tried'])
     tagged_words = list(filter(
         lambda tagged_word: tagged_word[1] in TAG_CLASSES,
-        tagged_words)
-        )
-    all_words = [ps.stem(tagged_word[0]) for tagged_word in tagged_words]
+        tagged_words
+    ))
+    return dict(tagged_words)
+
+
+def _get_words_for_graph(words):
+    tagged_words = get_tagged_words(words)
+    all_words = [ps.stem(tagged_word) for tagged_word in tagged_words]
     return list(set(all_words))
+
+
+def words_to_stemmed_words(sentences):
+    words = [word for sentence in sentences for word in sentence]
+    return {ps.stem(word): word for word in words}
 
 
 extract_keywords_from_file('article.txt')
