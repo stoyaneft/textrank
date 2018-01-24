@@ -1,24 +1,19 @@
 from nltk.stem import PorterStemmer
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
 import nltk
 from nltk import pos_tag_sents
 import nltk.data
-import string
 import numpy as np
 from page_rank import page_rank
-from textrank_util import file_to_sentences, words_to_indexed_words
+from textrank_util import file_to_tokenized_sentences, words_to_indexed_words
 from textrank_util import LOGGER_FORMAT
 import logging
 
 LOGGER = logging.getLogger(__name__)
-logging.basicConfig(format=LOGGER_FORMAT, level=logging.DEBUG)
+LOGGER.setLevel(logging.DEBUG)
+logging.basicConfig(format=LOGGER_FORMAT)
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 nltk.download('averaged_perceptron_tagger')
-
-nltk.download('stopwords')
-STOP_WORDS = set(stopwords.words('english') + list(string.punctuation))
 ps = PorterStemmer()
 
 TAG_CLASSES = ['NN', 'JJ']
@@ -26,8 +21,8 @@ TAG_CLASSES = ['NN', 'JJ']
 
 def extract_keywords(file_name, keywords_count=10):
     LOGGER.info("Extracting keywords")
-    sentences = file_to_sentences(file_name)
-    sentences = [text_to_words(sentence) for sentence in sentences]
+    sentences = file_to_tokenized_sentences(file_name)
+    LOGGER.info(sentences)
     words_for_graph = _get_words_for_graph(sentences)
     indexed_words = words_to_indexed_words(words_for_graph)
     graph = np.zeros((len(indexed_words), len(indexed_words)))
@@ -59,11 +54,3 @@ def _get_words_for_graph(words):
         )
     all_words = [ps.stem(tagged_word[0]) for tagged_word in tagged_words]
     return list(set(all_words))
-
-
-def text_to_words(text):
-    def should_skip_word(word):
-        return word not in STOP_WORDS and \
-            not any([punct in word for punct in list(string.punctuation)])
-    return list(filter(should_skip_word,
-                       word_tokenize(text.lower())))

@@ -3,13 +3,13 @@ import logging
 from textrank_util import LOGGER_FORMAT
 
 LOGGER = logging.getLogger(__name__)
-logging.basicConfig(format=LOGGER_FORMAT, level=logging.DEBUG)
+LOGGER.setLevel(logging.DEBUG)
+logging.basicConfig(format=LOGGER_FORMAT)
 
 beta = 0.85
 
 
 def get_score(graph, vertex_idx, beta, scores):
-
     neighbours = [i for i in range(len(graph)) if graph[vertex_idx][i] != 0]
     score = 0
     for idx in neighbours:
