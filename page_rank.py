@@ -1,80 +1,37 @@
 import numpy as np
 
-# np.random.seed(0)
-# graph = np.random.rand(5, 5)
-# graph = [
-#     [0, 0.71518937,  0.60276338,  0.54488318,  0.4236548],
-#     [0.64589411,  0,         0.891773,    0.96366276,  0.38344152],
-#     [0.79172504,  0.52889492,  0,         0.92559664,  0.07103606],
-#     [0.0871293,   0.0202184,   0.83261985,  0,          0.87001215],
-#     [0.97861834,  0.79915856,  0.46147936,  0.78052918,  0]
-# ]
-#
-# graph[0][0] = graph[1][1] = graph[2][2] = graph[3][3] = graph[4][4] = 0
-# print(graph)
 beta = 0.85
 
 
 def get_score(graph, vertex_idx, beta, scores):
-    neighbours = [i for i in range(len(graph)) if graph[vertex_idx][i] != 0]
-    weights_sum = sum(graph[vertex_idx])
-    score = 0
-    for (idx, neighbour) in enumerate(neighbours):
-        score += scores[idx] * graph[vertex_idx][idx] / weights_sum
 
+    neighbours = [i for i in range(len(graph)) if graph[vertex_idx][i] != 0]
+    score = 0
+    for idx in neighbours:
+        score += scores[idx] * graph[vertex_idx][idx] / graph[idx].sum()
     return beta * score + 1 - beta
 
 
 # It is expected that A[i][i] = 0
 def page_rank(graph, eps=0.0001, beta=0.85):
-    i = 0
-
-    graph = np.array([[0,0,0,0,0,1,0],
-                  [0,1,1,0,0,0,0],
-                  [1,0,1,1,0,0,0],
-                  [0,0,0,1,1,0,0],
-                  [0,0,0,0,0,0,1],
-                  [0,0,0,0,0,1,1],
-                  [0,0,0,1,1,0,1]])
+    iteration = 1
     # scores = np.random.rand(1, len(graph))[0]
     scores = np.ones(len(graph)) / len(graph)
     # print('init scores', scores)
     while True:
         new_scores = [get_score(graph, idx, beta, scores)
                       for idx in range(len(graph))]
-        x = [abs(scores[i] - new_scores[i]) <= eps for i in range(len(graph))]
-        if all(x) or i > 200:
-            print('Iterations: ', i)
-            return new_scores
-
-        i += 1
-        scores = new_scores
-
-
-def page_rank_undirected_unweighted(graph, eps=0.0001, beta=0.85):
-    iteration = 0
-    # print(graph)
-    scores = np.ones(len(graph))
-    while True:
+        not_converged = [i for i in range(len(graph))
+                         if not abs(scores[i] - new_scores[i]) < eps]
         print("Iteration: ", iteration)
-        # print(scores)
-        new_scores = [get_score1(graph, idx, beta, scores)
-                      for idx in range(len(graph))]
-        x = [abs(scores[i] - new_scores[i]) < eps for i in range(len(graph))]
-        if all(x) or iteration > 200:
+        print("Not converged vertices: ", len(not_converged))
+        if not any(not_converged) or iteration > 200:
             print('Iterations: ', iteration)
             return new_scores
 
         iteration += 1
         scores = new_scores
 
-
-def get_score1(graph, vertex_idx, beta, scores):
-    neighbours = [i for i in range(len(graph)) if graph[vertex_idx][i] != 0]
-    score = 0
-    for idx in neighbours:
-        score += scores[idx] * graph[vertex_idx][idx] / graph[idx].sum()
-    return beta * score + 1 - beta
 
 # results = page_rank(graph)
 #
