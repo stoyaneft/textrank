@@ -2,7 +2,6 @@ from summarizer import summarize
 from keywords import extract_keywords
 # from text_preprocessor import format_text
 
-<<<<<<< HEAD
 SENTENCES_COUNT = 20
 
 def get_summary(text):
@@ -33,9 +32,6 @@ def get_summary(text):
     and what a waste of time, when after all that, I'm going to kill you
     tonight."
     '''
-=======
-SENTENCES_COUNT = 60
->>>>>>> 0654cddda746830da815455fde4beab02dd55c31
 
 
 def main():

@@ -31,14 +31,7 @@ def text_to_sentences(text):
     return sentences
 
 
-def file_to_tokenized_sentences(file_name):
-    text = get_text_from_file(file_name)
-    return text_to_tokenized_sentences(text)
-
-
-def text_to_tokenized_sentences(text):
-    sentences = text_to_sentences(text)
-
+def tokenize_sentences(sentences):
     LOGGER.info("Clearing irrelevant sentences")
 
     sentences = [text_to_words(sentence) for sentence in sentences]
@@ -49,6 +42,9 @@ def text_to_tokenized_sentences(text):
 
     return sentences
 
+
+def sentence_to_words(sentence):
+    return word_tokenize(sentence.lower())
 
 
 def text_to_words(text):
