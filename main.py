@@ -2,15 +2,16 @@ from summarizer import summarize
 from keywords import extract_keywords
 # from text_preprocessor import format_text
 
-SENTENCES_COUNT = 25
+SENTENCES_COUNT = 60
 
 
 def main():
     extract_keywords_test()
+    # summary_test()
 
 
 def summary_test():
-    print(summarize("chapter17.txt", SENTENCES_COUNT))
+    summarize("article.txt", SENTENCES_COUNT)
 
 
 def extract_keywords_test():
