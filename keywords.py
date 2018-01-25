@@ -1,6 +1,6 @@
 from nltk.stem import PorterStemmer
 import nltk
-from nltk import pos_tag_sents
+from nltk import pos_tag_sents, pos_tag
 import nltk.data
 import numpy as np
 from page_rank import page_rank
@@ -38,11 +38,12 @@ def match_pairs(ranked_words, sentences, keywords_count):
 
     for k1 in ranked_words[:keywords_count]:
         for k2 in ranked_words[:keywords_count*2]:
-            if k1 != k2 and are_neighbours(k1, k2, sentences) \
-            and k1 not in paired_words and k2 not in paired_words:
-                matched_pairs.append((k1, k2))
-                paired_words.add(k1)
-                paired_words.add(k2)
+            if k1 != k2 and k1 not in paired_words and k2 not in paired_words:
+                are_neights = are_neighbours(k1, k2, sentences)
+                if are_neights:
+                    matched_pairs.append(are_neights)
+                    paired_words.add(k1)
+                    paired_words.add(k2)
 
     return matched_pairs
 
@@ -58,7 +59,10 @@ def extract_keywords(text, keywords_count=10):
     indexed_words = words_to_indexed_words(words_for_graph)
     graph = np.zeros((len(indexed_words), len(indexed_words)))
     for sentence in tokenized_sentences:
-        for idx in range(len(sentence) - 1):
+        tagged_sentence = pos_tag(sentence)
+        for idx in range(len(tagged_sentence) - 1):
+            if tagged_sentence[idx][1] not in TAG_CLASSES:
+                continue
             # TODO try only filtered words (nouns and adjectives)
             word1 = ps.stem(sentence[idx])
             word2 = ps.stem(sentence[idx + 1])
@@ -88,7 +92,6 @@ def extract_keywords(text, keywords_count=10):
 def get_tagged_words(words):
     tagged_words = pos_tag_sents(words)
     tagged_words = [word for sent_words in tagged_words for word in sent_words]
-    print('fdafdsf', [x for x in tagged_words if x[0] == 'tried'])
     tagged_words = list(filter(
         lambda tagged_word: tagged_word[1] in TAG_CLASSES,
         tagged_words
