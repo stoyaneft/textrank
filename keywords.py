@@ -4,7 +4,8 @@ from nltk import pos_tag_sents, pos_tag
 import nltk.data
 import numpy as np
 from page_rank import page_rank
-from textrank_util import tokenize_sentences, words_to_indexed_words, text_to_sentences
+from textrank_util import tokenize_sentences, words_to_indexed_words
+from textrank_util import text_to_sentences, filter_unwanted_words
 from textrank_util import LOGGER_FORMAT, get_text_from_file, sentence_to_words
 import logging
 
@@ -24,7 +25,7 @@ def extract_keywords_from_file(file_name):
 
 
 def are_neighbours(word1, word2, sentences):
-    sentences_words = [ sentence_to_words(sentence) for sentence in sentences ]
+    sentences_words = [sentence_to_words(sentence) for sentence in sentences]
     for sentence_words in sentences_words:
         for i in range(len(sentence_words) - 1):
             if set([word1, word2]) == set([sentence_words[i], sentence_words[i+1]]):
@@ -51,7 +52,7 @@ def match_pairs(ranked_words, sentences, keywords_count):
 def extract_keywords(text, keywords_count=10):
     LOGGER.info("Extracting keywords")
     sentences = text_to_sentences(text)
-    tokenized_sentences = tokenize_sentences(sentences)
+    tokenized_sentences = filter_unwanted_words(tokenize_sentences(sentences))
     LOGGER.info(tokenized_sentences)
     words_for_graph = _get_words_for_graph(tokenized_sentences)
     stemmed_words = words_to_stemmed_words(tokenized_sentences)
@@ -108,6 +109,3 @@ def _get_words_for_graph(words):
 def words_to_stemmed_words(sentences):
     words = [word for sentence in sentences for word in sentence]
     return {ps.stem(word): word for word in words}
-
-
-extract_keywords_from_file('article.txt')

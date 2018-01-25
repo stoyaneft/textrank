@@ -47,12 +47,17 @@ def sentence_to_words(sentence):
     return word_tokenize(sentence.lower())
 
 
+def _should_skip_word(word):
+    return word not in STOP_WORDS and \
+        not any([punct in word for punct in list(string.punctuation)])
+
+
+def filter_unwanted_words(sentence):
+    return list(filter(_should_skip_word, sentence))
+
+
 def text_to_words(text):
-    def should_skip_word(word):
-        return word not in STOP_WORDS and \
-            not any([punct in word for punct in list(string.punctuation)])
-    return list(filter(should_skip_word,
-                       word_tokenize(text.lower())))
+    return word_tokenize(text.lower())
 
 
 def get_text_from_file(file_name):
