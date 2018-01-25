@@ -4,7 +4,7 @@ import nltk.data
 import numpy as np
 from page_rank import page_rank
 from textrank_util import tokenize_sentences, words_to_indexed_words
-from textrank_util import get_tagged_words, get_stemmed_words
+from textrank_util import get_tagged_words, get_stemmed_words, get_tagged_sentences
 from textrank_util import text_to_sentences
 from textrank_util import LOGGER_FORMAT, get_text_from_file, sentence_to_words
 import logging
@@ -55,23 +55,24 @@ def extract_keywords(text, keywords_count=10):
     tokenized_sentences = tokenize_sentences(text_sentences)
     stemmed_words = words_to_stemmed_words(tokenized_sentences)
     tagged_words = get_tagged_words(tokenized_sentences)
+    tagged_sentences = get_tagged_sentences(tokenized_sentences)
     words_for_graph = _get_words_for_graph(tagged_words)
     # LOGGER.info(words_for_graph)
     # print('++++++++++++++++++++', words_for_graph, len(words_for_graph))
     indexed_words = words_to_indexed_words(words_for_graph)
     print('indexed', indexed_words)
     graph = np.zeros((len(indexed_words), len(indexed_words)))
-    for sentence in tokenized_sentences:
-        # print('sent', sentence)
+    for sentence in tagged_sentences:
+        print('sent', sentence)
         for idx in range(len(sentence) - 1):
             # print('sent', sentence)
             # print('word', sentence[idx])
             # print('tag', tagged_words[sentence[idx]])
-            if tagged_words[sentence[idx]] not in TAG_CLASSES:
+            if sentence[idx][1] not in TAG_CLASSES:
                 continue
             # TODO try only filtered words (nouns and adjectives)
-            word1 = ps.stem(sentence[idx])
-            word2 = ps.stem(sentence[idx + 1])
+            word1 = ps.stem(sentence[idx][0])
+            word2 = ps.stem(sentence[idx + 1][0])
             if word1 in indexed_words and word2 in indexed_words:
                 print('edge', word1, word2)
                 graph[indexed_words[word1]][indexed_words[word2]] = 1
