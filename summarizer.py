@@ -1,26 +1,37 @@
-from nltk.corpus import stopwords
 from nltk.cluster.util import cosine_distance
 from page_rank import page_rank
 from textrank_util import file_to_sentences, tokenize_sentences
-import nltk
 from nltk import pos_tag_sents
-import string
 import numpy as np
 from textrank_util import LOGGER_FORMAT
 import logging
+import string
 from nltk.stem import PorterStemmer
+from textrank_util import _should_skip_word_1
 
 LOGGER = logging.getLogger(__name__)
 LOGGER.setLevel(logging.INFO)
 logging.basicConfig(format=LOGGER_FORMAT)
 ps = PorterStemmer()
 
-nltk.download('stopwords')
-STOP_WORDS = set(stopwords.words('english') + list(string.punctuation))
-
 
 def are_words_equal(word1, word2):
     pass
+
+
+def remove_unwanted_words(sentence):
+    return list(filter(_should_skip_word_1, sentence))
+
+
+def remove_punctuation(sentences):
+    def remove_punctuation_internal(sentence):
+        return list(filter(
+            lambda tagged_word: not any(
+                [punct in tagged_word[0]
+                 for punct in list(string.punctuation)]),
+            sentence))
+    return [remove_punctuation_internal(sentence)
+            for sentence in sentences]
 
 
 def summarize(file_name, sentences_count):
@@ -28,6 +39,8 @@ def summarize(file_name, sentences_count):
     plain_sentences = file_to_sentences(file_name)
     sentences = tokenize_sentences(plain_sentences)
     sentences = pos_tag_sents(sentences)
+    # sentences = remove_punctuation(sentences)
+    # sentences = list(map(remove_unwanted_words, sentences))
     graph = create_sentences_similarity_graph(sentences)
     LOGGER.info('Calculating scores')
     scores = page_rank(graph)
@@ -37,7 +50,7 @@ def summarize(file_name, sentences_count):
                            reverse=True)[:sentences_count]
     LOGGER.info('Top scores: %s', str(sorted_scores))
     summary = [plain_sentences[idx] for idx, _ in sorted(sorted_scores)]
-    [LOGGER.info("Score: %f, Sentence: %s", score, plain_sentences[idx])
+    [LOGGER.info("Score: %f, Sentence: %s", score, sentences[idx])
         for idx, score in sorted_scores]
     LOGGER.info("Summarizing completed")
     return summary

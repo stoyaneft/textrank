@@ -52,6 +52,14 @@ def _should_skip_word(word):
         not any([punct in word for punct in list(string.punctuation)])
 
 
+# TODO unite with the other function
+def _should_skip_word_1(tagger_word):
+    word = tagger_word[0]
+    tag = tagger_word[1]
+    return word not in STOP_WORDS and \
+        not any([punct in word for punct in list(string.punctuation)])
+
+
 def filter_unwanted_words(sentence):
     return list(filter(_should_skip_word, sentence))
 
