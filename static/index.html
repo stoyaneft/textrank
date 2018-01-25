@@ -15,7 +15,7 @@
     </nav>
 </header>
 <main id="index">
-	<form action = "/summary/" method = "get">
+	<form action = "/results/" method = "get">
 
 	    <div class="container row">
 	        <div class="row">
@@ -29,13 +29,26 @@
 				<label for="sentencesCount">Sentences count</label>
 	        </div>
 
-	        <div class="input-field col s4 offset-s5">
-	            <button class="waves-effect waves-light btn">
+	        <div class="input-field col s3 offset-s5">
+	            <button class="waves-effect waves-light btn" name="summary">
 	                Summarize
 	            </button>
+
+				<button class="waves-effect waves-light btn center" name="keywords">
+					Extract keywords
+				</button>
 	        </div>
 	    </div>
 
+	</form>
+
+	<!--<form action="/keywords/" method="get">-->
+	    <!--<div class="container row">-->
+
+			<!--<div class="input-field col s4 offset-s5">-->
+				<!---->
+			<!--</div>-->
+		<!--</div>-->
 	</form>
 </main>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -43,52 +56,3 @@
 <script type="text/javascript" src="/static/index.js"></script>
 </body>
 </html>
-
-
-
-<!-- <html>
-  <head>
-    <title>Text summarizer</title>
-	<link rel="stylesheet" href="/static/style.css" type="text/css" />
-	<link type="text/css" rel="stylesheet" href="/static/materialize.min.css"  media="screen,projection"/>
-  </head>
-  <body>
-	  <header>
-	    <nav>
-	        <div class="nav-wrapper">
-	            <a href="/" class="brand-logo center">Text Summarizer</a>
-	        </div>
-	    </nav>
-	</header>
-	<main id="index">
-	    <div class="container row">
-			<form action = "/summary/" method = "get">
-				<div class="container row">
-				        <div class="row">
-							<h5 class="center-align row">Paste the text you want to summarize:</h5>
-				        </div>
-				        <div class="input-field col s6 offset-s5">
-				            <textarea id="text"></textarea>
-				        </div>
-				        <div class="input-field col s6 offset-s3">
-							<div>Sentences number</div>
-				        </div>
-				        <div class="input-field col s6 offset-s3">
-							<input type="number" name="sentences_count" min="0" value="10" id="sentencesCount">
-				        </div>
-
-				        <div class="input-field col s4 offset-s5">
-							<input type="submit" value="Summarize" id="sum_btn" class=" waves-effect waves-light btn">
-				        </div>
-			    </div>
-			</form>
-	    </div>
-	</main>
-
-	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  	<script type="text/javascript" src="/static/materialize.min.js"></script>
-	<script type="text/javascript" src="/static/index.js"></script>
-  </body>
-
-
-</html> -->

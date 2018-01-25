@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Text summarizer</title>
+  <link rel="stylesheet" href="/static/style.css" type="text/css" />
+  <link type="text/css" rel="stylesheet" href="/static/materialize.min.css"  media="screen,projection"/>
+</head>
+<body>
+<header>
+    <nav>
+        <div class="nav-wrapper">
+            <a href="/" class="brand-logo center">Text Summarizer</a>
+        </div>
+
+    </nav>
+</header>
+<main id="index">
+	<form action = "/summary/" method = "get">
+
+	    <div class="container row">
+	        <div class="row">
+	            <h2 class="center-align">Keywords</h2>
+	        </div>
+			<div class="row">
+       <div class="col">
+         <div class="card-panel teal">
+             {% for keyword in keywords %}
+                 <div class="chip">
+                    {{keyword}}
+                 </div>
+            {% endfor %}
+         </div>
+       </div>
+
+	</form>
+</main>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="/static/materialize.min.js"></script>
+</body>
+</html>

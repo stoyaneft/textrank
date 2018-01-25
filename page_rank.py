@@ -24,8 +24,8 @@ def page_rank(graph, eps=0.0001, beta=0.85):
     # scores = np.random.rand(1, len(graph))[0]
     scores = np.ones(len(graph)) / len(graph)
     # print('init scores', scores)
-    LOGGER.debug("Graph: %s", str(graph))
-    LOGGER.debug("TEST: %f", graph[0].sum())
+    # LOGGER.debug("Graph: %s", str(graph))
+    # LOGGER.debug("TEST: %f", graph[0].sum())
     test = np.apply_along_axis(lambda row: row.sum(), 1, graph)
     LOGGER.debug(test.argmin())
     LOGGER.debug(test.min())
