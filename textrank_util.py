@@ -76,8 +76,8 @@ ps = PorterStemmer()
 
 def is_not_function_word(tagged_word):
     word, tag = tagged_word
-    return word not in STOP_WORDS and tag not in FUNCTIONAL_TAGS
-
+    return word.lower() not in STOP_WORDS and tag not in FUNCTIONAL_TAGS
+print(STOP_WORDS)
 
 def stem_sentence(sentence):
     return list([(ps.stem(word), fix_tag(tag))
@@ -93,6 +93,16 @@ def tokenize_sentences(sentences):
     LOGGER.debug("Sentences: %s", str(sentences))
 
     return sentences
+
+
+def get_stemmed_words(words):
+    return list([ps.stem(word) for word, tag in filter(is_not_function_word, words)])
+
+
+def get_tagged_words(sentences):
+    tagged_sentences = pos_tag_sents(sentences)
+    tagged_words = [word for sentence in tagged_sentences for word in sentence]
+    return {word: fix_tag(key) for (word, key) in tagged_words}
 
 
 def get_tagged_sentences(sentences):
