@@ -1,18 +1,17 @@
 from nltk.cluster.util import cosine_distance
 from page_rank import page_rank
-from textrank_util import file_to_sentences, tokenize_sentences
-from nltk import pos_tag_sents
+from textrank_util import text_to_sentences, tokenize_sentences
 import numpy as np
 from textrank_util import LOGGER_FORMAT
+from textrank_util import get_text_from_file
+from textrank_util import get_tagged_sentences
 import logging
 import string
-from nltk.stem import PorterStemmer
 from textrank_util import _should_skip_word_1
 
 LOGGER = logging.getLogger(__name__)
 LOGGER.setLevel(logging.INFO)
 logging.basicConfig(format=LOGGER_FORMAT)
-ps = PorterStemmer()
 
 
 def are_words_equal(word1, word2):
@@ -27,19 +26,26 @@ def remove_punctuation(sentences):
     def remove_punctuation_internal(sentence):
         return list(filter(
             lambda tagged_word: not any(
-                [punct in tagged_word[0]
-                 for punct in list(string.punctuation)]),
+                [word in tagged_word[0]
+                 for word in list(string.punctuation)]),
             sentence))
     return [remove_punctuation_internal(sentence)
             for sentence in sentences]
 
 
-def summarize(file_name, sentences_count):
+def summarize_from_file(file_name, sentences_count=20):
+    return summarize(get_text_from_file(file_name), sentences_count)
+
+
+def summarize(text, sentences_count=20):
     LOGGER.info("Summarizing text")
-    plain_sentences = file_to_sentences(file_name)
+    plain_sentences = text_to_sentences(text)
     sentences = tokenize_sentences(plain_sentences)
-    sentences = pos_tag_sents(sentences)
-    # sentences = remove_punctuation(sentences)
+    sentences = get_tagged_sentences(sentences)
+    sentences = remove_punctuation(sentences)
+    LOGGER.debug("All word tags: %s",
+                 str(set([tag for sentence in sentences
+                          for word, tag in sentence])))
     # sentences = list(map(remove_unwanted_words, sentences))
     graph = create_sentences_similarity_graph(sentences)
     LOGGER.info('Calculating scores')
@@ -50,30 +56,19 @@ def summarize(file_name, sentences_count):
                            reverse=True)[:sentences_count]
     LOGGER.info('Top scores: %s', str(sorted_scores))
     summary = [plain_sentences[idx] for idx, _ in sorted(sorted_scores)]
-    [LOGGER.info("Score: %f, Sentence: %s", score, sentences[idx])
-        for idx, score in sorted_scores]
+    [LOGGER.info("Rank: %d, Score: %f, Sentence: %s",
+                 len(sentences) - i, score, sentences[idx])
+        for i, (idx, score) in enumerate(sorted(enumerate(scores),
+                                         key=lambda item: item[1]))]
     LOGGER.info("Summarizing completed")
     return summary
 
 
-def fix_tag(tag):
-    if ('NN' in tag):
-        return 'NN'
-    return tag
-
-
-def stem_sentence(sentence):
-    return [(ps.stem(word), fix_tag(tag)) for word, tag in sentence]
-
-
 def sentence_similarity(s1, s2):
-    s1 = stem_sentence(s1)
-    s2 = stem_sentence(s2)
-    all_words = list(set(s1 + s2))
-    word_to_index = {word: idx for idx, word in enumerate(all_words)}
+    all_words = {word: idx for idx, word in enumerate(list(set(s1 + s2)))}
 
-    vector1 = _words_to_vector(s1, all_words, word_to_index)
-    vector2 = _words_to_vector(s2, all_words, word_to_index)
+    vector1 = _words_to_vector(s1, all_words, all_words)
+    vector2 = _words_to_vector(s2, all_words, all_words)
 
     if not any(vector1) or not any(vector2):
         # Sentences with only stop words and punctuation give no information
@@ -91,10 +86,10 @@ def create_sentences_similarity_graph(sentences):
 
     graph = np.zeros((len(sentences), len(sentences)))
 
-    for idx1, sentence1 in enumerate(sentences):
-        for idx2, sentence2 in enumerate(sentences):
+    for idx1, s1 in enumerate(sentences):
+        for idx2, s2 in enumerate(sentences):
             if idx1 < idx2:
-                similarity = sentence_similarity(sentence1, sentence2)
+                similarity = sentence_similarity(s1, s2)
                 graph[idx1][idx2] = similarity
                 graph[idx2][idx1] = similarity
 

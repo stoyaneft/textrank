@@ -1,9 +1,12 @@
 import nltk.data
 import re
 from nltk.tokenize import word_tokenize
+from nltk import pos_tag_sents
 from nltk.corpus import stopwords
+from nltk import pos_tag
 import logging
 import string
+from nltk.stem import PorterStemmer
 
 nltk.download('stopwords')
 STOP_WORDS = set(stopwords.words('english') + list(string.punctuation))
@@ -31,11 +34,60 @@ def text_to_sentences(text):
     return sentences
 
 
+def tokenize_sentence(sentence):
+    return pos_tag(word_tokenize(sentence))
+
+
+def fix_tag(tag):
+    if ('NN' in tag):
+        return 'NN'
+    elif 'VB' in tag:
+        return 'VB'
+    elif 'JJ' in tag:
+        return 'JJ'
+    elif 'RB' in tag:
+        return 'RB'
+    return tag
+
+
+# DT - determiner (a, an, the ...)
+# PRP - pronoun
+# PRP$
+# IN - preposition
+# CC - conjunction
+# CD - numeral
+# SYM - symbol
+# WP - that, what, who
+# WP$ - whose
+# WRB - how, why
+# MD - can, would...
+# PDT - all, both
+# UH - uh, huh, amen
+# RP - particles - if, about
+# TO
+# WDT - that, what, which
+FUNCTIONAL_TAGS = ['DT', 'PRP', 'IN', 'CC', 'CD', 'RP', 'TO', 'PRP$', 'WDT'
+                   'SYM', 'WP', 'WP$', 'WRB', 'MD', 'PDT', 'UH', 'EX'
+                   ]
+
+
+ps = PorterStemmer()
+
+
+def is_not_function_word(tagged_word):
+    word, tag = tagged_word
+    return word not in STOP_WORDS and tag not in FUNCTIONAL_TAGS
+
+
+def stem_sentence(sentence):
+    return list([(ps.stem(word), fix_tag(tag))
+                 for word, tag in filter(is_not_function_word, sentence)])
+
+
 def tokenize_sentences(sentences):
     LOGGER.info("Clearing irrelevant sentences")
 
-    sentences = [text_to_words(sentence) for sentence in sentences]
-    # sentences = list(filter(lambda sentence: any(sentence), sentences))
+    sentences = [word_tokenize(sentence) for sentence in sentences]
 
     LOGGER.info("Extracted sentences count: %d", len(sentences))
     LOGGER.debug("Sentences: %s", str(sentences))
@@ -43,11 +95,18 @@ def tokenize_sentences(sentences):
     return sentences
 
 
+def get_tagged_sentences(sentences):
+    tagged_sentences = pos_tag_sents(sentences)
+    # TODO stemming may not be a good idea
+    return [stem_sentence(sentence) for sentence in tagged_sentences]
+
+
 def sentence_to_words(sentence):
-    return word_tokenize(sentence.lower())
+    return word_tokenize(sentence)
 
 
-def _should_skip_word(word):
+def _should_skip_word(tagged_word):
+    word = tagged_word[0]
     return word not in STOP_WORDS and \
         not any([punct in word for punct in list(string.punctuation)])
 
@@ -62,10 +121,6 @@ def _should_skip_word_1(tagger_word):
 
 def filter_unwanted_words(sentence):
     return list(filter(_should_skip_word, sentence))
-
-
-def text_to_words(text):
-    return word_tokenize(text.lower())
 
 
 def get_text_from_file(file_name):
