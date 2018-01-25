@@ -1,0 +1,118 @@
+	Rank: 59, Score: 0.524185
+Sentence: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
+	Rank: 58, Score: 0.524185
+Sentence: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
+	Rank: 57, Score: 0.533839
+Sentence: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
+	Rank: 56, Score: 0.533839
+Sentence: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
+	Rank: 55, Score: 0.537508
+Sentence: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
+	Rank: 54, Score: 0.537508
+Sentence: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
+	Rank: 53, Score: 0.593831
+Sentence: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
+	Rank: 52, Score: 0.608662
+Sentence: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
+	Rank: 51, Score: 0.608662
+Sentence: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
+	Rank: 50, Score: 0.627216
+Sentence: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
+	Rank: 49, Score: 0.627216
+Sentence: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
+	Rank: 48, Score: 0.632904
+Sentence: [('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
+	Rank: 47, Score: 0.692127
+Sentence: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
+	Rank: 46, Score: 0.692127
+Sentence: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
+	Rank: 45, Score: 0.698495
+Sentence: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
+	Rank: 44, Score: 0.698495
+Sentence: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
+	Rank: 43, Score: 0.702922
+Sentence: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ("n't", 'RB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
+	Rank: 42, Score: 0.772292
+Sentence: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
+	Rank: 41, Score: 0.772292
+Sentence: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
+	Rank: 40, Score: 0.798082
+Sentence: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
+	Rank: 39, Score: 0.798082
+Sentence: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
+	Rank: 38, Score: 0.828209
+Sentence: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
+	Rank: 37, Score: 0.828209
+Sentence: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
+	Rank: 36, Score: 0.830122
+Sentence: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
+	Rank: 35, Score: 0.830122
+Sentence: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
+	Rank: 34, Score: 0.991336
+Sentence: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
+	Rank: 33, Score: 0.991336
+Sentence: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
+	Rank: 32, Score: 1.036546
+Sentence: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
+	Rank: 31, Score: 1.036546
+Sentence: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
+	Rank: 30, Score: 1.043276
+Sentence: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
+	Rank: 29, Score: 1.043276
+Sentence: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
+	Rank: 28, Score: 1.057495
+Sentence: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
+	Rank: 27, Score: 1.057495
+Sentence: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
+	Rank: 26, Score: 1.106114
+Sentence: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
+	Rank: 25, Score: 1.106114
+Sentence: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
+	Rank: 24, Score: 1.124265
+Sentence: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
+	Rank: 23, Score: 1.124265
+Sentence: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
+	Rank: 22, Score: 1.124965
+Sentence: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
+	Rank: 21, Score: 1.124965
+Sentence: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
+	Rank: 20, Score: 1.189743
+Sentence: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
+	Rank: 19, Score: 1.189743
+Sentence: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
+	Rank: 18, Score: 1.282132
+Sentence: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('instanc', 'NN'), ('messag', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+	Rank: 17, Score: 1.300871
+Sentence: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
+	Rank: 16, Score: 1.300871
+Sentence: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
+	Rank: 15, Score: 1.325341
+Sentence: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
+	Rank: 14, Score: 1.325341
+Sentence: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
+	Rank: 13, Score: 1.332397
+Sentence: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+	Rank: 12, Score: 1.332397
+Sentence: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+	Rank: 11, Score: 1.347095
+Sentence: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
+	Rank: 10, Score: 1.347095
+Sentence: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
+	Rank: 9, Score: 1.354557
+Sentence: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('im', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+	Rank: 8, Score: 1.371464
+Sentence: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
+	Rank: 7, Score: 1.371464
+Sentence: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
+	Rank: 6, Score: 1.397580
+Sentence: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
+	Rank: 5, Score: 1.397580
+Sentence: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
+	Rank: 4, Score: 1.425309
+Sentence: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ')]
+	Rank: 3, Score: 1.426124
+Sentence: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ'), ('you.it', 'JJ'), ('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
+	Rank: 2, Score: 1.583311
+Sentence: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
+	Rank: 1, Score: 1.583311
+Sentence: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]

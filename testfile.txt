@@ -1,0 +1,177 @@
+Sentence 1: [('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
+Sentence 2: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ'), ('you.it', 'JJ'), ('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
+0.649519052838
+Sentence 1: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
+Sentence 2: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
+1.0
+Sentence 1: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
+Sentence 2: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
+1.0
+Sentence 1: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
+Sentence 2: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
+1.0
+Sentence 1: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
+Sentence 2: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
+1.0
+Sentence 1: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
+Sentence 2: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
+1.0
+Sentence 1: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('instanc', 'NN'), ('messag', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+Sentence 2: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('im', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+0.917662935482
+Sentence 1: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
+Sentence 2: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
+1.0
+Sentence 1: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
+Sentence 2: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
+1.0
+Sentence 1: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
+Sentence 2: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
+1.0
+Sentence 1: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
+Sentence 2: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
+1.0
+Sentence 1: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
+Sentence 2: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
+1.0
+Sentence 1: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
+Sentence 2: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
+1.0
+Sentence 1: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
+Sentence 2: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
+1.0
+Sentence 1: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
+Sentence 2: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
+1.0
+Sentence 1: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
+Sentence 2: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
+1.0
+Sentence 1: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
+Sentence 2: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
+1.0
+Sentence 1: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
+Sentence 2: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
+1.0
+Sentence 1: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
+Sentence 2: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
+1.0
+Sentence 1: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
+Sentence 2: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
+1.0
+Sentence 1: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
+Sentence 2: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
+1.0
+Sentence 1: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
+Sentence 2: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
+1.0
+Sentence 1: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
+Sentence 2: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
+1.0
+Sentence 1: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
+Sentence 2: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
+1.0
+Sentence 1: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
+Sentence 2: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
+1.0
+Sentence 1: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
+Sentence 2: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
+1.0
+Sentence 1: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
+Sentence 2: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
+1.0
+Sentence 1: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+Sentence 2: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+1.0
+Sentence 1: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
+Sentence 2: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ("n't", 'RB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
+0.968245836552
+Sentence 1: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ'), ('you.it', 'JJ'), ('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
+Sentence 2: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ')]
+0.792593923901
+Sentence 1: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
+Sentence 2: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
+1.0
+Sentence 1: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
+Sentence 2: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
+1.0
+Sentence 1: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
+Sentence 2: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
+1.0
+Sentence 1: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
+Sentence 2: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
+1.0
+Sentence 1: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
+Sentence 2: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
+1.0
+Sentence 1: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('im', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+Sentence 2: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('instanc', 'NN'), ('messag', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+0.917662935482
+Sentence 1: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
+Sentence 2: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
+1.0
+Sentence 1: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
+Sentence 2: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
+1.0
+Sentence 1: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
+Sentence 2: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
+1.0
+Sentence 1: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
+Sentence 2: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
+1.0
+Sentence 1: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
+Sentence 2: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
+1.0
+Sentence 1: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
+Sentence 2: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
+1.0
+Sentence 1: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
+Sentence 2: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
+1.0
+Sentence 1: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
+Sentence 2: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
+1.0
+Sentence 1: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
+Sentence 2: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
+1.0
+Sentence 1: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
+Sentence 2: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
+1.0
+Sentence 1: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
+Sentence 2: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
+1.0
+Sentence 1: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
+Sentence 2: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
+1.0
+Sentence 1: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
+Sentence 2: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
+1.0
+Sentence 1: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
+Sentence 2: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
+1.0
+Sentence 1: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
+Sentence 2: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
+1.0
+Sentence 1: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
+Sentence 2: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
+1.0
+Sentence 1: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
+Sentence 2: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
+1.0
+Sentence 1: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
+Sentence 2: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
+1.0
+Sentence 1: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
+Sentence 2: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
+1.0
+Sentence 1: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
+Sentence 2: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
+1.0
+Sentence 1: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+Sentence 2: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
+1.0
+Sentence 1: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ("n't", 'RB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
+Sentence 2: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
+0.968245836552
+Sentence 1: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ')]
+Sentence 2: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ'), ('you.it', 'JJ'), ('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
+0.792593923901
