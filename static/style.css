@@ -2,3 +2,8 @@
 	width: 500px;
 	height: 250px;
 }
+
+.chip {
+	display: block !important;
+	height: inherit !important;
+}

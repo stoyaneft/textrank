@@ -18,6 +18,7 @@ nltk.download('averaged_perceptron_tagger')
 ps = PorterStemmer()
 
 TAG_CLASSES = ['NN', 'JJ', 'NNS', 'NNP', 'NNPS']
+WORD_DISTANCE = 3
 
 
 def extract_keywords_from_file(file_name):
@@ -60,23 +61,28 @@ def extract_keywords(text, keywords_count=10):
     # LOGGER.info(words_for_graph)
     # print('++++++++++++++++++++', words_for_graph, len(words_for_graph))
     indexed_words = words_to_indexed_words(words_for_graph)
-    print('indexed', indexed_words)
+    # print('indexed', indexed_words)
     graph = np.zeros((len(indexed_words), len(indexed_words)))
     for sentence in tagged_sentences:
         print('sent', sentence)
-        for idx in range(len(sentence) - 1):
+        for idx in range(len(sentence) - WORD_DISTANCE + 1):
             # print('sent', sentence)
             # print('word', sentence[idx])
             # print('tag', tagged_words[sentence[idx]])
             if sentence[idx][1] not in TAG_CLASSES:
                 continue
             # TODO try only filtered words (nouns and adjectives)
+
             word1 = ps.stem(sentence[idx][0])
-            word2 = ps.stem(sentence[idx + 1][0])
-            if word1 in indexed_words and word2 in indexed_words:
-                print('edge', word1, word2)
-                graph[indexed_words[word1]][indexed_words[word2]] = 1
-                graph[indexed_words[word2]][indexed_words[word1]] = 1
+            for i in range(1, WORD_DISTANCE):
+                if i >= len(sentence):
+                    break
+                word2 = ps.stem(sentence[idx+i][0])
+
+                if word1 in indexed_words and word2 in indexed_words:
+                    # print('edge', word1, word2)
+                    graph[indexed_words[word1]][indexed_words[word2]] = 1
+                    graph[indexed_words[word2]][indexed_words[word1]] = 1
 
     scores = page_rank(graph)
     sorted_scores = sorted(enumerate(scores),
