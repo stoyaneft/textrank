@@ -3,7 +3,11 @@
 	height: 250px;
 }
 
-.chip {
-	display: block !important;
-	height: inherit !important;
+.chip.summary {
+	display: block;
+	height: inherit;
+}
+
+.btn.no_pad {
+	padding: 0 9px;
 }
