@@ -8,7 +8,7 @@ KEYWORDS_COUNT = 10
 
 
 def main():
-    extract_keywords_test('prologue.txt', KEYWORDS_COUNT)
+    extract_keywords_test('article.txt', KEYWORDS_COUNT)
     # summary_test('test.txt', SENTENCES_COUNT)
 
 
