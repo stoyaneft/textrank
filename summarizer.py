@@ -5,8 +5,13 @@ from textrank_util import LOGGER_FORMAT
 from textrank_util import get_tagged_sentences
 import logging
 import string
+import nltk
+from nltk.corpus import wordnet as wn
+from nltk import pos_tag_sents
 from textrank_util import _should_skip_word_1
 from math import sqrt
+
+nltk.download("wordnet")
 
 LOGGER = logging.getLogger(__name__)
 LOGGER.setLevel(logging.INFO)
@@ -38,17 +43,17 @@ def get_long_sentences(sentences, plain_sentences):
     return [sentences[i] for i in idxs], [plain_sentences[i] for i in idxs]
 
 
-def summarize(text, sentences_count=20):
+def summarize(text, sentences_count=20, cosine_similarity=True):
     LOGGER.info("Summarizing text")
     plain_sentences = text_to_sentences(text)
     sentences = tokenize_sentences(plain_sentences)
     sentences = remove_punctuation(sentences)
-    sentences = get_tagged_sentences(sentences)
+    sentences = get_tagged_sentences(sentences, cosine_similarity)
     sentences, plain_sentences = get_long_sentences(sentences, plain_sentences)
     LOGGER.debug("All word tags: %s",
                  str(set([tag for sentence in sentences
                           for word, tag in sentence])))
-    graph = create_sentences_similarity_graph(sentences)
+    graph = create_sentences_similarity_graph(sentences, cosine_similarity)
 
     file = open('testfile.txt', 'w')
 
@@ -76,7 +81,11 @@ def summarize(text, sentences_count=20):
     return summary
 
 
-def sentence_similarity(s1, s2):
+def symmetric_sentence_similarity(s1, s2):
+    return (sentence_similarity(s1, s2) + sentence_similarity(s2, s1)) / 2
+
+
+def cosine_sentence_similarity(s1, s2):
     all_words = {word: idx for idx, word in enumerate(list(set(s1 + s2)))}
 
     vector1 = _words_to_vector(s1, all_words, all_words)
@@ -93,6 +102,29 @@ def sentence_similarity(s1, s2):
     return similarity
 
 
+def sentence_similarity(s1, s2):
+    synsets1 = [tagged_to_synset(*tagged_word) for tagged_word in s1]
+    synsets2 = [tagged_to_synset(*tagged_word) for tagged_word in s2]
+
+    synsets1 = [ss for ss in synsets1 if ss]
+    synsets2 = [ss for ss in synsets2 if ss]
+
+    score, count = 0.0, 0
+
+    for synset in synsets1:
+        a = [synset.path_similarity(ss) for ss in synsets2]
+        a = [ss for ss in a if ss]
+        best_score = max(a) if len(a) else 0
+
+        if best_score is not None:
+            score += best_score
+            count += 1
+
+    # Average the values
+    score /= count
+    return score
+
+
 def cosine_similarity(u, v):
     """
     Returns the cosine of the angle between vectors v and u. This is
@@ -102,7 +134,34 @@ def cosine_similarity(u, v):
                 sqrt(np.dot(u, u)) * sqrt(np.dot(v, v))))
 
 
-def create_sentences_similarity_graph(sentences):
+def penn_to_wn(tag):
+    if tag.startswith('N'):
+        return 'n'
+
+    if tag.startswith('V'):
+        return 'v'
+
+    if tag.startswith('J'):
+        return 'a'
+
+    if tag.startswith('R'):
+        return 'r'
+
+    return None
+
+
+def tagged_to_synset(word, tag):
+    wn_tag = penn_to_wn(tag)
+    if wn_tag is None:
+        return None
+
+    try:
+        return wn.synsets(word, wn_tag)[0]
+    except Exception:
+        return None
+
+
+def create_sentences_similarity_graph(sentences, cosine_similarity):
     LOGGER.info("Creating sentences similarity graph")
 
     graph = np.zeros((len(sentences), len(sentences)))
@@ -110,7 +169,10 @@ def create_sentences_similarity_graph(sentences):
     for idx1, s1 in enumerate(sentences):
         for idx2, s2 in enumerate(sentences):
             if idx1 < idx2:
-                similarity = sentence_similarity(s1, s2)
+                if cosine_similarity:
+                    similarity = cosine_sentence_similarity(s1, s2)
+                else:
+                    similarity = symmetric_sentence_similarity(s1, s2)
                 graph[idx1][idx2] = similarity
                 graph[idx2][idx1] = similarity
     LOGGER.debug("Graph: %s", str(graph))

@@ -1,177 +1,588 @@
-Sentence 1: [('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
-Sentence 2: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ'), ('you.it', 'JJ'), ('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
-0.649519052838
-Sentence 1: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
-Sentence 2: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
-1.0
-Sentence 1: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
-Sentence 2: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
-1.0
-Sentence 1: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
-Sentence 2: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
-1.0
-Sentence 1: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
-Sentence 2: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
-1.0
-Sentence 1: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
-Sentence 2: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
-1.0
-Sentence 1: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('instanc', 'NN'), ('messag', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-Sentence 2: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('im', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-0.917662935482
-Sentence 1: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
-Sentence 2: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
-1.0
-Sentence 1: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
-Sentence 2: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
-1.0
-Sentence 1: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
-Sentence 2: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
-1.0
-Sentence 1: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
-Sentence 2: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
-1.0
-Sentence 1: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
-Sentence 2: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
-1.0
-Sentence 1: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
-Sentence 2: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
-1.0
-Sentence 1: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
-Sentence 2: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
-1.0
-Sentence 1: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
-Sentence 2: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
-1.0
-Sentence 1: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
-Sentence 2: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
-1.0
-Sentence 1: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
-Sentence 2: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
-1.0
-Sentence 1: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
-Sentence 2: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
-1.0
-Sentence 1: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
-Sentence 2: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
-1.0
-Sentence 1: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
-Sentence 2: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
-1.0
-Sentence 1: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
-Sentence 2: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
-1.0
-Sentence 1: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
-Sentence 2: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
-1.0
-Sentence 1: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
-Sentence 2: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
-1.0
-Sentence 1: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
-Sentence 2: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
-1.0
-Sentence 1: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
-Sentence 2: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
-1.0
-Sentence 1: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
-Sentence 2: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
-1.0
-Sentence 1: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
-Sentence 2: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
-1.0
-Sentence 1: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-Sentence 2: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-1.0
-Sentence 1: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
-Sentence 2: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ("n't", 'RB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
-0.968245836552
-Sentence 1: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ'), ('you.it', 'JJ'), ('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
-Sentence 2: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ')]
-0.792593923901
-Sentence 1: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
-Sentence 2: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
-1.0
-Sentence 1: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
-Sentence 2: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
-1.0
-Sentence 1: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
-Sentence 2: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
-1.0
-Sentence 1: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
-Sentence 2: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
-1.0
-Sentence 1: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
-Sentence 2: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
-1.0
-Sentence 1: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('im', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-Sentence 2: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('instanc', 'NN'), ('messag', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-0.917662935482
-Sentence 1: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
-Sentence 2: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
-1.0
-Sentence 1: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
-Sentence 2: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
-1.0
-Sentence 1: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
-Sentence 2: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
-1.0
-Sentence 1: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
-Sentence 2: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
-1.0
-Sentence 1: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
-Sentence 2: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
-1.0
-Sentence 1: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
-Sentence 2: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
-1.0
-Sentence 1: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
-Sentence 2: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
-1.0
-Sentence 1: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
-Sentence 2: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
-1.0
-Sentence 1: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
-Sentence 2: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
-1.0
-Sentence 1: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
-Sentence 2: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
-1.0
-Sentence 1: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
-Sentence 2: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
-1.0
-Sentence 1: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
-Sentence 2: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
-1.0
-Sentence 1: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
-Sentence 2: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
-1.0
-Sentence 1: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
-Sentence 2: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
-1.0
-Sentence 1: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
-Sentence 2: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
-1.0
-Sentence 1: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
-Sentence 2: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
-1.0
-Sentence 1: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
-Sentence 2: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
-1.0
-Sentence 1: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
-Sentence 2: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
-1.0
-Sentence 1: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
-Sentence 2: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
-1.0
-Sentence 1: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
-Sentence 2: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
-1.0
-Sentence 1: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-Sentence 2: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-1.0
-Sentence 1: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ("n't", 'RB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
-Sentence 2: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
-0.968245836552
-Sentence 1: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ')]
-Sentence 2: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ'), ('you.it', 'JJ'), ('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
-0.792593923901
+Sentence 1: [('chapter', 'NN'), ('seven', 'NN'), ('sort', 'NN'), ('hat', 'NN'), ('door', 'NN'), ('swung', 'NN'), ('open', 'JJ')]
+Sentence 2: [('professor', 'NN'), ('mcgonagal', 'NN'), ('roll', 'VB'), ('scroll', 'NN'), ('took', 'VB'), ('sort', 'NN'), ('hat', 'NN'), ('away', 'RB')]
+0.267261241912
+Sentence 1: [('tall', 'JJ'), ('black-hair', 'JJ'), ('witch', 'NN'), ('emerald-green', 'JJ'), ('robe', 'NN'), ('stood', 'VB')]
+Sentence 2: [('mom', 'NN'), ("n't", 'RB'), ('tell', 'VB'), ('witch', 'NN'), ('marri', 'VB')]
+0.182574185835
+Sentence 1: [('stern', 'JJ'), ('face', 'NN'), ('harri', 'NN'), ('first', 'RB'), ('thought', 'VB'), ('someon', 'NN'), ('cross', 'VB')]
+Sentence 2: [('harri', 'NN'), ('cross', 'VB'), ('finger', 'NN'), ('tabl', 'NN'), ('second', 'JJ'), ('later', 'RB'), ('hat', 'NN'), ('shout', 'VB'), ('gryffindor', 'NN'), ('harri', 'NN'), ('clap', 'VB'), ('loudli', 'RB'), ('rest', 'NN'), ('ron', 'NN'), ('collaps', 'VB'), ('chair', 'NN'), ('next', 'JJ')]
+0.218217890236
+Sentence 1: [('fir', 'JJ'), ('year', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('said', 'VB'), ('hagrid', 'NN')]
+Sentence 2: [('return', 'VB'), ('readi', 'JJ'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+0.547722557505
+Sentence 1: [('entranc', 'NN'), ('hall', 'NN'), ('big', 'JJ'), ('fit', 'VB'), ('whole', 'NN'), ('dursley', 'NN'), ('hous', 'NN')]
+Sentence 2: [('class', 'NN'), ('rest', 'NN'), ('hous', 'NN'), ('sleep', 'NN'), ('hous', 'NN'), ('dormitori', 'NN'), ('spend', 'VB'), ('free', 'JJ'), ('time', 'NN'), ('hous', 'NN'), ('common', 'JJ'), ('room', 'NN')]
+0.267261241912
+Sentence 1: [('stone', 'NN'), ('wall', 'NN'), ('lit', 'VB'), ('flame', 'JJ'), ('torch', 'NN'), ('one', 'NN'), ('gringott', 'NN'), ('ceil', 'NN'), ('high', 'JJ'), ('make', 'VB'), ('magnific', 'JJ'), ('marbl', 'JJ'), ('staircas', 'NN'), ('face', 'VB'), ('led', 'VB'), ('upper', 'JJ'), ('floor', 'NN')]
+Sentence 2: [('follow', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('flag', 'JJ'), ('stone', 'NN'), ('floor', 'NN')]
+0.198029508595
+Sentence 1: [('follow', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('flag', 'JJ'), ('stone', 'NN'), ('floor', 'NN')]
+Sentence 2: [('professor', 'NN'), ('mcgonagal', 'NN'), ('talk', 'VB'), ('professor', 'NN'), ('dumbledor', 'NN')]
+0.462910049886
+Sentence 1: [('harri', 'NN'), ('hear', 'VB'), ('drone', 'NN'), ('hundr', 'NN'), ('voic', 'NN'), ('doorway', 'NN'), ('right', 'JJ'), ('rest', 'NN'), ('school', 'NN'), ('alreadi', 'RB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('show', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('small', 'JJ'), ('empti', 'JJ'), ('chamber', 'NN'), ('hall', 'NN')]
+Sentence 2: [('harri', 'NN'), ('quickli', 'RB'), ('look', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('silent', 'RB'), ('place', 'VB'), ('four-leg', 'JJ'), ('stool', 'NN'), ('front', 'NN'), ('first', 'JJ'), ('year', 'NN')]
+0.331133089266
+Sentence 1: [('crowd', 'VB'), ('stand', 'VB'), ('rather', 'RB'), ('closer', 'RB'), ('togeth', 'RB'), ('usual', 'RB'), ('done', 'VB'), ('peer', 'VB'), ('nervous', 'RB')]
+Sentence 2: [('harri', 'NN'), ('nervous', 'RB'), ('tri', 'VB'), ('flatten', 'VB'), ('hair', 'NN')]
+0.1490711985
+Sentence 1: [('welcom', 'VB'), ('hogwart', 'NN'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+Sentence 2: [('everyon', 'NN'), ('pick', 'VB'), ('favorit', 'JJ'), ('tune', 'NN'), ('said', 'VB'), ('dumbledor', 'NN'), ('go', 'VB'), ('school', 'NN'), ('bellow', 'VB'), ('hogwart', 'NN'), ('hogwart', 'NN'), ('hoggi', 'NN'), ('warti', 'NN'), ('hogwart', 'NN'), ('teach', 'NN'), ('someth', 'NN'), ('pleas', 'VB'), ('whether', 'NN'), ('old', 'JJ'), ('bald', 'NN'), ('young', 'JJ'), ('scabbi', 'JJ'), ('knee', 'NN'), ('head', 'NN'), ('fill', 'VB'), ('interest', 'JJ'), ('stuff', 'NN'), ('bare', 'VB'), ('full', 'JJ'), ('air', 'NN'), ('dead', 'NN'), ('fli', 'NN'), ('bit', 'NN'), ('fluff', 'NN'), ('teach', 'VB'), ('thing', 'NN'), ('worth', 'JJ'), ('know', 'VB'), ('bring', 'NN'), ('forgot', 'VB'), ('best', 'JJ'), ('rest', 'NN'), ('learn', 'NN'), ('brain', 'NN'), ('rot', 'VB')]
+0.700218852592
+Sentence 1: [('start-of-term', 'JJ'), ('banquet', 'NN'), ('begin', 'VB'), ('shortli', 'RB'), ('take', 'VB'), ('seat', 'NN'), ('great', 'NN'), ('hall', 'NN'), ('sort', 'VB'), ('hous', 'NN')]
+Sentence 2: [('begin', 'VB'), ('banquet', 'NN'), ('like', 'VB'), ('say', 'VB'), ('word', 'NN')]
+0.282842712475
+Sentence 1: [('sort', 'NN'), ('import', 'JJ'), ('ceremoni', 'NN'), ('hous', 'NN'), ('someth', 'NN'), ('famili', 'NN'), ('hogwart', 'NN')]
+Sentence 2: [('everyon', 'NN'), ('pick', 'VB'), ('favorit', 'JJ'), ('tune', 'NN'), ('said', 'VB'), ('dumbledor', 'NN'), ('go', 'VB'), ('school', 'NN'), ('bellow', 'VB'), ('hogwart', 'NN'), ('hogwart', 'NN'), ('hoggi', 'NN'), ('warti', 'NN'), ('hogwart', 'NN'), ('teach', 'NN'), ('someth', 'NN'), ('pleas', 'VB'), ('whether', 'NN'), ('old', 'JJ'), ('bald', 'NN'), ('young', 'JJ'), ('scabbi', 'JJ'), ('knee', 'NN'), ('head', 'NN'), ('fill', 'VB'), ('interest', 'JJ'), ('stuff', 'NN'), ('bare', 'VB'), ('full', 'JJ'), ('air', 'NN'), ('dead', 'NN'), ('fli', 'NN'), ('bit', 'NN'), ('fluff', 'NN'), ('teach', 'VB'), ('thing', 'NN'), ('worth', 'JJ'), ('know', 'VB'), ('bring', 'NN'), ('forgot', 'VB'), ('best', 'JJ'), ('rest', 'NN'), ('learn', 'NN'), ('brain', 'NN'), ('rot', 'VB')]
+0.651868276052
+Sentence 1: [('class', 'NN'), ('rest', 'NN'), ('hous', 'NN'), ('sleep', 'NN'), ('hous', 'NN'), ('dormitori', 'NN'), ('spend', 'VB'), ('free', 'JJ'), ('time', 'NN'), ('hous', 'NN'), ('common', 'JJ'), ('room', 'NN')]
+Sentence 2: [('end', 'NN'), ('year', 'NN'), ('hous', 'NN'), ('point', 'NN'), ('award', 'VB'), ('hous', 'NN'), ('cup', 'VB'), ('great', 'JJ'), ('honor', 'NN')]
+0.426401432711
+Sentence 1: [('hous', 'NN'), ('call', 'VB'), ('gryffindor', 'NN'), ('hufflepuff', 'NN'), ('ravenclaw', 'NN'), ('slytherin', 'NN')]
+Sentence 2: [('belong', 'VB'), ('gryffindor', 'NN'), ('dwell', 'VB'), ('brave', 'NN'), ('heart', 'NN'), ('dare', 'NN'), ('nerv', 'NN'), ('chivalri', 'NN'), ('set', 'NN'), ('gryffindor', 'NN'), ('apart', 'RB'), ('belong', 'VB'), ('hufflepuff', 'NN'), ('loyal', 'JJ'), ('patient', 'JJ'), ('hufflepuffi', 'NN'), ('true', 'JJ'), ('unafraid', 'JJ'), ('toil', 'NN'), ('yet', 'RB'), ('wise', 'NN'), ('old', 'JJ'), ('ravenclaw', 'NN'), ('readi', 'JJ'), ('mind', 'NN'), ('wit', 'NN'), ('learn', 'NN'), ('alway', 'RB'), ('find', 'VB'), ('kind', 'NN'), ('perhap', 'RB'), ('slytherin', 'NN'), ('make', 'VB'), ('real', 'JJ'), ('friend', 'NN'), ('cun', 'VB'), ('folk', 'NN'), ('use', 'NN'), ('mean', 'NN'), ('achiev', 'VB'), ('end', 'NN')]
+0.699209735332
+Sentence 1: [('hous', 'NN'), ('nobl', 'JJ'), ('histori', 'NN'), ('produc', 'VB'), ('outstand', 'JJ'), ('witch', 'NN'), ('wizard', 'NN')]
+Sentence 2: [('class', 'NN'), ('rest', 'NN'), ('hous', 'NN'), ('sleep', 'NN'), ('hous', 'NN'), ('dormitori', 'NN'), ('spend', 'VB'), ('free', 'JJ'), ('time', 'NN'), ('hous', 'NN'), ('common', 'JJ'), ('room', 'NN')]
+0.267261241912
+Sentence 1: [('hogwart', 'NN'), ('triumph', 'NN'), ('earn', 'VB'), ('hous', 'NN'), ('point', 'NN'), ('rulebreak', 'NN'), ('lose', 'VB'), ('hous', 'NN'), ('point', 'NN')]
+Sentence 2: [('sort', 'NN'), ('import', 'JJ'), ('ceremoni', 'NN'), ('hous', 'NN'), ('someth', 'NN'), ('famili', 'NN'), ('hogwart', 'NN')]
+0.619779786801
+Sentence 1: [('end', 'NN'), ('year', 'NN'), ('hous', 'NN'), ('point', 'NN'), ('award', 'VB'), ('hous', 'NN'), ('cup', 'VB'), ('great', 'JJ'), ('honor', 'NN')]
+Sentence 2: [('class', 'NN'), ('rest', 'NN'), ('hous', 'NN'), ('sleep', 'NN'), ('hous', 'NN'), ('dormitori', 'NN'), ('spend', 'VB'), ('free', 'JJ'), ('time', 'NN'), ('hous', 'NN'), ('common', 'JJ'), ('room', 'NN')]
+0.426401432711
+Sentence 1: [('hope', 'VB'), ('credit', 'NN'), ('whichev', 'VB'), ('hous', 'NN'), ('becom', 'VB')]
+Sentence 2: [('hope', 'VB'), ('go', 'VB'), ('help', 'VB'), ('win', 'VB'), ('hous', 'NN'), ('championship', 'NN'), ('year', 'NN')]
+0.338061701891
+Sentence 1: [('sort', 'NN'), ('ceremoni', 'NN'), ('take', 'VB'), ('place', 'NN'), ('minut', 'NN'), ('front', 'NN'), ('rest', 'NN'), ('school', 'NN')]
+Sentence 2: [('sort', 'NN'), ('import', 'JJ'), ('ceremoni', 'NN'), ('hous', 'NN'), ('someth', 'NN'), ('famili', 'NN'), ('hogwart', 'NN')]
+0.182574185835
+Sentence 1: [('eye', 'NN'), ('linger', 'VB'), ('moment', 'NN'), ('nevil', 'NN'), ('cloak', 'NN'), ('fasten', 'VB'), ('left', 'JJ'), ('ear', 'NN'), ('ron', 'NN'), ('smudg', 'VB'), ('nose', 'RB')]
+Sentence 2: [("n't", 'RB'), ('expect', 'VB'), ('someth', 'NN'), ('moment', 'NN'), ('arriv', 'VB')]
+0.134839972493
+Sentence 1: [('harri', 'NN'), ('nervous', 'RB'), ('tri', 'VB'), ('flatten', 'VB'), ('hair', 'NN')]
+Sentence 2: [('got', 'VB'), ('tri', 'VB'), ('hat', 'NN'), ('ron', 'NN'), ('whisper', 'VB'), ('harri', 'NN')]
+0.36514837167
+Sentence 1: [('return', 'VB'), ('readi', 'JJ'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+Sentence 2: [('fir', 'JJ'), ('year', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('said', 'VB'), ('hagrid', 'NN')]
+0.547722557505
+Sentence 1: [('fred', 'NN'), ('said', 'VB'), ('hurt', 'VB'), ('lot', 'NN'), ('think', 'VB'), ('joke', 'VB')]
+Sentence 2: [('return', 'VB'), ('readi', 'JJ'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+0.182574185835
+Sentence 1: [('harri', 'NN'), ('heart', 'NN'), ('gave', 'VB'), ('horribl', 'JJ'), ('jolt', 'NN')]
+Sentence 2: [('horribl', 'JJ'), ('thought', 'JJ'), ('struck', 'NN'), ('harri', 'NN'), ('horribl', 'JJ'), ('thought', 'NN'), ('alway', 'RB'), ('nervou', 'JJ')]
+0.424264068712
+Sentence 1: [("n't", 'RB'), ('know', 'VB'), ('magic', 'JJ'), ('yet', 'RB'), ('earth', 'NN')]
+Sentence 2: [('teach', 'VB'), ('potion', 'NN'), ("n't", 'RB'), ('want', 'VB'), ('everyon', 'NN'), ('know', 'VB'), ('quirrel', 'NN'), ('job', 'NN')]
+0.316227766017
+Sentence 1: [("n't", 'RB'), ('expect', 'VB'), ('someth', 'NN'), ('moment', 'NN'), ('arriv', 'VB')]
+Sentence 2: [('hat', 'NN'), ('seem', 'VB'), ('ask', 'VB'), ('rather', 'RB'), ('alot', 'NN'), ('harri', 'NN'), ("n't", 'RB'), ('feel', 'VB'), ('brave', 'VB'), ('quick-wit', 'JJ'), ('moment', 'NN')]
+0.269679944985
+Sentence 1: [('look', 'VB'), ('around', 'RB'), ('anxious', 'RB'), ('saw', 'VB'), ('everyon', 'NN'), ('els', 'RB'), ('look', 'VB'), ('terrifi', 'VB')]
+Sentence 2: [('look', 'VB'), ('peculiar', 'RB'), ('larg', 'JJ'), ('purpl', 'JJ'), ('turban', 'NN')]
+0.282842712475
+Sentence 1: [('one', 'NN'), ('talk', 'VB'), ('much', 'JJ'), ('hermion', 'NN'), ('granger', 'NN'), ('whisper', 'VB'), ('fast', 'RB'), ('spell', 'NN'), ('learn', 'VB'), ('wonder', 'VB'), ('need', 'VB')]
+Sentence 2: [('granger', 'NN'), ('hermion', 'NN'), ('hermion', 'NN'), ('almost', 'RB'), ('ran', 'VB'), ('stool', 'NN'), ('jam', 'VB'), ('eagerli', 'RB'), ('head', 'NN')]
+0.272727272727
+Sentence 1: [('never', 'RB'), ('nervou', 'JJ'), ('never', 'RB'), ('even', 'RB'), ('take', 'VB'), ('school', 'NN'), ('report', 'NN'), ('home', 'NN'), ('dursley', 'NN'), ('say', 'VB'), ('somehow', 'RB'), ('turn', 'VB'), ('teacher', 'NN'), ('wig', 'NN'), ('blue', 'NN')]
+Sentence 2: [('dursley', 'NN'), ('never', 'RB'), ('exactli', 'RB'), ('starv', 'VB'), ('harri', 'NN'), ('never', 'RB'), ('allow', 'VB'), ('eat', 'VB'), ('much', 'RB'), ('like', 'VB')]
+0.350070021007
+Sentence 1: [('second', 'JJ'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('come', 'VB'), ('back', 'RB'), ('lead', 'VB'), ('doom', 'NN')]
+Sentence 2: [('professor', 'NN'), ('mcgonagal', 'NN'), ('talk', 'VB'), ('professor', 'NN'), ('dumbledor', 'NN')]
+0.428571428571
+Sentence 1: [('someth', 'NN'), ('happen', 'VB'), ('made', 'VB'), ('jump', 'VB'), ('foot', 'NN'), ('air', 'NN'), ('sever', 'JJ'), ('peopl', 'NN'), ('scream', 'VB')]
+Sentence 2: [("n't", 'RB'), ('expect', 'VB'), ('someth', 'NN'), ('moment', 'NN'), ('arriv', 'VB')]
+0.1490711985
+Sentence 1: [('twenti', 'JJ'), ('ghost', 'NN'), ('stream', 'VB'), ('back', 'NN'), ('wall', 'NN')]
+Sentence 2: [('ghost', 'NN'), ('float', 'VB'), ('away', 'RB'), ('opposit', 'JJ'), ('wall', 'NN')]
+0.4
+Sentence 1: [('pearly-whit', 'JJ'), ('slightli', 'RB'), ('transpar', 'JJ'), ('glide', 'VB'), ('room', 'NN'), ('talk', 'VB'), ('hardli', 'RB'), ('glanc', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+Sentence 2: [('peev', 'NN'), ('perci', 'NN'), ('whisper', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+0.282842712475
+Sentence 1: [('look', 'VB'), ('fat', 'JJ'), ('littl', 'JJ'), ('monk', 'NN'), ('say', 'VB'), ('forgiv', 'NN'), ('forget', 'VB'), ('say', 'VB'), ('give', 'VB'), ('second', 'JJ'), ('chanc', 'NN'), ('dear', 'JJ'), ('friar', 'NN'), ("n't", 'RB'), ('given', 'VB'), ('peev', 'VB'), ('chanc', 'NN'), ('deserv', 'VB')]
+Sentence 2: [('give', 'VB'), ('bad', 'JJ'), ('name', 'NN'), ('know', 'VB'), ('realli', 'RB'), ('even', 'RB'), ('ghost', 'NN'), ('say', 'VB')]
+0.226133508433
+Sentence 1: [('give', 'VB'), ('bad', 'JJ'), ('name', 'NN'), ('know', 'VB'), ('realli', 'RB'), ('even', 'RB'), ('ghost', 'NN'), ('say', 'VB')]
+Sentence 2: [('look', 'VB'), ('fat', 'JJ'), ('littl', 'JJ'), ('monk', 'NN'), ('say', 'VB'), ('forgiv', 'NN'), ('forget', 'VB'), ('say', 'VB'), ('give', 'VB'), ('second', 'JJ'), ('chanc', 'NN'), ('dear', 'JJ'), ('friar', 'NN'), ("n't", 'RB'), ('given', 'VB'), ('peev', 'VB'), ('chanc', 'NN'), ('deserv', 'VB')]
+0.226133508433
+Sentence 1: [('ghost', 'NN'), ('wear', 'VB'), ('ruff', 'NN'), ('tight', 'NN'), ('suddenli', 'RB'), ('notic', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+Sentence 2: [('peev', 'NN'), ('perci', 'NN'), ('whisper', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+0.316227766017
+Sentence 1: [('new', 'NN'), ('student', 'NN'), ('said', 'VB'), ('fat', 'NN'), ('friar', 'NN'), ('smile', 'VB'), ('around', 'RB')]
+Sentence 2: [('harri', 'NN'), ('saw', 'VB'), ('ghost', 'NN'), ('fat', 'NN'), ('friar', 'NN'), ('wave', 'VB'), ('merrili', 'RB')]
+0.285714285714
+Sentence 1: [('hope', 'NN'), ('see', 'VB'), ('hufflepuff', 'NN'), ('said', 'VB'), ('friar', 'NN')]
+Sentence 2: [('tabl', 'NN'), ('right', 'NN'), ('cheer', 'VB'), ('clap', 'VB'), ('hannah', 'NN'), ('went', 'VB'), ('sit', 'VB'), ('hufflepuff', 'NN'), ('tabl', 'NN')]
+0.572656286678
+Sentence 1: [('move', 'NN'), ('along', 'RB'), ('said', 'VB'), ('sharp', 'JJ'), ('voic', 'NN')]
+Sentence 2: [('hmm', 'NN'), ('said', 'VB'), ('small', 'JJ'), ('voic', 'NN'), ('ear', 'NN')]
+0.4
+Sentence 1: [('ghost', 'NN'), ('float', 'VB'), ('away', 'RB'), ('opposit', 'JJ'), ('wall', 'NN')]
+Sentence 2: [('twenti', 'JJ'), ('ghost', 'NN'), ('stream', 'VB'), ('back', 'NN'), ('wall', 'NN')]
+0.4
+Sentence 1: [('form', 'VB'), ('line', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('told', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('follow', 'VB')]
+Sentence 2: [('professor', 'NN'), ('mcgonagal', 'NN'), ('led', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('came', 'VB'), ('halt', 'NN'), ('line', 'NN'), ('face', 'VB'), ('student', 'NN'), ('teacher', 'NN')]
+0.533001790889
+Sentence 1: [('feel', 'VB'), ('oddli', 'RB'), ('leg', 'NN'), ('turn', 'VB'), ('lead', 'VB'), ('harri', 'NN'), ('got', 'VB'), ('line', 'NN'), ('boy', 'NN'), ('sandi', 'JJ'), ('hair', 'NN'), ('ron', 'NN'), ('walk', 'VB'), ('chamber', 'NN'), ('back', 'RB'), ('hall', 'NN'), ('pair', 'NN'), ('doubl', 'JJ'), ('door', 'NN'), ('great', 'NN'), ('hall', 'NN')]
+Sentence 2: [('got', 'VB'), ('tri', 'VB'), ('hat', 'NN'), ('ron', 'NN'), ('whisper', 'VB'), ('harri', 'NN')]
+0.255376959228
+Sentence 1: [('harri', 'NN'), ('never', 'RB'), ('even', 'RB'), ('imagin', 'VB'), ('strang', 'JJ'), ('splendid', 'JJ'), ('place', 'NN')]
+Sentence 2: [('dursley', 'NN'), ('never', 'RB'), ('exactli', 'RB'), ('starv', 'VB'), ('harri', 'NN'), ('never', 'RB'), ('allow', 'VB'), ('eat', 'VB'), ('much', 'RB'), ('like', 'VB')]
+0.327326835354
+Sentence 1: [('lit', 'VB'), ('thousand', 'NN'), ('thousand', 'NN'), ('candl', 'NN'), ('float', 'VB'), ('midair', 'NN'), ('long', 'JJ'), ('tabl', 'NN'), ('rest', 'NN'), ('student', 'NN'), ('sit', 'VB')]
+Sentence 2: [('top', 'NN'), ('hall', 'NN'), ('long', 'JJ'), ('tabl', 'NN'), ('teacher', 'NN'), ('sit', 'VB')]
+0.339683110243
+Sentence 1: [('tabl', 'NN'), ('laid', 'VB'), ('glitter', 'VB'), ('golden', 'JJ'), ('plate', 'NN'), ('goblet', 'NN')]
+Sentence 2: [('tabl', 'NN'), ('right', 'NN'), ('cheer', 'VB'), ('clap', 'VB'), ('hannah', 'NN'), ('went', 'VB'), ('sit', 'VB'), ('hufflepuff', 'NN'), ('tabl', 'NN')]
+0.187317162316
+Sentence 1: [('top', 'NN'), ('hall', 'NN'), ('long', 'JJ'), ('tabl', 'NN'), ('teacher', 'NN'), ('sit', 'VB')]
+Sentence 2: [('lit', 'VB'), ('thousand', 'NN'), ('thousand', 'NN'), ('candl', 'NN'), ('float', 'VB'), ('midair', 'NN'), ('long', 'JJ'), ('tabl', 'NN'), ('rest', 'NN'), ('student', 'NN'), ('sit', 'VB')]
+0.339683110243
+Sentence 1: [('professor', 'NN'), ('mcgonagal', 'NN'), ('led', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('came', 'VB'), ('halt', 'NN'), ('line', 'NN'), ('face', 'VB'), ('student', 'NN'), ('teacher', 'NN')]
+Sentence 2: [('form', 'VB'), ('line', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('told', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('follow', 'VB')]
+0.533001790889
+Sentence 1: [('hundr', 'NN'), ('face', 'VB'), ('stare', 'VB'), ('look', 'VB'), ('pale', 'NN'), ('lantern', 'NN'), ('flicker', 'NN'), ('candlelight', 'NN')]
+Sentence 2: [('look', 'VB'), ('around', 'RB'), ('anxious', 'RB'), ('saw', 'VB'), ('everyon', 'NN'), ('els', 'RB'), ('look', 'VB'), ('terrifi', 'VB')]
+0.22360679775
+Sentence 1: [('dot', 'VB'), ('student', 'NN'), ('ghost', 'NN'), ('shone', 'VB'), ('misti', 'JJ'), ('silver', 'NN')]
+Sentence 2: [('dumbledor', 'NN'), ('silver', 'NN'), ('hair', 'NN'), ('thing', 'NN'), ('whole', 'JJ'), ('hall', 'NN'), ('shone', 'NN'), ('brightli', 'RB'), ('ghost', 'NN')]
+0.272165526976
+Sentence 1: [('mainli', 'RB'), ('avoid', 'VB'), ('stare', 'VB'), ('eye', 'NN'), ('harri', 'NN'), ('look', 'VB'), ('upward', 'JJ'), ('saw', 'VB'), ('velveti', 'NN'), ('black', 'JJ'), ('ceil', 'NN'), ('dot', 'VB'), ('star', 'NN')]
+Sentence 2: [('harri', 'NN'), ('look', 'VB'), ('slytherin', 'NN'), ('tabl', 'NN'), ('saw', 'VB'), ('horribl', 'JJ'), ('ghost', 'NN'), ('sit', 'VB'), ('blank', 'JJ'), ('stare', 'VB'), ('eye', 'NN'), ('gaunt', 'NN'), ('face', 'NN'), ('robe', 'NN'), ('stain', 'VB'), ('silver', 'NN'), ('blood', 'NN')]
+0.277350098113
+Sentence 1: [('heard', 'VB'), ('hermion', 'NN'), ('whisper', 'VB'), ('bewitch', 'VB'), ('look', 'VB'), ('sky', 'NN')]
+Sentence 2: [('look', 'VB'), ('around', 'RB'), ('anxious', 'RB'), ('saw', 'VB'), ('everyon', 'NN'), ('els', 'RB'), ('look', 'VB'), ('terrifi', 'VB')]
+0.258198889747
+Sentence 1: [('hard', 'JJ'), ('believ', 'VB'), ('ceil', 'NN'), ('great', 'NN'), ('hall', 'NN'), ("n't", 'RB'), ('simpli', 'RB'), ('open', 'VB'), ('heaven', 'NN')]
+Sentence 2: [('start-of-term', 'JJ'), ('banquet', 'NN'), ('begin', 'VB'), ('shortli', 'RB'), ('take', 'VB'), ('seat', 'NN'), ('great', 'NN'), ('hall', 'NN'), ('sort', 'VB'), ('hous', 'NN')]
+0.210818510678
+Sentence 1: [('harri', 'NN'), ('quickli', 'RB'), ('look', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('silent', 'RB'), ('place', 'VB'), ('four-leg', 'JJ'), ('stool', 'NN'), ('front', 'NN'), ('first', 'JJ'), ('year', 'NN')]
+Sentence 2: [('form', 'VB'), ('line', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('told', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('follow', 'VB')]
+0.408248290464
+Sentence 1: [('top', 'NN'), ('stool', 'NN'), ('put', 'VB'), ('point', 'JJ'), ('wizard', 'NN'), ('hat', 'NN')]
+Sentence 2: [('call', 'VB'), ('name', 'NN'), ('put', 'VB'), ('hat', 'NN'), ('sit', 'NN'), ('stool', 'NN'), ('sort', 'VB'), ('said', 'VB')]
+0.433012701892
+Sentence 1: [('hat', 'NN'), ('patch', 'VB'), ('fray', 'VB'), ('extrem', 'RB'), ('dirti', 'JJ')]
+Sentence 2: [('keep', 'VB'), ('bowler', 'NN'), ('black', 'JJ'), ('top', 'NN'), ('hat', 'NN'), ('sleek', 'VB'), ('tall', 'VB'), ('hogwart', 'NN'), ('sort', 'NN'), ('hat', 'NN'), ('cap', 'VB')]
+0.19518001459
+Sentence 1: [('aunt', 'NN'), ('petunia', 'NN'), ("n't", 'RB'), ('let', 'VB'), ('hous', 'NN')]
+Sentence 2: [('class', 'NN'), ('rest', 'NN'), ('hous', 'NN'), ('sleep', 'NN'), ('hous', 'NN'), ('dormitori', 'NN'), ('spend', 'VB'), ('free', 'JJ'), ('time', 'NN'), ('hous', 'NN'), ('common', 'JJ'), ('room', 'NN')]
+0.316227766017
+Sentence 1: [('mayb', 'RB'), ('tri', 'VB'), ('get', 'VB'), ('rabbit', 'NN'), ('harri', 'NN'), ('thought', 'VB'), ('wildli', 'RB'), ('seem', 'VB'), ('sort', 'NN'), ('thing', 'NN'), ('notic', 'NN'), ('everyon', 'NN'), ('hall', 'NN'), ('stare', 'VB'), ('hat', 'NN'), ('stare', 'VB')]
+Sentence 2: [('got', 'VB'), ('tri', 'VB'), ('hat', 'NN'), ('ron', 'NN'), ('whisper', 'VB'), ('harri', 'NN')]
+0.288675134595
+Sentence 1: [('rip', 'NN'), ('brim', 'NN'), ('open', 'VB'), ('wide', 'JJ'), ('mouth', 'NN'), ('hat', 'NN'), ('began', 'VB'), ('sing', 'VB'), ('Oh', 'NN'), ('think', 'VB'), ('pretti', 'RB'), ("n't", 'RB'), ('judg', 'VB'), ('see', 'VB'), ('eat', 'VB'), ('find', 'VB'), ('smarter', 'NN'), ('hat', 'NN')]
+Sentence 2: [('noth', 'NN'), ('hidden', 'NN'), ('head', 'NN'), ('sort', 'VB'), ('hat', 'NN'), ("n't", 'RB'), ('see', 'VB'), ('tri', 'VB'), ('tell', 'VB')]
+0.251976315339
+Sentence 1: [('keep', 'VB'), ('bowler', 'NN'), ('black', 'JJ'), ('top', 'NN'), ('hat', 'NN'), ('sleek', 'VB'), ('tall', 'VB'), ('hogwart', 'NN'), ('sort', 'NN'), ('hat', 'NN'), ('cap', 'VB')]
+Sentence 2: [('sort', 'NN'), ('import', 'JJ'), ('ceremoni', 'NN'), ('hous', 'NN'), ('someth', 'NN'), ('famili', 'NN'), ('hogwart', 'NN')]
+0.563436169819
+Sentence 1: [('noth', 'NN'), ('hidden', 'NN'), ('head', 'NN'), ('sort', 'VB'), ('hat', 'NN'), ("n't", 'RB'), ('see', 'VB'), ('tri', 'VB'), ('tell', 'VB')]
+Sentence 2: [('tri', 'VB'), ('hat', 'NN'), ('lot', 'NN'), ('better', 'JJ'), ('spell', 'NN'), ('wish', 'VB'), ('tri', 'VB'), ('everyon', 'NN'), ('watch', 'NN')]
+0.301511344578
+Sentence 1: [('belong', 'VB'), ('gryffindor', 'NN'), ('dwell', 'VB'), ('brave', 'NN'), ('heart', 'NN'), ('dare', 'NN'), ('nerv', 'NN'), ('chivalri', 'NN'), ('set', 'NN'), ('gryffindor', 'NN'), ('apart', 'RB'), ('belong', 'VB'), ('hufflepuff', 'NN'), ('loyal', 'JJ'), ('patient', 'JJ'), ('hufflepuffi', 'NN'), ('true', 'JJ'), ('unafraid', 'JJ'), ('toil', 'NN'), ('yet', 'RB'), ('wise', 'NN'), ('old', 'JJ'), ('ravenclaw', 'NN'), ('readi', 'JJ'), ('mind', 'NN'), ('wit', 'NN'), ('learn', 'NN'), ('alway', 'RB'), ('find', 'VB'), ('kind', 'NN'), ('perhap', 'RB'), ('slytherin', 'NN'), ('make', 'VB'), ('real', 'JJ'), ('friend', 'NN'), ('cun', 'VB'), ('folk', 'NN'), ('use', 'NN'), ('mean', 'NN'), ('achiev', 'VB'), ('end', 'NN')]
+Sentence 2: [('hous', 'NN'), ('call', 'VB'), ('gryffindor', 'NN'), ('hufflepuff', 'NN'), ('ravenclaw', 'NN'), ('slytherin', 'NN')]
+0.699209735332
+Sentence 1: [('safe', 'JJ'), ('hand', 'NN'), ('none', 'NN'), ('think', 'VB'), ('cap', 'NN'), ('whole', 'JJ'), ('hall', 'NN'), ('burst', 'NN'), ('applaus', 'NN'), ('hat', 'NN'), ('finish', 'VB'), ('song', 'NN')]
+Sentence 2: [('everybodi', 'NN'), ('finish', 'VB'), ('song', 'NN'), ('differ', 'JJ'), ('time', 'NN')]
+0.258198889747
+Sentence 1: [('bow', 'VB'), ('tabl', 'NN'), ('becam', 'VB'), ('quit', 'RB'), ('still', 'RB')]
+Sentence 2: [('tabl', 'NN'), ('right', 'NN'), ('cheer', 'VB'), ('clap', 'VB'), ('hannah', 'NN'), ('went', 'VB'), ('sit', 'VB'), ('hufflepuff', 'NN'), ('tabl', 'NN')]
+0.205195670417
+Sentence 1: [('got', 'VB'), ('tri', 'VB'), ('hat', 'NN'), ('ron', 'NN'), ('whisper', 'VB'), ('harri', 'NN')]
+Sentence 2: [('tri', 'VB'), ('hat', 'NN'), ('lot', 'NN'), ('better', 'JJ'), ('spell', 'NN'), ('wish', 'VB'), ('tri', 'VB'), ('everyon', 'NN'), ('watch', 'NN')]
+0.369274472938
+Sentence 1: [("i'll", 'NN'), ('kill', 'NN'), ('fred', 'NN'), ('go', 'VB'), ('wrestl', 'VB'), ('troll', 'NN')]
+Sentence 2: [('fred', 'NN'), ('said', 'VB'), ('hurt', 'VB'), ('lot', 'NN'), ('think', 'VB'), ('joke', 'VB')]
+0.166666666667
+Sentence 1: [('tri', 'VB'), ('hat', 'NN'), ('lot', 'NN'), ('better', 'JJ'), ('spell', 'NN'), ('wish', 'VB'), ('tri', 'VB'), ('everyon', 'NN'), ('watch', 'NN')]
+Sentence 2: [('got', 'VB'), ('tri', 'VB'), ('hat', 'NN'), ('ron', 'NN'), ('whisper', 'VB'), ('harri', 'NN')]
+0.369274472938
+Sentence 1: [('hat', 'NN'), ('seem', 'VB'), ('ask', 'VB'), ('rather', 'RB'), ('alot', 'NN'), ('harri', 'NN'), ("n't", 'RB'), ('feel', 'VB'), ('brave', 'VB'), ('quick-wit', 'JJ'), ('moment', 'NN')]
+Sentence 2: [("n't", 'RB'), ('expect', 'VB'), ('someth', 'NN'), ('moment', 'NN'), ('arriv', 'VB')]
+0.269679944985
+Sentence 1: [('hat', 'NN'), ('mention', 'VB'), ('hous', 'NN'), ('peopl', 'NN'), ('felt', 'VB'), ('bit', 'NN'), ('queasi', 'JJ')]
+Sentence 2: [('class', 'NN'), ('rest', 'NN'), ('hous', 'NN'), ('sleep', 'NN'), ('hous', 'NN'), ('dormitori', 'NN'), ('spend', 'VB'), ('free', 'JJ'), ('time', 'NN'), ('hous', 'NN'), ('common', 'JJ'), ('room', 'NN')]
+0.267261241912
+Sentence 1: [('professor', 'NN'), ('mcgonagal', 'NN'), ('step', 'VB'), ('forward', 'RB'), ('hold', 'VB'), ('long', 'JJ'), ('roll', 'NN'), ('parchment', 'NN')]
+Sentence 2: [('professor', 'NN'), ('mcgonagal', 'NN'), ('talk', 'VB'), ('professor', 'NN'), ('dumbledor', 'NN')]
+0.400891862869
+Sentence 1: [('call', 'VB'), ('name', 'NN'), ('put', 'VB'), ('hat', 'NN'), ('sit', 'NN'), ('stool', 'NN'), ('sort', 'VB'), ('said', 'VB')]
+Sentence 2: [('top', 'NN'), ('stool', 'NN'), ('put', 'VB'), ('point', 'JJ'), ('wizard', 'NN'), ('hat', 'NN')]
+0.433012701892
+Sentence 1: [('abbott', 'NN'), ('hannah', 'NN'), ('pink-fac', 'JJ'), ('girl', 'NN'), ('blond', 'NN'), ('pigtail', 'NN'), ('stumbl', 'VB'), ('line', 'NN'), ('put', 'VB'), ('hat', 'NN'), ('fell', 'VB'), ('right', 'RB'), ('eye', 'NN'), ('sat', 'VB')]
+Sentence 2: [('top', 'NN'), ('stool', 'NN'), ('put', 'VB'), ('point', 'JJ'), ('wizard', 'NN'), ('hat', 'NN')]
+0.218217890236
+Sentence 1: [('tabl', 'NN'), ('right', 'NN'), ('cheer', 'VB'), ('clap', 'VB'), ('hannah', 'NN'), ('went', 'VB'), ('sit', 'VB'), ('hufflepuff', 'NN'), ('tabl', 'NN')]
+Sentence 2: [('hope', 'NN'), ('see', 'VB'), ('hufflepuff', 'NN'), ('said', 'VB'), ('friar', 'NN')]
+0.572656286678
+Sentence 1: [('harri', 'NN'), ('saw', 'VB'), ('ghost', 'NN'), ('fat', 'NN'), ('friar', 'NN'), ('wave', 'VB'), ('merrili', 'RB')]
+Sentence 2: [('new', 'NN'), ('student', 'NN'), ('said', 'VB'), ('fat', 'NN'), ('friar', 'NN'), ('smile', 'VB'), ('around', 'RB')]
+0.285714285714
+Sentence 1: [('bone', 'NN'), ('susan', 'NN'), ('hufflepuff', 'NN'), ('shout', 'VB'), ('hat', 'NN'), ('susan', 'NN'), ('scuttl', 'VB'), ('sit', 'VB'), ('next', 'JJ'), ('hannah', 'VB')]
+Sentence 2: [('hope', 'NN'), ('see', 'VB'), ('hufflepuff', 'NN'), ('said', 'VB'), ('friar', 'NN')]
+0.558156305651
+Sentence 1: [('boot', 'NN'), ('terri', 'NN'), ('ravenclaw', 'NN'), ('tabl', 'JJ'), ('second', 'NN'), ('left', 'NN'), ('clap', 'VB'), ('time', 'NN'), ('sever', 'JJ'), ('ravenclaw', 'NN'), ('stood', 'VB'), ('shake', 'VB'), ('hand', 'NN'), ('terri', 'NN'), ('join', 'VB'), ('them.', 'NN')]
+Sentence 2: [('turpin', 'NN'), ('lisa', 'NN'), ('becam', 'VB'), ('ravenclaw', 'NN'), ('ron', 'NN'), ('turn', 'NN')]
+0.667124384995
+Sentence 1: [('brocklehurst', 'NN'), ('mandi', 'NN'), ('went', 'VB'), ('ravenclaw', 'NN'), ('brown', 'NN'), ('lavend', 'NN'), ('becam', 'VB'), ('first', 'JJ'), ('new', 'JJ'), ('gryffindor', 'NN'), ('tabl', 'NN'), ('far', 'RB'), ('left', 'NN'), ('explod', 'VB'), ('cheer', 'NN'), ('harri', 'NN'), ('see', 'VB'), ('ron', 'NN'), ('twin', 'VB'), ('brother', 'NN'), ('catcal', 'VB')]
+Sentence 2: [('turpin', 'NN'), ('lisa', 'NN'), ('becam', 'VB'), ('ravenclaw', 'NN'), ('ron', 'NN'), ('turn', 'NN')]
+0.48331225268
+Sentence 1: [('perhap', 'RB'), ("harry'", 'NN'), ('imagin', 'NN'), ('heard', 'VB'), ('slytherin', 'NN'), ('thought', 'VB'), ('look', 'VB'), ('unpleas', 'JJ'), ('lot', 'NN')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.719676318125
+Sentence 1: [('rememb', 'VB'), ('pick', 'VB'), ('team', 'NN'), ('gym', 'NN'), ('old', 'JJ'), ('school', 'NN')]
+Sentence 2: [('older', 'JJ'), ('student', 'NN'), ('well', 'RB'), ('rememb', 'VB'), ('well', 'RB')]
+0.154303349962
+Sentence 1: [('alway', 'RB'), ('last', 'JJ'), ('chosen', 'VB'), ('good', 'JJ'), ('one', 'NN'), ('want', 'VB'), ('dudley', 'NN'), ('think', 'VB'), ('like', 'VB')]
+Sentence 2: [('dudley', 'NN'), ('alway', 'RB'), ('taken', 'VB'), ('anyth', 'NN'), ('harri', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('even', 'RB'), ('made', 'VB'), ('sick', 'VB')]
+0.316227766017
+Sentence 1: [('sometim', 'NN'), ('harri', 'NN'), ('notic', 'VB'), ('hat', 'NN'), ('shout', 'VB'), ('hous', 'NN'), ('other', 'NN'), ('took', 'VB'), ('littl', 'JJ'), ('decid', 'VB')]
+Sentence 2: [('hat', 'NN'), ('took', 'VB'), ('long', 'JJ'), ('time', 'NN'), ('decid', 'VB'), ('nevil', 'NN')]
+0.387298334621
+Sentence 1: [('finnigan', 'NN'), ('seamu', 'NN'), ('sandy-hair', 'JJ'), ('boy', 'NN'), ('harri', 'NN'), ('line', 'NN'), ('sat', 'VB'), ('stool', 'NN'), ('almost', 'RB'), ('whole', 'JJ'), ('minut', 'NN'), ('hat', 'NN'), ('declar', 'VB'), ('gryffindor', 'NN')]
+Sentence 2: [('well', 'RB'), ('sure', 'VB'), ('better', 'JJ'), ('gryffindor', 'NN'), ('harri', 'NN'), ('heard', 'VB'), ('hat', 'NN'), ('shout', 'VB'), ('last', 'JJ'), ('word', 'NN'), ('whole', 'JJ'), ('hall', 'NN')]
+0.572077553547
+Sentence 1: [('granger', 'NN'), ('hermion', 'NN'), ('hermion', 'NN'), ('almost', 'RB'), ('ran', 'VB'), ('stool', 'NN'), ('jam', 'VB'), ('eagerli', 'RB'), ('head', 'NN')]
+Sentence 2: [('one', 'NN'), ('talk', 'VB'), ('much', 'JJ'), ('hermion', 'NN'), ('granger', 'NN'), ('whisper', 'VB'), ('fast', 'RB'), ('spell', 'NN'), ('learn', 'VB'), ('wonder', 'VB'), ('need', 'VB')]
+0.272727272727
+Sentence 1: [('horribl', 'JJ'), ('thought', 'JJ'), ('struck', 'NN'), ('harri', 'NN'), ('horribl', 'JJ'), ('thought', 'NN'), ('alway', 'RB'), ('nervou', 'JJ')]
+Sentence 2: [('harri', 'NN'), ('heart', 'NN'), ('gave', 'VB'), ('horribl', 'JJ'), ('jolt', 'NN')]
+0.424264068712
+Sentence 1: [('sat', 'VB'), ('hat', 'NN'), ('eye', 'NN'), ('age', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('jerk', 'VB'), ('head', 'NN'), ('said', 'VB'), ('obvious', 'RB'), ('mistak', 'NN'), ('better', 'JJ'), ('get', 'VB'), ('back', 'RB'), ('train', 'NN')]
+Sentence 2: [('return', 'VB'), ('readi', 'JJ'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+0.346410161514
+Sentence 1: [('nevil', 'NN'), ('longbottom', 'NN'), ('boy', 'NN'), ('kept', 'VB'), ('lose', 'VB'), ('toad', 'NN'), ('call', 'VB'), ('fell', 'VB'), ('way', 'NN'), ('stool', 'NN')]
+Sentence 2: [('call', 'VB'), ('name', 'NN'), ('put', 'VB'), ('hat', 'NN'), ('sit', 'NN'), ('stool', 'NN'), ('sort', 'VB'), ('said', 'VB')]
+0.22360679775
+Sentence 1: [('hat', 'NN'), ('took', 'VB'), ('long', 'JJ'), ('time', 'NN'), ('decid', 'VB'), ('nevil', 'NN')]
+Sentence 2: [('sometim', 'NN'), ('harri', 'NN'), ('notic', 'VB'), ('hat', 'NN'), ('shout', 'VB'), ('hous', 'NN'), ('other', 'NN'), ('took', 'VB'), ('littl', 'JJ'), ('decid', 'VB')]
+0.387298334621
+Sentence 1: [('final', 'RB'), ('shout', 'VB'), ('gryffindor', 'NN'), ('nevil', 'NN'), ('ran', 'VB'), ('still', 'RB'), ('wear', 'VB'), ('jog', 'VB'), ('back', 'RB'), ('gale', 'NN'), ('laughter', 'NN'), ('give', 'VB'), ('macdoug', 'NN'), ('morag', 'NN')]
+Sentence 2: [('gryffindor', 'NN'), ('never', 'RB'), ('gone', 'VB'), ('long', 'RB'), ('win', 'VB')]
+0.53218115639
+Sentence 1: [('malfoy', 'NN'), ('swagger', 'VB'), ('forward', 'RB'), ('name', 'NN'), ('call', 'VB'), ('got', 'VB'), ('wish', 'NN'), ('hat', 'NN'), ('bare', 'RB'), ('touch', 'VB'), ('head', 'NN'), ('scream', 'VB'), ('slytherin', 'NN'), ('malfoy', 'NN'), ('went', 'VB'), ('join', 'VB'), ('friend', 'NN'), ('crabb', 'NN'), ('goyl', 'NN'), ('look', 'VB'), ('pleas', 'JJ')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.504893442108
+Sentence 1: [('moon', 'NN'), ('nott', 'NN'), ('parkinson', 'NN'), ('pair', 'NN'), ('twin', 'JJ'), ('girl', 'NN'), ('patil', 'NN'), ('patil', 'NN'), ('perk', 'VB'), ('sally-ann', 'NN'), ('last', 'JJ'), ('potter', 'NN'), ('harri', 'NN'), ('harri', 'NN'), ('step', 'VB'), ('forward', 'RB'), ('whisper', 'NN'), ('suddenli', 'RB'), ('broke', 'VB'), ('littl', 'JJ'), ('hiss', 'JJ'), ('fire', 'NN'), ('hall', 'NN')]
+Sentence 2: [('feel', 'VB'), ('oddli', 'RB'), ('leg', 'NN'), ('turn', 'VB'), ('lead', 'VB'), ('harri', 'NN'), ('got', 'VB'), ('line', 'NN'), ('boy', 'NN'), ('sandi', 'JJ'), ('hair', 'NN'), ('ron', 'NN'), ('walk', 'VB'), ('chamber', 'NN'), ('back', 'RB'), ('hall', 'NN'), ('pair', 'NN'), ('doubl', 'JJ'), ('door', 'NN'), ('great', 'NN'), ('hall', 'NN')]
+0.200643088476
+Sentence 1: [('last', 'JJ'), ('thing', 'NN'), ('harri', 'NN'), ('saw', 'VB'), ('hat', 'NN'), ('drop', 'VB'), ('eye', 'NN'), ('hall', 'JJ'), ('full', 'JJ'), ('peopl', 'NN'), ('crane', 'VB'), ('get', 'VB'), ('good', 'JJ'), ('look', 'NN')]
+Sentence 2: [('mayb', 'RB'), ('tri', 'VB'), ('get', 'VB'), ('rabbit', 'NN'), ('harri', 'NN'), ('thought', 'VB'), ('wildli', 'RB'), ('seem', 'VB'), ('sort', 'NN'), ('thing', 'NN'), ('notic', 'NN'), ('everyon', 'NN'), ('hall', 'NN'), ('stare', 'VB'), ('hat', 'NN'), ('stare', 'VB')]
+0.251976315339
+Sentence 1: [('next', 'JJ'), ('second', 'NN'), ('look', 'VB'), ('black', 'JJ'), ('insid', 'NN'), ('hat', 'NN')]
+Sentence 2: [('keep', 'VB'), ('bowler', 'NN'), ('black', 'JJ'), ('top', 'NN'), ('hat', 'NN'), ('sleek', 'VB'), ('tall', 'VB'), ('hogwart', 'NN'), ('sort', 'NN'), ('hat', 'NN'), ('cap', 'VB')]
+0.267261241912
+Sentence 1: [('hmm', 'NN'), ('said', 'VB'), ('small', 'JJ'), ('voic', 'NN'), ('ear', 'NN')]
+Sentence 2: [('move', 'NN'), ('along', 'RB'), ('said', 'VB'), ('sharp', 'JJ'), ('voic', 'NN')]
+0.4
+Sentence 1: [('talent', 'NN'), ('good', 'NN'), ('ye', 'RB'), ('nice', 'JJ'), ('thirst', 'NN'), ('prove', 'VB'), ('interest', 'VB')]
+Sentence 2: [('chapter', 'NN'), ('seven', 'NN'), ('sort', 'NN'), ('hat', 'NN'), ('door', 'NN'), ('swung', 'NN'), ('open', 'JJ')]
+0.0
+Sentence 1: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+Sentence 2: [('slytherin', 'NN'), ('got', 'VB'), ('cup', 'NN'), ('year', 'NN'), ('row', 'NN')]
+0.779666547284
+Sentence 1: [('great', 'JJ'), ('know', 'VB'), ('head', 'NN'), ('slytherin', 'NN'), ('help', 'VB'), ('way', 'NN'), ('great', 'VB'), ('doubt', 'NN')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.702781928499
+Sentence 1: [('well', 'RB'), ('sure', 'VB'), ('better', 'JJ'), ('gryffindor', 'NN'), ('harri', 'NN'), ('heard', 'VB'), ('hat', 'NN'), ('shout', 'VB'), ('last', 'JJ'), ('word', 'NN'), ('whole', 'JJ'), ('hall', 'NN')]
+Sentence 2: [('took', 'VB'), ('hat', 'NN'), ('walk', 'VB'), ('shakili', 'RB'), ('gryffindor', 'NN'), ('tabl', 'NN')]
+0.597614304667
+Sentence 1: [('took', 'VB'), ('hat', 'NN'), ('walk', 'VB'), ('shakili', 'RB'), ('gryffindor', 'NN'), ('tabl', 'NN')]
+Sentence 2: [('gryffindor', 'NN'), ('never', 'RB'), ('gone', 'VB'), ('long', 'RB'), ('win', 'VB')]
+0.667124384995
+Sentence 1: [('reliev', 'VB'), ('chosen', 'VB'), ('put', 'VB'), ('slytherin', 'NN'), ('hardli', 'RB'), ('notic', 'VB'), ('get', 'VB'), ('loudest', 'JJ'), ('cheer', 'NN'), ('yet', 'RB')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.662589156449
+Sentence 1: [('perci', 'VB'), ('prefect', 'NN'), ('got', 'VB'), ('shook', 'VB'), ('hand', 'NN'), ('vigor', 'RB'), ('weasley', 'NN'), ('twin', 'NN'), ('yell', 'VB'), ('got', 'VB'), ('potter', 'NN')]
+Sentence 2: [('got', 'VB'), ('potter', 'NN'), ('harri', 'NN'), ('sat', 'VB'), ('opposit', 'RB'), ('ghost', 'NN'), ('ruff', 'NN'), ('seen', 'VB'), ('earlier', 'RB')]
+0.277350098113
+Sentence 1: [('got', 'VB'), ('potter', 'NN'), ('harri', 'NN'), ('sat', 'VB'), ('opposit', 'RB'), ('ghost', 'NN'), ('ruff', 'NN'), ('seen', 'VB'), ('earlier', 'RB')]
+Sentence 2: [('look', 'VB'), ('good', 'JJ'), ('said', 'VB'), ('ghost', 'NN'), ('ruff', 'NN'), ('sadli', 'RB'), ('watch', 'VB'), ('harri', 'NN'), ('cut', 'VB'), ('steak', 'NN'), ('Ca', 'NN'), ("n't", 'RB')]
+0.288675134595
+Sentence 1: [('ghost', 'NN'), ('pat', 'VB'), ('arm', 'NN'), ('give', 'VB'), ('harri', 'NN'), ('sudden', 'JJ'), ('horribl', 'JJ'), ('feel', 'NN'), ('plung', 'VB'), ('bucket', 'NN'), ('ice-cold', 'JJ'), ('water', 'NN')]
+Sentence 2: [('harder', 'JJ'), ('shake', 'VB'), ('feel', 'NN'), ('harri', 'NN'), ('gotten', 'VB'), ('teacher', 'NN'), ('look', 'VB'), ('feel', 'NN'), ("n't", 'RB'), ('like', 'VB'), ('harri', 'NN')]
+0.298142397
+Sentence 1: [('end', 'NN'), ('nearest', 'JJ'), ('sat', 'JJ'), ('hagrid', 'NN'), ('caught', 'VB'), ('eye', 'NN'), ('gave', 'VB'), ('thumb', 'NN')]
+Sentence 2: [('dumbledor', 'RB'), ('gave', 'VB'), ('wand', 'NN'), ('littl', 'JJ'), ('flick', 'NN'), ('tri', 'VB'), ('get', 'VB'), ('fli', 'NN'), ('end', 'NN'), ('long', 'JJ'), ('golden', 'JJ'), ('ribbon', 'NN'), ('flew', 'VB'), ('rose', 'VB'), ('high', 'JJ'), ('tabl', 'NN'), ('twist', 'VB'), ('snakelik', 'VB'), ('word', 'NN')]
+0.162221421131
+Sentence 1: [('center', 'NN'), ('high', 'NN'), ('tabl', 'NN'), ('larg', 'JJ'), ('gold', 'NN'), ('chair', 'NN'), ('sat', 'VB'), ('albu', 'NN'), ('dumbledor', 'NN')]
+Sentence 2: [('harri', 'NN'), ('start', 'VB'), ('feel', 'VB'), ('warm', 'JJ'), ('sleepi', 'NN'), ('look', 'VB'), ('high', 'NN'), ('tabl', 'NN')]
+0.235702260396
+Sentence 1: [('harri', 'NN'), ('recogn', 'VB'), ('card', 'NN'), ("he'd", 'NN'), ('gotten', 'VB'), ('chocol', 'NN'), ('frog', 'NN'), ('train', 'NN')]
+Sentence 2: [('harder', 'JJ'), ('shake', 'VB'), ('feel', 'NN'), ('harri', 'NN'), ('gotten', 'VB'), ('teacher', 'NN'), ('look', 'VB'), ('feel', 'NN'), ("n't", 'RB'), ('like', 'VB'), ('harri', 'NN')]
+0.273861278753
+Sentence 1: [('dumbledor', 'NN'), ('silver', 'NN'), ('hair', 'NN'), ('thing', 'NN'), ('whole', 'JJ'), ('hall', 'NN'), ('shone', 'NN'), ('brightli', 'RB'), ('ghost', 'NN')]
+Sentence 2: [('dot', 'VB'), ('student', 'NN'), ('ghost', 'NN'), ('shone', 'VB'), ('misti', 'JJ'), ('silver', 'NN')]
+0.272165526976
+Sentence 1: [('harri', 'NN'), ('spot', 'VB'), ('professor', 'NN'), ('quirtel', 'NN'), ('nervou', 'JJ'), ('young', 'JJ'), ('man', 'NN'), ('leaki', 'NN'), ('cauldron', 'NN')]
+Sentence 2: [('wonder', 'NN'), ('look', 'VB'), ('nervou', 'JJ'), ('professor', 'NN'), ('snape', 'NN')]
+0.298142397
+Sentence 1: [('look', 'VB'), ('peculiar', 'RB'), ('larg', 'JJ'), ('purpl', 'JJ'), ('turban', 'NN')]
+Sentence 2: [('look', 'VB'), ('around', 'RB'), ('anxious', 'RB'), ('saw', 'VB'), ('everyon', 'NN'), ('els', 'RB'), ('look', 'VB'), ('terrifi', 'VB')]
+0.282842712475
+Sentence 1: [('thoma', 'NN'), ('dean', 'NN'), ('black', 'NN'), ('boy', 'NN'), ('even', 'RB'), ('taller', 'JJ'), ('ron', 'NN'), ('join', 'VB'), ('harri', 'NN'), ('gryffindor', 'NN'), ('tabl', 'NN')]
+Sentence 2: [('took', 'VB'), ('hat', 'NN'), ('walk', 'VB'), ('shakili', 'RB'), ('gryffindor', 'NN'), ('tabl', 'NN')]
+0.613139339485
+Sentence 1: [('turpin', 'NN'), ('lisa', 'NN'), ('becam', 'VB'), ('ravenclaw', 'NN'), ('ron', 'NN'), ('turn', 'NN')]
+Sentence 2: [('boot', 'NN'), ('terri', 'NN'), ('ravenclaw', 'NN'), ('tabl', 'JJ'), ('second', 'NN'), ('left', 'NN'), ('clap', 'VB'), ('time', 'NN'), ('sever', 'JJ'), ('ravenclaw', 'NN'), ('stood', 'VB'), ('shake', 'VB'), ('hand', 'NN'), ('terri', 'NN'), ('join', 'VB'), ('them.', 'NN')]
+0.667124384995
+Sentence 1: [('harri', 'NN'), ('cross', 'VB'), ('finger', 'NN'), ('tabl', 'NN'), ('second', 'JJ'), ('later', 'RB'), ('hat', 'NN'), ('shout', 'VB'), ('gryffindor', 'NN'), ('harri', 'NN'), ('clap', 'VB'), ('loudli', 'RB'), ('rest', 'NN'), ('ron', 'NN'), ('collaps', 'VB'), ('chair', 'NN'), ('next', 'JJ')]
+Sentence 2: [('thoma', 'NN'), ('dean', 'NN'), ('black', 'NN'), ('boy', 'NN'), ('even', 'RB'), ('taller', 'JJ'), ('ron', 'NN'), ('join', 'VB'), ('harri', 'NN'), ('gryffindor', 'NN'), ('tabl', 'NN')]
+0.573964021395
+Sentence 1: [('well', 'RB'), ('done', 'VB'), ('ron', 'NN'), ('excel', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('weasley', 'NN'), ('pompous', 'NN'), ('across', 'VB'), ('harri', 'NN'), ('zabini', 'NN'), ('blais', 'NN'), ('made', 'VB'), ('slytherin', 'NN')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.632630800301
+Sentence 1: [('professor', 'NN'), ('mcgonagal', 'NN'), ('roll', 'VB'), ('scroll', 'NN'), ('took', 'VB'), ('sort', 'NN'), ('hat', 'NN'), ('away', 'RB')]
+Sentence 2: [('professor', 'NN'), ('mcgonagal', 'NN'), ('talk', 'VB'), ('professor', 'NN'), ('dumbledor', 'NN')]
+0.400891862869
+Sentence 1: [('harri', 'NN'), ('look', 'VB'), ('empti', 'JJ'), ('gold', 'NN'), ('plate', 'NN')]
+Sentence 2: [('harder', 'JJ'), ('shake', 'VB'), ('feel', 'NN'), ('harri', 'NN'), ('gotten', 'VB'), ('teacher', 'NN'), ('look', 'VB'), ('feel', 'NN'), ("n't", 'RB'), ('like', 'VB'), ('harri', 'NN')]
+0.346410161514
+Sentence 1: [('pumpkin', 'NN'), ('pasti', 'NN'), ('seem', 'VB'), ('age', 'NN'), ('ago', 'RB')]
+Sentence 2: [('hat', 'NN'), ('seem', 'VB'), ('ask', 'VB'), ('rather', 'RB'), ('alot', 'NN'), ('harri', 'NN'), ("n't", 'RB'), ('feel', 'VB'), ('brave', 'VB'), ('quick-wit', 'JJ'), ('moment', 'NN')]
+0.134839972493
+Sentence 1: [('beam', 'VB'), ('student', 'NN'), ('arm', 'NN'), ('open', 'VB'), ('wide', 'JJ'), ('noth', 'NN'), ('pleas', 'VB'), ('see', 'VB')]
+Sentence 2: [('noth', 'NN'), ('hidden', 'NN'), ('head', 'NN'), ('sort', 'VB'), ('hat', 'NN'), ("n't", 'RB'), ('see', 'VB'), ('tri', 'VB'), ('tell', 'VB')]
+0.235702260396
+Sentence 1: [('begin', 'VB'), ('banquet', 'NN'), ('like', 'VB'), ('say', 'VB'), ('word', 'NN')]
+Sentence 2: [('start-of-term', 'JJ'), ('banquet', 'NN'), ('begin', 'VB'), ('shortli', 'RB'), ('take', 'VB'), ('seat', 'NN'), ('great', 'NN'), ('hall', 'NN'), ('sort', 'VB'), ('hous', 'NN')]
+0.282842712475
+Sentence 1: [('never', 'RB'), ('seen', 'VB'), ('mani', 'JJ'), ('thing', 'NN'), ('like', 'VB'), ('eat', 'VB'), ('tabl', 'NN'), ('roast', 'NN'), ('beef', 'NN'), ('roast', 'NN'), ('chicken', 'NN'), ('pork', 'NN'), ('chop', 'NN'), ('lamb', 'JJ'), ('chop', 'NN'), ('sausag', 'NN'), ('bacon', 'VB'), ('steak', 'VB'), ('boil', 'VB'), ('potato', 'NN'), ('roast', 'VB'), ('potato', 'NN'), ('fri', 'NN'), ('yorkshir', 'VB'), ('pud', 'VB'), ('pea', 'NN'), ('carrot', 'NN'), ('gravi', 'VB'), ('ketchup', 'NN'), ('strang', 'JJ'), ('reason', 'NN'), ('peppermint', 'NN'), ('humbug', 'NN')]
+Sentence 2: [('dursley', 'NN'), ('never', 'RB'), ('exactli', 'RB'), ('starv', 'VB'), ('harri', 'NN'), ('never', 'RB'), ('allow', 'VB'), ('eat', 'VB'), ('much', 'RB'), ('like', 'VB')]
+0.184900065408
+Sentence 1: [('dursley', 'NN'), ('never', 'RB'), ('exactli', 'RB'), ('starv', 'VB'), ('harri', 'NN'), ('never', 'RB'), ('allow', 'VB'), ('eat', 'VB'), ('much', 'RB'), ('like', 'VB')]
+Sentence 2: [('never', 'RB'), ('nervou', 'JJ'), ('never', 'RB'), ('even', 'RB'), ('take', 'VB'), ('school', 'NN'), ('report', 'NN'), ('home', 'NN'), ('dursley', 'NN'), ('say', 'VB'), ('somehow', 'RB'), ('turn', 'VB'), ('teacher', 'NN'), ('wig', 'NN'), ('blue', 'NN')]
+0.350070021007
+Sentence 1: [('dudley', 'NN'), ('alway', 'RB'), ('taken', 'VB'), ('anyth', 'NN'), ('harri', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('even', 'RB'), ('made', 'VB'), ('sick', 'VB')]
+Sentence 2: [('alway', 'RB'), ('last', 'JJ'), ('chosen', 'VB'), ('good', 'JJ'), ('one', 'NN'), ('want', 'VB'), ('dudley', 'NN'), ('think', 'VB'), ('like', 'VB')]
+0.316227766017
+Sentence 1: [('harri', 'NN'), ('pile', 'VB'), ('plate', 'NN'), ('bit', 'NN'), ('everyth', 'NN'), ('peppermint', 'NN'), ('began', 'VB'), ('eat', 'VB')]
+Sentence 2: [('harri', 'NN'), ('look', 'VB'), ('empti', 'JJ'), ('gold', 'NN'), ('plate', 'NN')]
+0.316227766017
+Sentence 1: [('look', 'VB'), ('good', 'JJ'), ('said', 'VB'), ('ghost', 'NN'), ('ruff', 'NN'), ('sadli', 'RB'), ('watch', 'VB'), ('harri', 'NN'), ('cut', 'VB'), ('steak', 'NN'), ('Ca', 'NN'), ("n't", 'RB')]
+Sentence 2: [('harri', 'NN'), ('watch', 'VB'), ('snape', 'NN'), ('snape', 'NN'), ("n't", 'RB'), ('look', 'VB')]
+0.408248290464
+Sentence 1: [("n't", 'RB'), ('eaten', 'VB'), ('nearli', 'RB'), ('year', 'NN'), ('said', 'VB'), ('ghost', 'NN')]
+Sentence 2: [('look', 'VB'), ('good', 'JJ'), ('said', 'VB'), ('ghost', 'NN'), ('ruff', 'NN'), ('sadli', 'RB'), ('watch', 'VB'), ('harri', 'NN'), ('cut', 'VB'), ('steak', 'NN'), ('Ca', 'NN'), ("n't", 'RB')]
+0.353553390593
+Sentence 1: [('brother', 'NN'), ('told', 'VB'), ('nearli', 'RB'), ('headless', 'NN'), ('nick', 'NN'), ('prefer', 'VB'), ('call', 'VB'), ('sir', 'NN'), ('nichola', 'NN'), ('mimsi', 'NN'), ('ghost', 'NN'), ('began', 'VB'), ('stiffli', 'JJ'), ('sandy-hair', 'JJ'), ('seamu', 'NN'), ('finnigan', 'NN'), ('interrupt', 'VB')]
+Sentence 2: [("n't", 'RB'), ('eaten', 'VB'), ('nearli', 'RB'), ('year', 'NN'), ('said', 'VB'), ('ghost', 'NN')]
+0.198029508595
+Sentence 1: [('sir', 'NN'), ('nichola', 'NN'), ('look', 'VB'), ('extrem', 'RB'), ('mif', 'VB'), ('littl', 'JJ'), ('go', 'VB'), ('way', 'NN'), ('want', 'VB')]
+Sentence 2: [('look', 'VB'), ('around', 'RB'), ('anxious', 'RB'), ('saw', 'VB'), ('everyon', 'NN'), ('els', 'RB'), ('look', 'VB'), ('terrifi', 'VB')]
+0.210818510678
+Sentence 1: [('whole', 'JJ'), ('head', 'NN'), ('swung', 'VB'), ('neck', 'NN'), ('fell', 'VB'), ('shoulder', 'NN'), ('hing', 'NN')]
+Sentence 2: [('ouch', 'JJ'), ('harri', 'NN'), ('clap', 'VB'), ('hand', 'NN'), ('head', 'NN')]
+0.169030850946
+Sentence 1: [('someon', 'NN'), ('obvious', 'RB'), ('tri', 'VB'), ('behead', 'VB'), ('done', 'VB'), ('properli', 'RB')]
+Sentence 2: [('tri', 'VB'), ('hat', 'NN'), ('lot', 'NN'), ('better', 'JJ'), ('spell', 'NN'), ('wish', 'VB'), ('tri', 'VB'), ('everyon', 'NN'), ('watch', 'NN')]
+0.246182981959
+Sentence 1: [('look', 'VB'), ('pleas', 'VB'), ('stun', 'JJ'), ('look', 'NN'), ('face', 'VB'), ('nearli', 'RB'), ('headless', 'NN'), ('nick', 'NN'), ('flip', 'VB'), ('head', 'NN'), ('back', 'RB'), ('neck', 'NN'), ('cough', 'VB'), ('said', 'VB'), ('new', 'JJ'), ('gryffindor', 'NN')]
+Sentence 2: [('gryffindor', 'NN'), ('never', 'RB'), ('gone', 'VB'), ('long', 'RB'), ('win', 'VB')]
+0.509524665365
+Sentence 1: [('hope', 'VB'), ('go', 'VB'), ('help', 'VB'), ('win', 'VB'), ('hous', 'NN'), ('championship', 'NN'), ('year', 'NN')]
+Sentence 2: [('end', 'NN'), ('year', 'NN'), ('hous', 'NN'), ('point', 'NN'), ('award', 'VB'), ('hous', 'NN'), ('cup', 'VB'), ('great', 'JJ'), ('honor', 'NN')]
+0.341881729379
+Sentence 1: [('gryffindor', 'NN'), ('never', 'RB'), ('gone', 'VB'), ('long', 'RB'), ('win', 'VB')]
+Sentence 2: [('took', 'VB'), ('hat', 'NN'), ('walk', 'VB'), ('shakili', 'RB'), ('gryffindor', 'NN'), ('tabl', 'NN')]
+0.667124384995
+Sentence 1: [('slytherin', 'NN'), ('got', 'VB'), ('cup', 'NN'), ('year', 'NN'), ('row', 'NN')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.779666547284
+Sentence 1: [('bloodi', 'NN'), ('baron', 'NN'), ('becom', 'VB'), ('almost', 'RB'), ('unbear', 'JJ'), ('slytherin', 'NN'), ('ghost', 'NN')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.725830054691
+Sentence 1: [('harri', 'NN'), ('look', 'VB'), ('slytherin', 'NN'), ('tabl', 'NN'), ('saw', 'VB'), ('horribl', 'JJ'), ('ghost', 'NN'), ('sit', 'VB'), ('blank', 'JJ'), ('stare', 'VB'), ('eye', 'NN'), ('gaunt', 'NN'), ('face', 'NN'), ('robe', 'NN'), ('stain', 'VB'), ('silver', 'NN'), ('blood', 'NN')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.593460295177
+Sentence 1: [('right', 'JJ'), ('next', 'JJ'), ('malfoy', 'NN'), ('harri', 'NN'), ('pleas', 'JJ'), ('see', 'VB'), ("n't", 'RB'), ('look', 'VB'), ('pleas', 'JJ'), ('seat', 'NN'), ('arrang', 'NN')]
+Sentence 2: [('harri', 'NN'), ('watch', 'VB'), ('snape', 'NN'), ('snape', 'NN'), ("n't", 'RB'), ('look', 'VB')]
+0.294174202707
+Sentence 1: [('never', 'RB'), ('ask', 'VB'), ('said', 'VB'), ('nearli', 'NN'), ('headless', 'NN'), ('nick', 'NN'), ('delic', 'RB')]
+Sentence 2: [('look', 'VB'), ('pleas', 'VB'), ('stun', 'JJ'), ('look', 'NN'), ('face', 'VB'), ('nearli', 'RB'), ('headless', 'NN'), ('nick', 'NN'), ('flip', 'VB'), ('head', 'NN'), ('back', 'RB'), ('neck', 'NN'), ('cough', 'VB'), ('said', 'VB'), ('new', 'JJ'), ('gryffindor', 'NN')]
+0.231455024943
+Sentence 1: [('everyon', 'NN'), ('eaten', 'VB'), ('much', 'JJ'), ('remain', 'NN'), ('food', 'NN'), ('fade', 'VB'), ('plate', 'NN'), ('leav', 'VB'), ('sparkl', 'VB'), ('clean', 'JJ')]
+Sentence 2: [('perhap', 'RB'), ('harri', 'NN'), ('eaten', 'VB'), ('bit', 'RB'), ('much', 'JJ'), ('strang', 'JJ'), ('dream', 'NN')]
+0.239045721867
+Sentence 1: [('block', 'NN'), ('ice', 'NN'), ('cream', 'NN'), ('flavor', 'NN'), ('think', 'VB'), ('appl', 'NN'), ('pie', 'NN'), ('treacl', 'VB'), ('tart', 'NN'), ('chocol', 'VB'), ('eclair', 'NN'), ('jam', 'NN'), ('doughnut', 'NN'), ('trifl', 'JJ'), ('strawberri', 'NN'), ('jell-o', 'NN'), ('rice', 'NN'), ('pud', 'NN'), ('harri', 'NN'), ('help', 'VB'), ('treacl', 'NN'), ('talk', 'NN'), ('turn', 'VB'), ('famili', 'NN')]
+Sentence 2: [('harri', 'NN'), ('go', 'VB'), ('ask', 'VB'), ('ron', 'NN'), ('treacl', 'NN'), ('tart', 'NN'), ('fell', 'VB'), ('asleep', 'RB'), ('almost', 'RB')]
+0.204124145232
+Sentence 1: [('mom', 'NN'), ("n't", 'RB'), ('tell', 'VB'), ('witch', 'NN'), ('marri', 'VB')]
+Sentence 2: [('noth', 'NN'), ('hidden', 'NN'), ('head', 'NN'), ('sort', 'VB'), ('hat', 'NN'), ("n't", 'RB'), ('see', 'VB'), ('tri', 'VB'), ('tell', 'VB')]
+0.298142397
+Sentence 1: [('well', 'RB'), ('gran', 'NN'), ('brought', 'VB'), ('witch', 'NN'), ('said', 'VB'), ('nevil', 'NN'), ('famili', 'NN'), ('thought', 'VB'), ('all-', 'JJ'), ('muggl', 'NN'), ('age', 'NN')]
+Sentence 2: [('older', 'JJ'), ('student', 'NN'), ('well', 'RB'), ('rememb', 'VB'), ('well', 'RB')]
+0.227921152919
+Sentence 1: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('kept', 'VB'), ('tri', 'VB'), ('catch', 'VB'), ('guard', 'NN'), ('forc', 'VB'), ('magic', 'JJ'), ('push', 'VB'), ('end', 'NN'), ('blackpool', 'NN'), ('pier', 'NN'), ('nearli', 'RB'), ('drown', 'VB'), ('noth', 'NN'), ('happen', 'VB')]
+Sentence 2: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('pleas', 'JJ'), ('bought', 'VB'), ('toad', 'NN')]
+0.297044262893
+Sentence 1: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('came', 'VB'), ('round', 'NN'), ('dinner', 'NN'), ('hang', 'VB'), ('upstair', 'JJ'), ('window', 'NN'), ('ankl', 'NN'), ('great', 'NN'), ('aunti', 'NN'), ('enid', 'NN'), ('offer', 'VB'), ('meringu', 'NN'), ('accident', 'RB'), ('let', 'VB'), ('go', 'VB')]
+Sentence 2: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('pleas', 'JJ'), ('bought', 'VB'), ('toad', 'NN')]
+0.36514837167
+Sentence 1: [('realli', 'RB'), ('pleas', 'JJ'), ('gran', 'NN'), ('cri', 'VB'), ('happi', 'JJ')]
+Sentence 2: [('right', 'JJ'), ('next', 'JJ'), ('malfoy', 'NN'), ('harri', 'NN'), ('pleas', 'JJ'), ('see', 'VB'), ("n't", 'RB'), ('look', 'VB'), ('pleas', 'JJ'), ('seat', 'NN'), ('arrang', 'NN')]
+0.248069469178
+Sentence 1: [('seen', 'VB'), ('face', 'VB'), ('got', 'VB'), ('thought', 'VB'), ('magic', 'JJ'), ('enough', 'RB'), ('come', 'VB'), ('see', 'VB')]
+Sentence 2: [('got', 'VB'), ('potter', 'NN'), ('harri', 'NN'), ('sat', 'VB'), ('opposit', 'RB'), ('ghost', 'NN'), ('ruff', 'NN'), ('seen', 'VB'), ('earlier', 'RB')]
+0.235702260396
+Sentence 1: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('pleas', 'JJ'), ('bought', 'VB'), ('toad', 'NN')]
+Sentence 2: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('came', 'VB'), ('round', 'NN'), ('dinner', 'NN'), ('hang', 'VB'), ('upstair', 'JJ'), ('window', 'NN'), ('ankl', 'NN'), ('great', 'NN'), ('aunti', 'NN'), ('enid', 'NN'), ('offer', 'VB'), ('meringu', 'NN'), ('accident', 'RB'), ('let', 'VB'), ('go', 'VB')]
+0.36514837167
+Sentence 1: [('harri', 'NN'), ('side', 'NN'), ('perci', 'NN'), ('weasley', 'NN'), ('hermion', 'NN'), ('talk', 'VB'), ('lesson', 'NN'), ('hope', 'RB'), ('start', 'VB'), ('right', 'JJ'), ('away', 'RB'), ('much', 'JJ'), ('learn', 'VB'), ("i'm", 'NN'), ('particularli', 'RB'), ('interest', 'JJ'), ('transfigur', 'NN'), ('know', 'VB'), ('turn', 'VB'), ('someth', 'NN'), ('someth', 'NN'), ('els', 'RB'), ('cours', 'NN'), ('suppos', 'VB'), ('difficult-', 'JJ'), ('start', 'VB'), ('small', 'JJ'), ('match', 'NN'), ('needl', 'NN'), ('sort', 'NN'), ('thing', 'NN')]
+Sentence 2: [('one', 'NN'), ('talk', 'VB'), ('much', 'JJ'), ('hermion', 'NN'), ('granger', 'NN'), ('whisper', 'VB'), ('fast', 'RB'), ('spell', 'NN'), ('learn', 'VB'), ('wonder', 'VB'), ('need', 'VB')]
+0.203858876575
+Sentence 1: [('harri', 'NN'), ('start', 'VB'), ('feel', 'VB'), ('warm', 'JJ'), ('sleepi', 'NN'), ('look', 'VB'), ('high', 'NN'), ('tabl', 'NN')]
+Sentence 2: [('harri', 'NN'), ('look', 'VB'), ('empti', 'JJ'), ('gold', 'NN'), ('plate', 'NN')]
+0.316227766017
+Sentence 1: [('professor', 'NN'), ('mcgonagal', 'NN'), ('talk', 'VB'), ('professor', 'NN'), ('dumbledor', 'NN')]
+Sentence 2: [('return', 'VB'), ('readi', 'JJ'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+0.507092552837
+Sentence 1: [('professor', 'NN'), ('quirrel', 'NN'), ('absurd', 'JJ'), ('turban', 'NN'), ('talk', 'VB'), ('teacher', 'NN'), ('greasi', 'JJ'), ('black', 'JJ'), ('hair', 'NN'), ('hook', 'JJ'), ('nose', 'NN'), ('sallow', 'JJ'), ('skin', 'NN')]
+Sentence 2: [('professor', 'NN'), ('mcgonagal', 'NN'), ('talk', 'VB'), ('professor', 'NN'), ('dumbledor', 'NN')]
+0.314485451017
+Sentence 1: [('hook-nos', 'JJ'), ('teacher', 'NN'), ('look', 'VB'), ('past', 'JJ'), ("quirrell'", 'NN'), ('turban', 'NN'), ('straight', 'VB'), ('harri', 'NN'), ('eye', 'NN'), ('sharp', 'JJ'), ('hot', 'JJ'), ('pain', 'NN'), ('shot', 'NN'), ('scar', 'NN'), ('harri', 'NN'), ('forehead', 'NN')]
+Sentence 2: [('harder', 'JJ'), ('shake', 'VB'), ('feel', 'NN'), ('harri', 'NN'), ('gotten', 'VB'), ('teacher', 'NN'), ('look', 'VB'), ('feel', 'NN'), ("n't", 'RB'), ('like', 'VB'), ('harri', 'NN')]
+0.36514837167
+Sentence 1: [('ouch', 'JJ'), ('harri', 'NN'), ('clap', 'VB'), ('hand', 'NN'), ('head', 'NN')]
+Sentence 2: [('harri', 'NN'), ('cross', 'VB'), ('finger', 'NN'), ('tabl', 'NN'), ('second', 'JJ'), ('later', 'RB'), ('hat', 'NN'), ('shout', 'VB'), ('gryffindor', 'NN'), ('harri', 'NN'), ('clap', 'VB'), ('loudli', 'RB'), ('rest', 'NN'), ('ron', 'NN'), ('collaps', 'VB'), ('chair', 'NN'), ('next', 'JJ')]
+0.258198889747
+Sentence 1: [('harder', 'JJ'), ('shake', 'VB'), ('feel', 'NN'), ('harri', 'NN'), ('gotten', 'VB'), ('teacher', 'NN'), ('look', 'VB'), ('feel', 'NN'), ("n't", 'RB'), ('like', 'VB'), ('harri', 'NN')]
+Sentence 2: [('hook-nos', 'JJ'), ('teacher', 'NN'), ('look', 'VB'), ('past', 'JJ'), ("quirrell'", 'NN'), ('turban', 'NN'), ('straight', 'VB'), ('harri', 'NN'), ('eye', 'NN'), ('sharp', 'JJ'), ('hot', 'JJ'), ('pain', 'NN'), ('shot', 'NN'), ('scar', 'NN'), ('harri', 'NN'), ('forehead', 'NN')]
+0.36514837167
+Sentence 1: [('wonder', 'NN'), ('look', 'VB'), ('nervou', 'JJ'), ('professor', 'NN'), ('snape', 'NN')]
+Sentence 2: [('harri', 'NN'), ('watch', 'VB'), ('snape', 'NN'), ('snape', 'NN'), ("n't", 'RB'), ('look', 'VB')]
+0.474341649025
+Sentence 1: [('teach', 'VB'), ('potion', 'NN'), ("n't", 'RB'), ('want', 'VB'), ('everyon', 'NN'), ('know', 'VB'), ('quirrel', 'NN'), ('job', 'NN')]
+Sentence 2: [("n't", 'RB'), ('know', 'VB'), ('magic', 'JJ'), ('yet', 'RB'), ('earth', 'NN')]
+0.316227766017
+Sentence 1: [('know', 'NN'), ('aw', 'JJ'), ('lot', 'NN'), ('dark', 'NN'), ('art', 'NN'), ('snape', 'NN')]
+Sentence 2: [('harri', 'NN'), ('watch', 'VB'), ('snape', 'NN'), ('snape', 'NN'), ("n't", 'RB'), ('look', 'VB')]
+0.150755672289
+Sentence 1: [('harri', 'NN'), ('watch', 'VB'), ('snape', 'NN'), ('snape', 'NN'), ("n't", 'RB'), ('look', 'VB')]
+Sentence 2: [('wonder', 'NN'), ('look', 'VB'), ('nervou', 'JJ'), ('professor', 'NN'), ('snape', 'NN')]
+0.474341649025
+Sentence 1: [('last', 'JJ'), ('dessert', 'NN'), ('disappear', 'JJ'), ('professor', 'NN'), ('dumbledor', 'NN'), ('got', 'VB'), ('feet', 'NN')]
+Sentence 2: [('professor', 'NN'), ('mcgonagal', 'NN'), ('talk', 'VB'), ('professor', 'NN'), ('dumbledor', 'NN')]
+0.428571428571
+Sentence 1: [('year', 'NN'), ('note', 'VB'), ('forest', 'NN'), ('ground', 'NN'), ('forbidden', 'JJ'), ('pupil', 'NN')]
+Sentence 2: [('peev', 'NN'), ('perci', 'NN'), ('whisper', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+0.182574185835
+Sentence 1: [('older', 'JJ'), ('student', 'NN'), ('well', 'RB'), ('rememb', 'VB'), ('well', 'RB')]
+Sentence 2: [('well', 'RB'), ('gran', 'NN'), ('brought', 'VB'), ('witch', 'NN'), ('said', 'VB'), ('nevil', 'NN'), ('famili', 'NN'), ('thought', 'VB'), ('all-', 'JJ'), ('muggl', 'NN'), ('age', 'NN')]
+0.227921152919
+Sentence 1: [('twinkl', 'VB'), ('eye', 'NN'), ('flash', 'VB'), ('direct', 'NN'), ('weasley', 'NN'), ('twin', 'NN')]
+Sentence 2: [('last', 'JJ'), ('weasley', 'NN'), ('twin', 'NN'), ('left', 'VB'), ('sing', 'VB'), ('along', 'RB'), ('slow', 'JJ'), ('funer', 'NN'), ('march', 'NN')]
+0.272165526976
+Sentence 1: [('also', 'RB'), ('ask', 'VB'), ('mr.', 'NN'), ('filch', 'NN'), ('caretak', 'NN'), ('remind', 'VB'), ('magic', 'NN'), ('use', 'VB'), ('class', 'NN'), ('corridor', 'NN')]
+Sentence 2: [('never', 'RB'), ('ask', 'VB'), ('said', 'VB'), ('nearli', 'NN'), ('headless', 'NN'), ('nick', 'NN'), ('delic', 'RB')]
+0.119522860933
+Sentence 1: [('quidditch', 'NN'), ('trial', 'NN'), ('held', 'VB'), ('second', 'JJ'), ('week', 'NN'), ('term', 'NN')]
+Sentence 2: [('second', 'JJ'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('come', 'VB'), ('back', 'RB'), ('lead', 'VB'), ('doom', 'NN')]
+0.154303349962
+Sentence 1: [('anyon', 'RB'), ('interest', 'JJ'), ('play', 'VB'), ('hous', 'NN'), ('team', 'NN'), ('contact', 'VB'), ('madam', 'NN'), ('hooch', 'NN')]
+Sentence 2: [('class', 'NN'), ('rest', 'NN'), ('hous', 'NN'), ('sleep', 'NN'), ('hous', 'NN'), ('dormitori', 'NN'), ('spend', 'VB'), ('free', 'JJ'), ('time', 'NN'), ('hous', 'NN'), ('common', 'JJ'), ('room', 'NN')]
+0.25
+Sentence 1: [('final', 'RB'), ('tell', 'VB'), ('year', 'NN'), ('third-floor', 'JJ'), ('corridor', 'NN'), ('right-hand', 'JJ'), ('side', 'NN'), ('bound', 'NN'), ('everyon', 'NN'), ('wish', 'VB'), ('die', 'VB'), ('pain', 'JJ'), ('death', 'NN')]
+Sentence 2: [('tri', 'VB'), ('hat', 'NN'), ('lot', 'NN'), ('better', 'JJ'), ('spell', 'NN'), ('wish', 'VB'), ('tri', 'VB'), ('everyon', 'NN'), ('watch', 'NN')]
+0.167248402001
+Sentence 1: [('must', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('frown', 'VB'), ('dumbledor', 'NN')]
+Sentence 2: [('want', 'VB'), ('watch', 'VB'), ('peev', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('set', 'VB')]
+0.36514837167
+Sentence 1: [('odd', 'RB'), ('usual', 'RB'), ('give', 'VB'), ('reason', 'NN'), ('allow', 'VB'), ('go', 'VB'), ('somewher', 'RB'), ('forest', 'JJ'), ('full', 'JJ'), ('danger', 'JJ'), ('beast', 'NN'), ('everyon', 'NN'), ('know', 'VB')]
+Sentence 2: [('give', 'VB'), ('bad', 'JJ'), ('name', 'NN'), ('know', 'VB'), ('realli', 'RB'), ('even', 'RB'), ('ghost', 'NN'), ('say', 'VB')]
+0.196116135138
+Sentence 1: [('go', 'VB'), ('bed', 'VB'), ('let', 'VB'), ('sing', 'VB'), ('school', 'NN'), ('song', 'NN'), ('cri', 'VB'), ('dumbledor', 'NN')]
+Sentence 2: [('aunt', 'NN'), ('petunia', 'NN'), ("n't", 'RB'), ('let', 'VB'), ('hous', 'NN')]
+0.158113883008
+Sentence 1: [('harri', 'NN'), ('notic', 'VB'), ('teacher', 'NN'), ('smile', 'NN'), ('becom', 'VB'), ('rather', 'RB'), ('fix', 'JJ')]
+Sentence 2: [('harder', 'JJ'), ('shake', 'VB'), ('feel', 'NN'), ('harri', 'NN'), ('gotten', 'VB'), ('teacher', 'NN'), ('look', 'VB'), ('feel', 'NN'), ("n't", 'RB'), ('like', 'VB'), ('harri', 'NN')]
+0.292770021885
+Sentence 1: [('dumbledor', 'RB'), ('gave', 'VB'), ('wand', 'NN'), ('littl', 'JJ'), ('flick', 'NN'), ('tri', 'VB'), ('get', 'VB'), ('fli', 'NN'), ('end', 'NN'), ('long', 'JJ'), ('golden', 'JJ'), ('ribbon', 'NN'), ('flew', 'VB'), ('rose', 'VB'), ('high', 'JJ'), ('tabl', 'NN'), ('twist', 'VB'), ('snakelik', 'VB'), ('word', 'NN')]
+Sentence 2: [('tabl', 'NN'), ('laid', 'VB'), ('glitter', 'VB'), ('golden', 'JJ'), ('plate', 'NN'), ('goblet', 'NN')]
+0.187317162316
+Sentence 1: [('everyon', 'NN'), ('pick', 'VB'), ('favorit', 'JJ'), ('tune', 'NN'), ('said', 'VB'), ('dumbledor', 'NN'), ('go', 'VB'), ('school', 'NN'), ('bellow', 'VB'), ('hogwart', 'NN'), ('hogwart', 'NN'), ('hoggi', 'NN'), ('warti', 'NN'), ('hogwart', 'NN'), ('teach', 'NN'), ('someth', 'NN'), ('pleas', 'VB'), ('whether', 'NN'), ('old', 'JJ'), ('bald', 'NN'), ('young', 'JJ'), ('scabbi', 'JJ'), ('knee', 'NN'), ('head', 'NN'), ('fill', 'VB'), ('interest', 'JJ'), ('stuff', 'NN'), ('bare', 'VB'), ('full', 'JJ'), ('air', 'NN'), ('dead', 'NN'), ('fli', 'NN'), ('bit', 'NN'), ('fluff', 'NN'), ('teach', 'VB'), ('thing', 'NN'), ('worth', 'JJ'), ('know', 'VB'), ('bring', 'NN'), ('forgot', 'VB'), ('best', 'JJ'), ('rest', 'NN'), ('learn', 'NN'), ('brain', 'NN'), ('rot', 'VB')]
+Sentence 2: [('welcom', 'VB'), ('hogwart', 'NN'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+0.700218852592
+Sentence 1: [('everybodi', 'NN'), ('finish', 'VB'), ('song', 'NN'), ('differ', 'JJ'), ('time', 'NN')]
+Sentence 2: [('safe', 'JJ'), ('hand', 'NN'), ('none', 'NN'), ('think', 'VB'), ('cap', 'NN'), ('whole', 'JJ'), ('hall', 'NN'), ('burst', 'NN'), ('applaus', 'NN'), ('hat', 'NN'), ('finish', 'VB'), ('song', 'NN')]
+0.258198889747
+Sentence 1: [('last', 'JJ'), ('weasley', 'NN'), ('twin', 'NN'), ('left', 'VB'), ('sing', 'VB'), ('along', 'RB'), ('slow', 'JJ'), ('funer', 'NN'), ('march', 'NN')]
+Sentence 2: [('twinkl', 'VB'), ('eye', 'NN'), ('flash', 'VB'), ('direct', 'NN'), ('weasley', 'NN'), ('twin', 'NN')]
+0.272165526976
+Sentence 1: [('dumbledor', 'RB'), ('conduct', 'VB'), ('last', 'JJ'), ('line', 'NN'), ('wand', 'NN'), ('finish', 'VB'), ('clap', 'VB'), ('loudest', 'JJ')]
+Sentence 2: [('dumbledor', 'RB'), ('gave', 'VB'), ('wand', 'NN'), ('littl', 'JJ'), ('flick', 'NN'), ('tri', 'VB'), ('get', 'VB'), ('fli', 'NN'), ('end', 'NN'), ('long', 'JJ'), ('golden', 'JJ'), ('ribbon', 'NN'), ('flew', 'VB'), ('rose', 'VB'), ('high', 'JJ'), ('tabl', 'NN'), ('twist', 'VB'), ('snakelik', 'VB'), ('word', 'NN')]
+0.162221421131
+Sentence 1: [('Ah', 'NN'), ('music', 'NN'), ('said', 'VB'), ('wipe', 'VB'), ('eye', 'NN')]
+Sentence 2: [('sat', 'VB'), ('hat', 'NN'), ('eye', 'NN'), ('age', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('jerk', 'VB'), ('head', 'NN'), ('said', 'VB'), ('obvious', 'RB'), ('mistak', 'NN'), ('better', 'JJ'), ('get', 'VB'), ('back', 'RB'), ('train', 'NN')]
+0.230940107676
+Sentence 1: [('trot', 'VB'), ('gryffindor', 'NN'), ('first', 'JJ'), ('year', 'NN'), ('follow', 'VB'), ('perci', 'NN'), ('chatter', 'NN'), ('crowd', 'VB'), ('great', 'NN'), ('hall', 'NN'), ('marbl', 'JJ'), ('staircas', 'NN')]
+Sentence 2: [('gryffindor', 'NN'), ('never', 'RB'), ('gone', 'VB'), ('long', 'RB'), ('win', 'VB')]
+0.558156305651
+Sentence 1: [('harri', 'NN'), ('leg', 'NN'), ('like', 'JJ'), ('lead', 'NN'), ('tire', 'JJ'), ('full', 'JJ'), ('food', 'NN')]
+Sentence 2: [('last', 'JJ'), ('thing', 'NN'), ('harri', 'NN'), ('saw', 'VB'), ('hat', 'NN'), ('drop', 'VB'), ('eye', 'NN'), ('hall', 'JJ'), ('full', 'JJ'), ('peopl', 'NN'), ('crane', 'VB'), ('get', 'VB'), ('good', 'JJ'), ('look', 'NN')]
+0.20203050891
+Sentence 1: [('sleepi', 'JJ'), ('even', 'RB'), ('surpris', 'VB'), ('peopl', 'NN'), ('portrait', 'NN'), ('corridor', 'NN'), ('whisper', 'VB'), ('point', 'VB'), ('pass', 'VB'), ('twice', 'RB'), ('perci', 'NN'), ('led', 'VB'), ('doorway', 'NN'), ('hidden', 'VB'), ('slide', 'VB'), ('panel', 'NN'), ('hang', 'VB'), ('tapestri', 'NN')]
+Sentence 2: [('peev', 'NN'), ('perci', 'NN'), ('whisper', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+0.210818510678
+Sentence 1: [('climb', 'VB'), ('staircas', 'NN'), ('yawn', 'VB'), ('drag', 'VB'), ('feet', 'NN'), ('harri', 'NN'), ('wonder', 'VB'), ('much', 'JJ'), ('farther', 'NN'), ('go', 'VB'), ('came', 'VB'), ('sudden', 'JJ'), ('halt', 'NN')]
+Sentence 2: [('perhap', 'RB'), ('harri', 'NN'), ('eaten', 'VB'), ('bit', 'RB'), ('much', 'JJ'), ('strang', 'JJ'), ('dream', 'NN')]
+0.209656967344
+Sentence 1: [('bundl', 'NN'), ('walk', 'VB'), ('stick', 'NN'), ('float', 'VB'), ('midair', 'NN'), ('ahead', 'RB'), ('perci', 'NN'), ('took', 'VB'), ('step', 'NN'), ('start', 'VB'), ('throw', 'VB')]
+Sentence 2: [('peev', 'NN'), ('stuck', 'VB'), ('tongu', 'NN'), ('vanish', 'VB'), ('drop', 'VB'), ('walk', 'VB'), ('stick', 'NN'), ('nevil', 'NN'), ('head', 'NN')]
+0.201007563052
+Sentence 1: [('peev', 'NN'), ('perci', 'NN'), ('whisper', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+Sentence 2: [('want', 'VB'), ('watch', 'VB'), ('peev', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('set', 'VB')]
+0.36514837167
+Sentence 1: [('rais', 'VB'), ('voic', 'NN'), ('peev', 'NN'), ('show', 'VB'), ('loud', 'JJ'), ('rude', 'NN'), ('sound', 'NN'), ('air', 'NN'), ('let', 'VB'), ('balloon', 'NN'), ('answer', 'VB')]
+Sentence 2: [('harri', 'NN'), ('hear', 'VB'), ('drone', 'NN'), ('hundr', 'NN'), ('voic', 'NN'), ('doorway', 'NN'), ('right', 'JJ'), ('rest', 'NN'), ('school', 'NN'), ('alreadi', 'RB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('show', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('small', 'JJ'), ('empti', 'JJ'), ('chamber', 'NN'), ('hall', 'NN')]
+0.138342892773
+Sentence 1: [('pop', 'NN'), ('littl', 'JJ'), ('man', 'NN'), ('wick', 'JJ'), ('dark', 'JJ'), ('eye', 'NN'), ('wide', 'JJ'), ('mouth', 'NN'), ('appear', 'VB'), ('float', 'VB'), ('cross-', 'NN'), ('leg', 'VB'), ('air', 'NN'), ('clutch', 'VB'), ('walk', 'NN'), ('stick', 'NN')]
+Sentence 2: [('bundl', 'NN'), ('walk', 'VB'), ('stick', 'NN'), ('float', 'VB'), ('midair', 'NN'), ('ahead', 'RB'), ('perci', 'NN'), ('took', 'VB'), ('step', 'NN'), ('start', 'VB'), ('throw', 'VB')]
+0.150755672289
+Sentence 1: [('Go', 'VB'), ('peev', 'NN'), ('baron', 'NN'), ('hear', 'VB'), ('mean', 'VB'), ('bark', 'VB'), ('perci', 'NN')]
+Sentence 2: [('peev', 'NN'), ('perci', 'NN'), ('whisper', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+0.338061701891
+Sentence 1: [('peev', 'NN'), ('stuck', 'VB'), ('tongu', 'NN'), ('vanish', 'VB'), ('drop', 'VB'), ('walk', 'VB'), ('stick', 'NN'), ('nevil', 'NN'), ('head', 'NN')]
+Sentence 2: [('bundl', 'NN'), ('walk', 'VB'), ('stick', 'NN'), ('float', 'VB'), ('midair', 'NN'), ('ahead', 'RB'), ('perci', 'NN'), ('took', 'VB'), ('step', 'NN'), ('start', 'VB'), ('throw', 'VB')]
+0.201007563052
+Sentence 1: [('heard', 'VB'), ('zoom', 'VB'), ('away', 'RB'), ('rattl', 'VB'), ('coat', 'NN'), ('armor', 'NN'), ('pass', 'VB')]
+Sentence 2: [('ghost', 'NN'), ('float', 'VB'), ('away', 'RB'), ('opposit', 'JJ'), ('wall', 'NN')]
+0.169030850946
+Sentence 1: [('want', 'VB'), ('watch', 'VB'), ('peev', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('set', 'VB')]
+Sentence 2: [('must', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('frown', 'VB'), ('dumbledor', 'NN')]
+0.36514837167
+Sentence 1: [('bloodi', 'NN'), ('baron', 'NN'), ('one', 'NN'), ('control', 'VB'), ("n't", 'RB'), ('even', 'RB'), ('listen', 'VB'), ('prefect', 'NN')]
+Sentence 2: [('bloodi', 'NN'), ('baron', 'NN'), ('becom', 'VB'), ('almost', 'RB'), ('unbear', 'JJ'), ('slytherin', 'NN'), ('ghost', 'NN')]
+0.182574185835
+Sentence 1: [('end', 'NN'), ('corridor', 'NN'), ('hung', 'VB'), ('portrait', 'NN'), ('fat', 'JJ'), ('woman', 'NN'), ('pink', 'NN'), ('silk', 'NN'), ('dress', 'NN')]
+Sentence 2: [('sleepi', 'JJ'), ('even', 'RB'), ('surpris', 'VB'), ('peopl', 'NN'), ('portrait', 'NN'), ('corridor', 'NN'), ('whisper', 'VB'), ('point', 'VB'), ('pass', 'VB'), ('twice', 'RB'), ('perci', 'NN'), ('led', 'VB'), ('doorway', 'NN'), ('hidden', 'VB'), ('slide', 'VB'), ('panel', 'NN'), ('hang', 'VB'), ('tapestri', 'NN')]
+0.157134840264
+Sentence 1: [('caput', 'NN'), ('draconi', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('portrait', 'NN'), ('swung', 'NN'), ('forward', 'RB'), ('reveal', 'VB'), ('round', 'NN'), ('hole', 'NN'), ('wall', 'NN')]
+Sentence 2: [('must', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('frown', 'VB'), ('dumbledor', 'NN')]
+0.269679944985
+Sentence 1: [('scrambl', 'VB'), ('nevil', 'NN'), ('need', 'VB'), ('leg', 'NN'), ('found', 'VB'), ('gryffindor', 'NN'), ('common', 'JJ'), ('room', 'NN'), ('cozi', 'JJ'), ('round', 'NN'), ('room', 'NN'), ('full', 'JJ'), ('squashi', 'JJ'), ('armchair', 'NN')]
+Sentence 2: [('gryffindor', 'NN'), ('never', 'RB'), ('gone', 'VB'), ('long', 'RB'), ('win', 'VB')]
+0.509524665365
+Sentence 1: [('perci', 'NN'), ('direct', 'VB'), ('girl', 'NN'), ('door', 'NN'), ('dormitori', 'NN'), ('boy', 'NN')]
+Sentence 2: [('must', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('frown', 'VB'), ('dumbledor', 'NN')]
+0.182574185835
+Sentence 1: [('top', 'NN'), ('spiral', 'JJ'), ('staircas', 'NN'), ('obvious', 'RB'), ('tower', 'NN'), ('found', 'VB'), ('bed', 'NN'), ('last', 'JJ'), ('four-post', 'NN'), ('hung', 'NN'), ('deep', 'JJ'), ('red', 'JJ'), ('velvet', 'NN'), ('curtain', 'NN')]
+Sentence 2: [('top', 'NN'), ('hall', 'NN'), ('long', 'JJ'), ('tabl', 'NN'), ('teacher', 'NN'), ('sit', 'VB')]
+0.109108945118
+Sentence 1: [('tire', 'VB'), ('talk', 'VB'), ('much', 'JJ'), ('pull', 'VB'), ('pajama', 'NN'), ('fell', 'VB'), ('bed.', 'NN')]
+Sentence 2: [('one', 'NN'), ('talk', 'VB'), ('much', 'JJ'), ('hermion', 'NN'), ('granger', 'NN'), ('whisper', 'VB'), ('fast', 'RB'), ('spell', 'NN'), ('learn', 'VB'), ('wonder', 'VB'), ('need', 'VB')]
+0.227921152919
+Sentence 1: [('harri', 'NN'), ('go', 'VB'), ('ask', 'VB'), ('ron', 'NN'), ('treacl', 'NN'), ('tart', 'NN'), ('fell', 'VB'), ('asleep', 'RB'), ('almost', 'RB')]
+Sentence 2: [('got', 'VB'), ('tri', 'VB'), ('hat', 'NN'), ('ron', 'NN'), ('whisper', 'VB'), ('harri', 'NN')]
+0.272165526976
+Sentence 1: [('perhap', 'RB'), ('harri', 'NN'), ('eaten', 'VB'), ('bit', 'RB'), ('much', 'JJ'), ('strang', 'JJ'), ('dream', 'NN')]
+Sentence 2: [('harri', 'NN'), ('never', 'RB'), ('even', 'RB'), ('imagin', 'VB'), ('strang', 'JJ'), ('splendid', 'JJ'), ('place', 'NN')]
+0.285714285714
+Sentence 1: [('wear', 'VB'), ('professor', 'NN'), ('quirrel', 'NN'), ('turban', 'NN'), ('kept', 'VB'), ('talk', 'VB'), ('tell', 'VB'), ('transfer', 'VB'), ('slytherin', 'NN'), ('destini', 'NN')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.662589156449
+Sentence 1: [('harri', 'NN'), ('told', 'VB'), ('turban', 'NN'), ("n't", 'RB'), ('want', 'VB'), ('slytherin', 'NN'), ('got', 'VB'), ('heavier', 'RB'), ('heavier', 'RB'), ('tri', 'VB'), ('pull', 'VB'), ('tighten', 'VB'), ('pain', 'RB'), ('malfoy', 'NN'), ('laugh', 'VB'), ('struggl', 'VB'), ('malfoy', 'NN'), ('turn', 'VB'), ('hook-nos', 'JJ'), ('teacher', 'NN'), ('snape', 'NN'), ('laugh', 'NN'), ('becam', 'VB'), ('high', 'JJ'), ('cold', 'JJ'), ('burst', 'NN'), ('green', 'JJ'), ('light', 'NN'), ('harri', 'NN'), ('woke', 'VB'), ('sweat', 'VB'), ('shake', 'VB')]
+Sentence 2: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+0.460531299059
+Sentence 1: [('roll', 'VB'), ('fell', 'VB'), ('asleep', 'RB'), ('woke', 'VB'), ('next', 'JJ'), ('day', 'NN'), ("n't", 'RB'), ('rememb', 'VB'), ('dream', 'NN')]
+Sentence 2: [('harri', 'NN'), ('go', 'VB'), ('ask', 'VB'), ('ron', 'NN'), ('treacl', 'NN'), ('tart', 'NN'), ('fell', 'VB'), ('asleep', 'RB'), ('almost', 'RB')]
+0.222222222222

@@ -1,118 +1,392 @@
-	Rank: 59, Score: 0.524185
-Sentence: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
-	Rank: 58, Score: 0.524185
-Sentence: [('easi', 'VB'), ('misinterpret', 'VB'), ('email', 'NN'), ('text', 'NN'), ('get', 'VB'), ('annoy', 'VB'), ('feel', 'VB'), ('need', 'NN'), ('met', 'VB')]
-	Rank: 57, Score: 0.533839
-Sentence: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
-	Rank: 56, Score: 0.533839
-Sentence: [('better', 'JJ'), ('discuss', 'VB'), ('small', 'JJ'), ('problem', 'NN'), ('let', 'VB'), ('turn', 'VB'), ('big', 'JJ'), ('issu', 'NN'), ('line', 'NN')]
-	Rank: 55, Score: 0.537508
-Sentence: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
-	Rank: 54, Score: 0.537508
-Sentence: [("n't", 'RB'), ('forget', 'VB'), ('good', 'JJ'), ('old', 'JJ'), ('snail', 'NN'), ('mail', 'NN')]
-	Rank: 53, Score: 0.593831
-Sentence: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
-	Rank: 52, Score: 0.608662
-Sentence: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
-	Rank: 51, Score: 0.608662
-Sentence: [('just', 'RB'), ('sure', 'JJ'), ('agre', 'VB'), ('form', 'NN'), ('commun', 'NN'), ('use', 'VB')]
-	Rank: 50, Score: 0.627216
-Sentence: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
-	Rank: 49, Score: 0.627216
-Sentence: [('know', 'NN'), ('see', 'VB'), ('other', 'JJ'), ('next', 'JJ'), ('end', 'NN'), ('visit', 'NN'), ('sure', 'JJ'), ('know', 'VB'), ('visit', 'VB'), ('next', 'JJ')]
-	Rank: 48, Score: 0.632904
-Sentence: [('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
-	Rank: 47, Score: 0.692127
-Sentence: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
-	Rank: 46, Score: 0.692127
-Sentence: [('coupl', 'NN'), ('live', 'VB'), ('hundr', 'NN'), ('thousand', 'NN'), ('mile', 'NN'), ('apart', 'RB'), ('keep', 'VB'), ('romanc', 'NN'), ('go', 'VB'), ('becom', 'RB'), ('even', 'RB'), ('difficult', 'JJ')]
-	Rank: 45, Score: 0.698495
-Sentence: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
-	Rank: 44, Score: 0.698495
-Sentence: [('Be', 'VB'), ('sure', 'JJ'), ('plan', 'VB'), ('downtim', 'NN'), ('visit', 'NN'), ('get', 'VB'), ('better', 'JJ'), ('sens', 'NN'), ('function', 'VB'), ('coupl', 'NN'), ('typic', 'JJ'), ('day', 'NN'), ('day', 'NN'), ('condit', 'NN')]
-	Rank: 43, Score: 0.702922
-Sentence: [('last', 'JJ'), ('thing', 'NN'), ('want', 'VB'), ('apart', 'VB'), ('spend', 'VB'), ('time', 'NN'), ('obsess', 'RB'), ('check', 'VB'), ('facebook', 'NN'), ('page', 'NN'), ('fret', 'VB'), ("n't", 'RB'), ('respond', 'VB'), ('text', 'JJ'), ('quickli', 'RB'), ('enough', 'RB')]
-	Rank: 42, Score: 0.772292
-Sentence: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
-	Rank: 41, Score: 0.772292
-Sentence: [('hate', 'VB'), ('phone', 'NN'), ('call', 'NN'), ('partner', 'NN'), ('prefer', 'NN'), ('chat', 'VB'), ('way', 'NN'), ('set', 'VB'), ('disagr', 'NN'), ("n't", 'RB'), ('work', 'VB'), ('ahead', 'RB'), ('time', 'NN')]
-	Rank: 40, Score: 0.798082
-Sentence: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
-	Rank: 39, Score: 0.798082
-Sentence: [('trust', 'NN'), ('other', 'JJ'), ('moment', 'NN'), ('jealousi', 'NN'), ('insecur', 'NN'), ('even', 'RB'), ('secur', 'JJ'), ('relationship', 'NN')]
-	Rank: 38, Score: 0.828209
-Sentence: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
-	Rank: 37, Score: 0.828209
-Sentence: [('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'NN'), ('addit', 'NN'), ('keep', 'VB'), ('touch', 'NN'), ('sure', 'JJ'), ('foster', 'VB'), ('open', 'JJ'), ('honest', 'JJ'), ('dialogu', 'NN'), ('partner', 'NN')]
-	Rank: 36, Score: 0.830122
-Sentence: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
-	Rank: 35, Score: 0.830122
-Sentence: [('use', 'NN'), ('technolog', 'NN'), ("n't", 'RB'), ('benefit', 'NN'), ('person', 'NN'), ('time', 'NN'), ('togeth', 'RB'), ('daili', 'JJ'), ('commun', 'NN')]
-	Rank: 34, Score: 0.991336
-Sentence: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
-	Rank: 33, Score: 0.991336
-Sentence: [('definit', 'JJ'), ('end', 'NN'), ('distanc', 'NN'), ('alreadi', 'RB'), ('calendar', 'NN'), ('even', 'RB'), ('go', 'VB'), ('weekend', 'NN'), ('togeth', 'RB'), ('time', 'NN'), ('apart', 'NN'), ('easier', 'JJ'), ('deal', 'VB')]
-	Rank: 32, Score: 1.036546
-Sentence: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
-	Rank: 31, Score: 1.036546
-Sentence: [('time', 'NN'), ('togeth', 'RB'), ('feel', 'VB'), ('mini', 'NN'), ('vacat', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('hard', 'JJ'), ('know', 'VB'), ('relationship', 'NN'), ('work', 'VB'), ('ordinari', 'JJ'), ('circumst', 'NN')]
-	Rank: 30, Score: 1.043276
-Sentence: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
-	Rank: 29, Score: 1.043276
-Sentence: [('accord', 'VB'), ('center', 'NN'), ('studi', 'NN'), ('long', 'NN'), ('distanc', 'NN'), ('relationship', 'NN'), ('knew', 'VB'), ('thing', 'NN'), ('exist', 'VB')]
-	Rank: 28, Score: 1.057495
-Sentence: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
-	Rank: 27, Score: 1.057495
-Sentence: [('make', 'NN'), ('time', 'NN'), ('bore', 'NN'), ('reunit', 'NN'), ('time', 'NN'), ('apart', 'RB'), ('make', 'VB'), ('relationship', 'NN'), ('feel', 'VB'), ('honeymoon', 'RB'), ('lot', 'NN'), ('time', 'NN'), ('especi', 'RB'), ('visit', 'VB'), ('weekend', 'NN')]
-	Rank: 26, Score: 1.106114
-Sentence: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
-	Rank: 25, Score: 1.106114
-Sentence: [('help', 'VB'), ('realiz', 'VB'), ('relationship', 'NN'), ('effort', 'NN'), ('long', 'JJ'), ('run', 'NN')]
-	Rank: 24, Score: 1.124265
-Sentence: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
-	Rank: 23, Score: 1.124265
-Sentence: [('coupl', 'NN'), ('unit', 'NN'), ('state', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationships—includ', 'VB'), ('percent', 'NN'), ('countri', 'NN'), ('marri', 'VB'), ('coupl', 'NN')]
-	Rank: 22, Score: 1.124965
-Sentence: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
-	Rank: 21, Score: 1.124965
-Sentence: [('even', 'RB'), ('phone', 'NN'), ('applic', 'NN'), ('allow', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('share', 'NN'), ('photo', 'NN'), ('video', 'VB'), ('send', 'JJ'), ('voic', 'NN'), ('messag', 'NN')]
-	Rank: 20, Score: 1.189743
-Sentence: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
-	Rank: 19, Score: 1.189743
-Sentence: [('cute', 'NN'), ('handwritten', 'JJ'), ('letter', 'NN'), ('small', 'JJ'), ('unexpect', 'JJ'), ('gift', 'NN'), ('goe', 'VB'), ('long', 'JJ'), ('way', 'NN'), ('make', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('partner', 'NN'), ('feel', 'VB'), ('love', 'VB'), ('appreci', 'VB')]
-	Rank: 18, Score: 1.282132
-Sentence: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('instanc', 'NN'), ('messag', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-	Rank: 17, Score: 1.300871
-Sentence: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
-	Rank: 16, Score: 1.300871
-Sentence: [('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('challeng', 'VB'), ('tip', 'NN'), ('ensur', 'VB'), ('healthi', 'JJ'), ('success', 'JJ'), ('possibl', 'JJ')]
-	Rank: 15, Score: 1.325341
-Sentence: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
-	Rank: 14, Score: 1.325341
-Sentence: [('indefinit', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('unsustain', 'JJ'), ('coupl', 'NN'), ('plan', 'NN'), ('eventu', 'RB'), ('move', 'VB'), ('common', 'JJ'), ('ground', 'NN'), ('help', 'JJ')]
-	Rank: 13, Score: 1.332397
-Sentence: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-	Rank: 12, Score: 1.332397
-Sentence: [('howev', 'RB'), ('perceiv', 'JJ'), ('slight', 'NN'), ('twing', 'NN'), ('envi', 'NN'), ('magnifi', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-	Rank: 11, Score: 1.347095
-Sentence: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
-	Rank: 10, Score: 1.347095
-Sentence: [('tempt', 'VB'), ('bring', 'VB'), ('thing', 'NN'), ('bother', 'VB'), ('avoid', 'VB'), ('confrontation—especi', 'RB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('enjoy', 'VB'), ('bit', 'NN'), ('time', 'NN'), ('onlin', 'NN'), ('irl', 'NN')]
-	Rank: 9, Score: 1.354557
-Sentence: [('prefer', 'VB'), ('text', 'JJ'), ('messag', 'NN'), ('im', 'NN'), ('email', 'VB'), ('telephon', 'NN'), ('call', 'VB'), ('video', 'NN'), ('chat', 'VB'), ('keep', 'VB'), ('touch', 'NN'), ('import', 'JJ'), ('thing', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN')]
-	Rank: 8, Score: 1.371464
-Sentence: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
-	Rank: 7, Score: 1.371464
-Sentence: [('howev', 'RB'), ('especi', 'RB'), ('import', 'JJ'), ('long', 'JJ'), ('distanc', 'NN'), ('coupl', 'NN'), ('discuss', 'VB'), ('issu', 'NN')]
-	Rank: 6, Score: 1.397580
-Sentence: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
-	Rank: 5, Score: 1.397580
-Sentence: [('also', 'RB'), ('import', 'JJ'), ('gener', 'JJ'), ('sens', 'NN'), ('long', 'JJ'), ('distanc', 'NN'), ('phase', 'NN'), ('relationship', 'NN'), ('come', 'VB'), ('end', 'NN')]
-	Rank: 4, Score: 1.425309
-Sentence: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ')]
-	Rank: 3, Score: 1.426124
-Sentence: [("n't", 'RB'), ('trust', 'VB'), ('partner', 'NN'), ('know', 'VB'), ('jealou', 'JJ'), ('tendenc', 'NN'), ('want', 'VB'), ('reconsid', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('realli', 'RB'), ('right', 'JJ'), ('you.it', 'JJ'), ('secret', 'JJ'), ('maintain', 'VB'), ('relationship', 'NN'), ('take', 'VB'), ('hard', 'JJ'), ('work', 'NN'), ('dedic', 'NN'), ('parti', 'NN')]
-	Rank: 2, Score: 1.583311
-Sentence: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
-	Rank: 1, Score: 1.583311
-Sentence: [('work', 'VB'), ('keep', 'VB'), ('line', 'NN'), ('commun', 'NN'), ('open', 'JJ'), ('order', 'NN'), ('keep', 'VB'), ('long', 'JJ'), ('distanc', 'NN'), ('relationship', 'NN'), ('good', 'JJ'), ('shape', 'NN')]
+	Rank: 196, Score: 0.150000
+Sentence: [('talent', 'NN'), ('good', 'NN'), ('ye', 'RB'), ('nice', 'JJ'), ('thirst', 'NN'), ('prove', 'VB'), ('interest', 'VB')]
+	Rank: 195, Score: 0.204081
+Sentence: [('quidditch', 'NN'), ('trial', 'NN'), ('held', 'VB'), ('second', 'JJ'), ('week', 'NN'), ('term', 'NN')]
+	Rank: 194, Score: 0.227049
+Sentence: [('know', 'NN'), ('aw', 'JJ'), ('lot', 'NN'), ('dark', 'NN'), ('art', 'NN'), ('snape', 'NN')]
+	Rank: 193, Score: 0.231573
+Sentence: [('pumpkin', 'NN'), ('pasti', 'NN'), ('seem', 'VB'), ('age', 'NN'), ('ago', 'RB')]
+	Rank: 192, Score: 0.266393
+Sentence: [('tall', 'JJ'), ('black-hair', 'JJ'), ('witch', 'NN'), ('emerald-green', 'JJ'), ('robe', 'NN'), ('stood', 'VB')]
+	Rank: 191, Score: 0.279467
+Sentence: [('crowd', 'VB'), ('stand', 'VB'), ('rather', 'RB'), ('closer', 'RB'), ('togeth', 'RB'), ('usual', 'RB'), ('done', 'VB'), ('peer', 'VB'), ('nervous', 'RB')]
+	Rank: 190, Score: 0.286412
+Sentence: [('also', 'RB'), ('ask', 'VB'), ('mr.', 'NN'), ('filch', 'NN'), ('caretak', 'NN'), ('remind', 'VB'), ('magic', 'NN'), ('use', 'VB'), ('class', 'NN'), ('corridor', 'NN')]
+	Rank: 189, Score: 0.287975
+Sentence: [('heard', 'VB'), ('zoom', 'VB'), ('away', 'RB'), ('rattl', 'VB'), ('coat', 'NN'), ('armor', 'NN'), ('pass', 'VB')]
+	Rank: 188, Score: 0.329192
+Sentence: [('everybodi', 'NN'), ('finish', 'VB'), ('song', 'NN'), ('differ', 'JJ'), ('time', 'NN')]
+	Rank: 187, Score: 0.356725
+Sentence: [("i'll", 'NN'), ('kill', 'NN'), ('fred', 'NN'), ('go', 'VB'), ('wrestl', 'VB'), ('troll', 'NN')]
+	Rank: 186, Score: 0.357469
+Sentence: [('end', 'NN'), ('corridor', 'NN'), ('hung', 'VB'), ('portrait', 'NN'), ('fat', 'JJ'), ('woman', 'NN'), ('pink', 'NN'), ('silk', 'NN'), ('dress', 'NN')]
+	Rank: 185, Score: 0.357601
+Sentence: [('realli', 'RB'), ('pleas', 'JJ'), ('gran', 'NN'), ('cri', 'VB'), ('happi', 'JJ')]
+	Rank: 184, Score: 0.368636
+Sentence: [('rememb', 'VB'), ('pick', 'VB'), ('team', 'NN'), ('gym', 'NN'), ('old', 'JJ'), ('school', 'NN')]
+	Rank: 183, Score: 0.382367
+Sentence: [('top', 'NN'), ('spiral', 'JJ'), ('staircas', 'NN'), ('obvious', 'RB'), ('tower', 'NN'), ('found', 'VB'), ('bed', 'NN'), ('last', 'JJ'), ('four-post', 'NN'), ('hung', 'NN'), ('deep', 'JJ'), ('red', 'JJ'), ('velvet', 'NN'), ('curtain', 'NN')]
+	Rank: 182, Score: 0.383850
+Sentence: [('someth', 'NN'), ('happen', 'VB'), ('made', 'VB'), ('jump', 'VB'), ('foot', 'NN'), ('air', 'NN'), ('sever', 'JJ'), ('peopl', 'NN'), ('scream', 'VB')]
+	Rank: 181, Score: 0.405790
+Sentence: [('begin', 'VB'), ('banquet', 'NN'), ('like', 'VB'), ('say', 'VB'), ('word', 'NN')]
+	Rank: 180, Score: 0.423623
+Sentence: [('rais', 'VB'), ('voic', 'NN'), ('peev', 'NN'), ('show', 'VB'), ('loud', 'JJ'), ('rude', 'NN'), ('sound', 'NN'), ('air', 'NN'), ('let', 'VB'), ('balloon', 'NN'), ('answer', 'VB')]
+	Rank: 179, Score: 0.436844
+Sentence: [('older', 'JJ'), ('student', 'NN'), ('well', 'RB'), ('rememb', 'VB'), ('well', 'RB')]
+	Rank: 178, Score: 0.453596
+Sentence: [('someon', 'NN'), ('obvious', 'RB'), ('tri', 'VB'), ('behead', 'VB'), ('done', 'VB'), ('properli', 'RB')]
+	Rank: 177, Score: 0.461561
+Sentence: [('last', 'JJ'), ('weasley', 'NN'), ('twin', 'NN'), ('left', 'VB'), ('sing', 'VB'), ('along', 'RB'), ('slow', 'JJ'), ('funer', 'NN'), ('march', 'NN')]
+	Rank: 176, Score: 0.461760
+Sentence: [('year', 'NN'), ('note', 'VB'), ('forest', 'NN'), ('ground', 'NN'), ('forbidden', 'JJ'), ('pupil', 'NN')]
+	Rank: 175, Score: 0.464329
+Sentence: [('never', 'RB'), ('seen', 'VB'), ('mani', 'JJ'), ('thing', 'NN'), ('like', 'VB'), ('eat', 'VB'), ('tabl', 'NN'), ('roast', 'NN'), ('beef', 'NN'), ('roast', 'NN'), ('chicken', 'NN'), ('pork', 'NN'), ('chop', 'NN'), ('lamb', 'JJ'), ('chop', 'NN'), ('sausag', 'NN'), ('bacon', 'VB'), ('steak', 'VB'), ('boil', 'VB'), ('potato', 'NN'), ('roast', 'VB'), ('potato', 'NN'), ('fri', 'NN'), ('yorkshir', 'VB'), ('pud', 'VB'), ('pea', 'NN'), ('carrot', 'NN'), ('gravi', 'VB'), ('ketchup', 'NN'), ('strang', 'JJ'), ('reason', 'NN'), ('peppermint', 'NN'), ('humbug', 'NN')]
+	Rank: 174, Score: 0.464488
+Sentence: [('stone', 'NN'), ('wall', 'NN'), ('lit', 'VB'), ('flame', 'JJ'), ('torch', 'NN'), ('one', 'NN'), ('gringott', 'NN'), ('ceil', 'NN'), ('high', 'JJ'), ('make', 'VB'), ('magnific', 'JJ'), ('marbl', 'JJ'), ('staircas', 'NN'), ('face', 'VB'), ('led', 'VB'), ('upper', 'JJ'), ('floor', 'NN')]
+	Rank: 173, Score: 0.465533
+Sentence: [('everyon', 'NN'), ('eaten', 'VB'), ('much', 'JJ'), ('remain', 'NN'), ('food', 'NN'), ('fade', 'VB'), ('plate', 'NN'), ('leav', 'VB'), ('sparkl', 'VB'), ('clean', 'JJ')]
+	Rank: 172, Score: 0.482082
+Sentence: [('tire', 'VB'), ('talk', 'VB'), ('much', 'JJ'), ('pull', 'VB'), ('pajama', 'NN'), ('fell', 'VB'), ('bed.', 'NN')]
+	Rank: 171, Score: 0.494145
+Sentence: [('bow', 'VB'), ('tabl', 'NN'), ('becam', 'VB'), ('quit', 'RB'), ('still', 'RB')]
+	Rank: 170, Score: 0.494776
+Sentence: [('whole', 'JJ'), ('head', 'NN'), ('swung', 'VB'), ('neck', 'NN'), ('fell', 'VB'), ('shoulder', 'NN'), ('hing', 'NN')]
+	Rank: 169, Score: 0.494920
+Sentence: [('end', 'NN'), ('nearest', 'JJ'), ('sat', 'JJ'), ('hagrid', 'NN'), ('caught', 'VB'), ('eye', 'NN'), ('gave', 'VB'), ('thumb', 'NN')]
+	Rank: 168, Score: 0.496999
+Sentence: [('twinkl', 'VB'), ('eye', 'NN'), ('flash', 'VB'), ('direct', 'NN'), ('weasley', 'NN'), ('twin', 'NN')]
+	Rank: 167, Score: 0.497404
+Sentence: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('pleas', 'JJ'), ('bought', 'VB'), ('toad', 'NN')]
+	Rank: 166, Score: 0.501951
+Sentence: [('beam', 'VB'), ('student', 'NN'), ('arm', 'NN'), ('open', 'VB'), ('wide', 'JJ'), ('noth', 'NN'), ('pleas', 'VB'), ('see', 'VB')]
+	Rank: 165, Score: 0.509762
+Sentence: [('tabl', 'NN'), ('laid', 'VB'), ('glitter', 'VB'), ('golden', 'JJ'), ('plate', 'NN'), ('goblet', 'NN')]
+	Rank: 164, Score: 0.512675
+Sentence: [('sort', 'NN'), ('ceremoni', 'NN'), ('take', 'VB'), ('place', 'NN'), ('minut', 'NN'), ('front', 'NN'), ('rest', 'NN'), ('school', 'NN')]
+	Rank: 163, Score: 0.520161
+Sentence: [('pop', 'NN'), ('littl', 'JJ'), ('man', 'NN'), ('wick', 'JJ'), ('dark', 'JJ'), ('eye', 'NN'), ('wide', 'JJ'), ('mouth', 'NN'), ('appear', 'VB'), ('float', 'VB'), ('cross-', 'NN'), ('leg', 'VB'), ('air', 'NN'), ('clutch', 'VB'), ('walk', 'NN'), ('stick', 'NN')]
+	Rank: 162, Score: 0.524819
+Sentence: [('granger', 'NN'), ('hermion', 'NN'), ('hermion', 'NN'), ('almost', 'RB'), ('ran', 'VB'), ('stool', 'NN'), ('jam', 'VB'), ('eagerli', 'RB'), ('head', 'NN')]
+	Rank: 161, Score: 0.528656
+Sentence: [('dumbledor', 'RB'), ('conduct', 'VB'), ('last', 'JJ'), ('line', 'NN'), ('wand', 'NN'), ('finish', 'VB'), ('clap', 'VB'), ('loudest', 'JJ')]
+	Rank: 160, Score: 0.533688
+Sentence: [('Go', 'VB'), ('peev', 'NN'), ('baron', 'NN'), ('hear', 'VB'), ('mean', 'VB'), ('bark', 'VB'), ('perci', 'NN')]
+	Rank: 159, Score: 0.538944
+Sentence: [('perci', 'NN'), ('direct', 'VB'), ('girl', 'NN'), ('door', 'NN'), ('dormitori', 'NN'), ('boy', 'NN')]
+	Rank: 158, Score: 0.546507
+Sentence: [('perci', 'VB'), ('prefect', 'NN'), ('got', 'VB'), ('shook', 'VB'), ('hand', 'NN'), ('vigor', 'RB'), ('weasley', 'NN'), ('twin', 'NN'), ('yell', 'VB'), ('got', 'VB'), ('potter', 'NN')]
+	Rank: 157, Score: 0.548270
+Sentence: [('anyon', 'RB'), ('interest', 'JJ'), ('play', 'VB'), ('hous', 'NN'), ('team', 'NN'), ('contact', 'VB'), ('madam', 'NN'), ('hooch', 'NN')]
+	Rank: 156, Score: 0.553657
+Sentence: [('turpin', 'NN'), ('lisa', 'NN'), ('becam', 'VB'), ('ravenclaw', 'NN'), ('ron', 'NN'), ('turn', 'NN')]
+	Rank: 155, Score: 0.557765
+Sentence: [('brother', 'NN'), ('told', 'VB'), ('nearli', 'RB'), ('headless', 'NN'), ('nick', 'NN'), ('prefer', 'VB'), ('call', 'VB'), ('sir', 'NN'), ('nichola', 'NN'), ('mimsi', 'NN'), ('ghost', 'NN'), ('began', 'VB'), ('stiffli', 'JJ'), ('sandy-hair', 'JJ'), ('seamu', 'NN'), ('finnigan', 'NN'), ('interrupt', 'VB')]
+	Rank: 154, Score: 0.564744
+Sentence: [('twenti', 'JJ'), ('ghost', 'NN'), ('stream', 'VB'), ('back', 'NN'), ('wall', 'NN')]
+	Rank: 153, Score: 0.570099
+Sentence: [('eye', 'NN'), ('linger', 'VB'), ('moment', 'NN'), ('nevil', 'NN'), ('cloak', 'NN'), ('fasten', 'VB'), ('left', 'JJ'), ('ear', 'NN'), ('ron', 'NN'), ('smudg', 'VB'), ('nose', 'RB')]
+	Rank: 152, Score: 0.582322
+Sentence: [('boot', 'NN'), ('terri', 'NN'), ('ravenclaw', 'NN'), ('tabl', 'JJ'), ('second', 'NN'), ('left', 'NN'), ('clap', 'VB'), ('time', 'NN'), ('sever', 'JJ'), ('ravenclaw', 'NN'), ('stood', 'VB'), ('shake', 'VB'), ('hand', 'NN'), ('terri', 'NN'), ('join', 'VB'), ('them.', 'NN')]
+	Rank: 151, Score: 0.584882
+Sentence: [('bundl', 'NN'), ('walk', 'VB'), ('stick', 'NN'), ('float', 'VB'), ('midair', 'NN'), ('ahead', 'RB'), ('perci', 'NN'), ('took', 'VB'), ('step', 'NN'), ('start', 'VB'), ('throw', 'VB')]
+	Rank: 150, Score: 0.586570
+Sentence: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('came', 'VB'), ('round', 'NN'), ('dinner', 'NN'), ('hang', 'VB'), ('upstair', 'JJ'), ('window', 'NN'), ('ankl', 'NN'), ('great', 'NN'), ('aunti', 'NN'), ('enid', 'NN'), ('offer', 'VB'), ('meringu', 'NN'), ('accident', 'RB'), ('let', 'VB'), ('go', 'VB')]
+	Rank: 149, Score: 0.594059
+Sentence: [('peev', 'NN'), ('stuck', 'VB'), ('tongu', 'NN'), ('vanish', 'VB'), ('drop', 'VB'), ('walk', 'VB'), ('stick', 'NN'), ('nevil', 'NN'), ('head', 'NN')]
+	Rank: 148, Score: 0.598386
+Sentence: [('one', 'NN'), ('talk', 'VB'), ('much', 'JJ'), ('hermion', 'NN'), ('granger', 'NN'), ('whisper', 'VB'), ('fast', 'RB'), ('spell', 'NN'), ('learn', 'VB'), ('wonder', 'VB'), ('need', 'VB')]
+	Rank: 147, Score: 0.603926
+Sentence: [('odd', 'RB'), ('usual', 'RB'), ('give', 'VB'), ('reason', 'NN'), ('allow', 'VB'), ('go', 'VB'), ('somewher', 'RB'), ('forest', 'JJ'), ('full', 'JJ'), ('danger', 'JJ'), ('beast', 'NN'), ('everyon', 'NN'), ('know', 'VB')]
+	Rank: 146, Score: 0.621804
+Sentence: [('center', 'NN'), ('high', 'NN'), ('tabl', 'NN'), ('larg', 'JJ'), ('gold', 'NN'), ('chair', 'NN'), ('sat', 'VB'), ('albu', 'NN'), ('dumbledor', 'NN')]
+	Rank: 145, Score: 0.623103
+Sentence: [('final', 'RB'), ('tell', 'VB'), ('year', 'NN'), ('third-floor', 'JJ'), ('corridor', 'NN'), ('right-hand', 'JJ'), ('side', 'NN'), ('bound', 'NN'), ('everyon', 'NN'), ('wish', 'VB'), ('die', 'VB'), ('pain', 'JJ'), ('death', 'NN')]
+	Rank: 144, Score: 0.637378
+Sentence: [('seen', 'VB'), ('face', 'VB'), ('got', 'VB'), ('thought', 'VB'), ('magic', 'JJ'), ('enough', 'RB'), ('come', 'VB'), ('see', 'VB')]
+	Rank: 143, Score: 0.642866
+Sentence: [('hundr', 'NN'), ('face', 'VB'), ('stare', 'VB'), ('look', 'VB'), ('pale', 'NN'), ('lantern', 'NN'), ('flicker', 'NN'), ('candlelight', 'NN')]
+	Rank: 142, Score: 0.644737
+Sentence: [('dot', 'VB'), ('student', 'NN'), ('ghost', 'NN'), ('shone', 'VB'), ('misti', 'JJ'), ('silver', 'NN')]
+	Rank: 141, Score: 0.648373
+Sentence: [('hope', 'VB'), ('credit', 'NN'), ('whichev', 'VB'), ('hous', 'NN'), ('becom', 'VB')]
+	Rank: 140, Score: 0.651108
+Sentence: [('nevil', 'NN'), ('longbottom', 'NN'), ('boy', 'NN'), ('kept', 'VB'), ('lose', 'VB'), ('toad', 'NN'), ('call', 'VB'), ('fell', 'VB'), ('way', 'NN'), ('stool', 'NN')]
+	Rank: 139, Score: 0.652272
+Sentence: [('hous', 'NN'), ('nobl', 'JJ'), ('histori', 'NN'), ('produc', 'VB'), ('outstand', 'JJ'), ('witch', 'NN'), ('wizard', 'NN')]
+	Rank: 138, Score: 0.656345
+Sentence: [('sleepi', 'JJ'), ('even', 'RB'), ('surpris', 'VB'), ('peopl', 'NN'), ('portrait', 'NN'), ('corridor', 'NN'), ('whisper', 'VB'), ('point', 'VB'), ('pass', 'VB'), ('twice', 'RB'), ('perci', 'NN'), ('led', 'VB'), ('doorway', 'NN'), ('hidden', 'VB'), ('slide', 'VB'), ('panel', 'NN'), ('hang', 'VB'), ('tapestri', 'NN')]
+	Rank: 137, Score: 0.657214
+Sentence: [('great', 'NN'), ('uncl', 'NN'), ('algi', 'NN'), ('kept', 'VB'), ('tri', 'VB'), ('catch', 'VB'), ('guard', 'NN'), ('forc', 'VB'), ('magic', 'JJ'), ('push', 'VB'), ('end', 'NN'), ('blackpool', 'NN'), ('pier', 'NN'), ('nearli', 'RB'), ('drown', 'VB'), ('noth', 'NN'), ('happen', 'VB')]
+	Rank: 136, Score: 0.664582
+Sentence: [('pearly-whit', 'JJ'), ('slightli', 'RB'), ('transpar', 'JJ'), ('glide', 'VB'), ('room', 'NN'), ('talk', 'VB'), ('hardli', 'RB'), ('glanc', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+	Rank: 135, Score: 0.665337
+Sentence: [('alway', 'RB'), ('last', 'JJ'), ('chosen', 'VB'), ('good', 'JJ'), ('one', 'NN'), ('want', 'VB'), ('dudley', 'NN'), ('think', 'VB'), ('like', 'VB')]
+	Rank: 134, Score: 0.687029
+Sentence: [('look', 'VB'), ('peculiar', 'RB'), ('larg', 'JJ'), ('purpl', 'JJ'), ('turban', 'NN')]
+	Rank: 133, Score: 0.704728
+Sentence: [('lit', 'VB'), ('thousand', 'NN'), ('thousand', 'NN'), ('candl', 'NN'), ('float', 'VB'), ('midair', 'NN'), ('long', 'JJ'), ('tabl', 'NN'), ('rest', 'NN'), ('student', 'NN'), ('sit', 'VB')]
+	Rank: 132, Score: 0.711657
+Sentence: [("n't", 'RB'), ('expect', 'VB'), ('someth', 'NN'), ('moment', 'NN'), ('arriv', 'VB')]
+	Rank: 131, Score: 0.718204
+Sentence: [('never', 'RB'), ('nervou', 'JJ'), ('never', 'RB'), ('even', 'RB'), ('take', 'VB'), ('school', 'NN'), ('report', 'NN'), ('home', 'NN'), ('dursley', 'NN'), ('say', 'VB'), ('somehow', 'RB'), ('turn', 'VB'), ('teacher', 'NN'), ('wig', 'NN'), ('blue', 'NN')]
+	Rank: 130, Score: 0.734169
+Sentence: [('hat', 'NN'), ('patch', 'VB'), ('fray', 'VB'), ('extrem', 'RB'), ('dirti', 'JJ')]
+	Rank: 129, Score: 0.735005
+Sentence: [('ghost', 'NN'), ('float', 'VB'), ('away', 'RB'), ('opposit', 'JJ'), ('wall', 'NN')]
+	Rank: 128, Score: 0.735205
+Sentence: [('block', 'NN'), ('ice', 'NN'), ('cream', 'NN'), ('flavor', 'NN'), ('think', 'VB'), ('appl', 'NN'), ('pie', 'NN'), ('treacl', 'VB'), ('tart', 'NN'), ('chocol', 'VB'), ('eclair', 'NN'), ('jam', 'NN'), ('doughnut', 'NN'), ('trifl', 'JJ'), ('strawberri', 'NN'), ('jell-o', 'NN'), ('rice', 'NN'), ('pud', 'NN'), ('harri', 'NN'), ('help', 'VB'), ('treacl', 'NN'), ('talk', 'NN'), ('turn', 'VB'), ('famili', 'NN')]
+	Rank: 127, Score: 0.737853
+Sentence: [('bloodi', 'NN'), ('baron', 'NN'), ('one', 'NN'), ('control', 'VB'), ("n't", 'RB'), ('even', 'RB'), ('listen', 'VB'), ('prefect', 'NN')]
+	Rank: 126, Score: 0.752903
+Sentence: [('entranc', 'NN'), ('hall', 'NN'), ('big', 'JJ'), ('fit', 'VB'), ('whole', 'NN'), ('dursley', 'NN'), ('hous', 'NN')]
+	Rank: 125, Score: 0.758692
+Sentence: [('professor', 'NN'), ('quirrel', 'NN'), ('absurd', 'JJ'), ('turban', 'NN'), ('talk', 'VB'), ('teacher', 'NN'), ('greasi', 'JJ'), ('black', 'JJ'), ('hair', 'NN'), ('hook', 'JJ'), ('nose', 'NN'), ('sallow', 'JJ'), ('skin', 'NN')]
+	Rank: 124, Score: 0.763294
+Sentence: [('go', 'VB'), ('bed', 'VB'), ('let', 'VB'), ('sing', 'VB'), ('school', 'NN'), ('song', 'NN'), ('cri', 'VB'), ('dumbledor', 'NN')]
+	Rank: 123, Score: 0.767547
+Sentence: [('mom', 'NN'), ("n't", 'RB'), ('tell', 'VB'), ('witch', 'NN'), ('marri', 'VB')]
+	Rank: 122, Score: 0.768374
+Sentence: [("n't", 'RB'), ('know', 'VB'), ('magic', 'JJ'), ('yet', 'RB'), ('earth', 'NN')]
+	Rank: 121, Score: 0.770208
+Sentence: [('roll', 'VB'), ('fell', 'VB'), ('asleep', 'RB'), ('woke', 'VB'), ('next', 'JJ'), ('day', 'NN'), ("n't", 'RB'), ('rememb', 'VB'), ('dream', 'NN')]
+	Rank: 120, Score: 0.781497
+Sentence: [('dumbledor', 'RB'), ('gave', 'VB'), ('wand', 'NN'), ('littl', 'JJ'), ('flick', 'NN'), ('tri', 'VB'), ('get', 'VB'), ('fli', 'NN'), ('end', 'NN'), ('long', 'JJ'), ('golden', 'JJ'), ('ribbon', 'NN'), ('flew', 'VB'), ('rose', 'VB'), ('high', 'JJ'), ('tabl', 'NN'), ('twist', 'VB'), ('snakelik', 'VB'), ('word', 'NN')]
+	Rank: 119, Score: 0.797312
+Sentence: [('chapter', 'NN'), ('seven', 'NN'), ('sort', 'NN'), ('hat', 'NN'), ('door', 'NN'), ('swung', 'NN'), ('open', 'JJ')]
+	Rank: 118, Score: 0.804905
+Sentence: [('move', 'NN'), ('along', 'RB'), ('said', 'VB'), ('sharp', 'JJ'), ('voic', 'NN')]
+	Rank: 117, Score: 0.809223
+Sentence: [('hmm', 'NN'), ('said', 'VB'), ('small', 'JJ'), ('voic', 'NN'), ('ear', 'NN')]
+	Rank: 116, Score: 0.809469
+Sentence: [('bone', 'NN'), ('susan', 'NN'), ('hufflepuff', 'NN'), ('shout', 'VB'), ('hat', 'NN'), ('susan', 'NN'), ('scuttl', 'VB'), ('sit', 'VB'), ('next', 'JJ'), ('hannah', 'VB')]
+	Rank: 115, Score: 0.814306
+Sentence: [('fred', 'NN'), ('said', 'VB'), ('hurt', 'VB'), ('lot', 'NN'), ('think', 'VB'), ('joke', 'VB')]
+	Rank: 114, Score: 0.815556
+Sentence: [('tabl', 'NN'), ('right', 'NN'), ('cheer', 'VB'), ('clap', 'VB'), ('hannah', 'NN'), ('went', 'VB'), ('sit', 'VB'), ('hufflepuff', 'NN'), ('tabl', 'NN')]
+	Rank: 113, Score: 0.820829
+Sentence: [('new', 'NN'), ('student', 'NN'), ('said', 'VB'), ('fat', 'NN'), ('friar', 'NN'), ('smile', 'VB'), ('around', 'RB')]
+	Rank: 112, Score: 0.825882
+Sentence: [('heard', 'VB'), ('hermion', 'NN'), ('whisper', 'VB'), ('bewitch', 'VB'), ('look', 'VB'), ('sky', 'NN')]
+	Rank: 111, Score: 0.841994
+Sentence: [('teach', 'VB'), ('potion', 'NN'), ("n't", 'RB'), ('want', 'VB'), ('everyon', 'NN'), ('know', 'VB'), ('quirrel', 'NN'), ('job', 'NN')]
+	Rank: 110, Score: 0.849969
+Sentence: [('never', 'RB'), ('ask', 'VB'), ('said', 'VB'), ('nearli', 'NN'), ('headless', 'NN'), ('nick', 'NN'), ('delic', 'RB')]
+	Rank: 109, Score: 0.850365
+Sentence: [('hard', 'JJ'), ('believ', 'VB'), ('ceil', 'NN'), ('great', 'NN'), ('hall', 'NN'), ("n't", 'RB'), ('simpli', 'RB'), ('open', 'VB'), ('heaven', 'NN')]
+	Rank: 108, Score: 0.860163
+Sentence: [('give', 'VB'), ('bad', 'JJ'), ('name', 'NN'), ('know', 'VB'), ('realli', 'RB'), ('even', 'RB'), ('ghost', 'NN'), ('say', 'VB')]
+	Rank: 107, Score: 0.860498
+Sentence: [('professor', 'NN'), ('mcgonagal', 'NN'), ('step', 'VB'), ('forward', 'RB'), ('hold', 'VB'), ('long', 'JJ'), ('roll', 'NN'), ('parchment', 'NN')]
+	Rank: 106, Score: 0.886596
+Sentence: [('caput', 'NN'), ('draconi', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('portrait', 'NN'), ('swung', 'NN'), ('forward', 'RB'), ('reveal', 'VB'), ('round', 'NN'), ('hole', 'NN'), ('wall', 'NN')]
+	Rank: 105, Score: 0.889522
+Sentence: [('follow', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('flag', 'JJ'), ('stone', 'NN'), ('floor', 'NN')]
+	Rank: 104, Score: 0.896246
+Sentence: [('look', 'VB'), ('fat', 'JJ'), ('littl', 'JJ'), ('monk', 'NN'), ('say', 'VB'), ('forgiv', 'NN'), ('forget', 'VB'), ('say', 'VB'), ('give', 'VB'), ('second', 'JJ'), ('chanc', 'NN'), ('dear', 'JJ'), ('friar', 'NN'), ("n't", 'RB'), ('given', 'VB'), ('peev', 'VB'), ('chanc', 'NN'), ('deserv', 'VB')]
+	Rank: 103, Score: 0.896875
+Sentence: [('hope', 'NN'), ('see', 'VB'), ('hufflepuff', 'NN'), ('said', 'VB'), ('friar', 'NN')]
+	Rank: 102, Score: 0.902164
+Sentence: [('Ah', 'NN'), ('music', 'NN'), ('said', 'VB'), ('wipe', 'VB'), ('eye', 'NN')]
+	Rank: 101, Score: 0.904204
+Sentence: [('sir', 'NN'), ('nichola', 'NN'), ('look', 'VB'), ('extrem', 'RB'), ('mif', 'VB'), ('littl', 'JJ'), ('go', 'VB'), ('way', 'NN'), ('want', 'VB')]
+	Rank: 100, Score: 0.907800
+Sentence: [('dumbledor', 'NN'), ('silver', 'NN'), ('hair', 'NN'), ('thing', 'NN'), ('whole', 'JJ'), ('hall', 'NN'), ('shone', 'NN'), ('brightli', 'RB'), ('ghost', 'NN')]
+	Rank: 99, Score: 0.911268
+Sentence: [('start-of-term', 'JJ'), ('banquet', 'NN'), ('begin', 'VB'), ('shortli', 'RB'), ('take', 'VB'), ('seat', 'NN'), ('great', 'NN'), ('hall', 'NN'), ('sort', 'VB'), ('hous', 'NN')]
+	Rank: 98, Score: 0.931968
+Sentence: [('abbott', 'NN'), ('hannah', 'NN'), ('pink-fac', 'JJ'), ('girl', 'NN'), ('blond', 'NN'), ('pigtail', 'NN'), ('stumbl', 'VB'), ('line', 'NN'), ('put', 'VB'), ('hat', 'NN'), ('fell', 'VB'), ('right', 'RB'), ('eye', 'NN'), ('sat', 'VB')]
+	Rank: 97, Score: 0.936192
+Sentence: [('top', 'NN'), ('stool', 'NN'), ('put', 'VB'), ('point', 'JJ'), ('wizard', 'NN'), ('hat', 'NN')]
+	Rank: 96, Score: 0.946296
+Sentence: [('ghost', 'NN'), ('wear', 'VB'), ('ruff', 'NN'), ('tight', 'NN'), ('suddenli', 'RB'), ('notic', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+	Rank: 95, Score: 0.947605
+Sentence: [('harri', 'NN'), ('recogn', 'VB'), ('card', 'NN'), ("he'd", 'NN'), ('gotten', 'VB'), ('chocol', 'NN'), ('frog', 'NN'), ('train', 'NN')]
+	Rank: 94, Score: 0.951206
+Sentence: [('hogwart', 'NN'), ('triumph', 'NN'), ('earn', 'VB'), ('hous', 'NN'), ('point', 'NN'), ('rulebreak', 'NN'), ('lose', 'VB'), ('hous', 'NN'), ('point', 'NN')]
+	Rank: 93, Score: 0.958270
+Sentence: [('second', 'JJ'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('come', 'VB'), ('back', 'RB'), ('lead', 'VB'), ('doom', 'NN')]
+	Rank: 92, Score: 0.961847
+Sentence: [('look', 'VB'), ('around', 'RB'), ('anxious', 'RB'), ('saw', 'VB'), ('everyon', 'NN'), ('els', 'RB'), ('look', 'VB'), ('terrifi', 'VB')]
+	Rank: 91, Score: 0.968921
+Sentence: [('safe', 'JJ'), ('hand', 'NN'), ('none', 'NN'), ('think', 'VB'), ('cap', 'NN'), ('whole', 'JJ'), ('hall', 'NN'), ('burst', 'NN'), ('applaus', 'NN'), ('hat', 'NN'), ('finish', 'VB'), ('song', 'NN')]
+	Rank: 90, Score: 0.970044
+Sentence: [('well', 'RB'), ('gran', 'NN'), ('brought', 'VB'), ('witch', 'NN'), ('said', 'VB'), ('nevil', 'NN'), ('famili', 'NN'), ('thought', 'VB'), ('all-', 'JJ'), ('muggl', 'NN'), ('age', 'NN')]
+	Rank: 89, Score: 0.973554
+Sentence: [('last', 'JJ'), ('dessert', 'NN'), ('disappear', 'JJ'), ('professor', 'NN'), ('dumbledor', 'NN'), ('got', 'VB'), ('feet', 'NN')]
+	Rank: 88, Score: 0.978077
+Sentence: [('class', 'NN'), ('rest', 'NN'), ('hous', 'NN'), ('sleep', 'NN'), ('hous', 'NN'), ('dormitori', 'NN'), ('spend', 'VB'), ('free', 'JJ'), ('time', 'NN'), ('hous', 'NN'), ('common', 'JJ'), ('room', 'NN')]
+	Rank: 87, Score: 0.981487
+Sentence: [('sort', 'NN'), ('import', 'JJ'), ('ceremoni', 'NN'), ('hous', 'NN'), ('someth', 'NN'), ('famili', 'NN'), ('hogwart', 'NN')]
+	Rank: 86, Score: 0.988808
+Sentence: [('top', 'NN'), ('hall', 'NN'), ('long', 'JJ'), ('tabl', 'NN'), ('teacher', 'NN'), ('sit', 'VB')]
+	Rank: 85, Score: 1.017804
+Sentence: [('tri', 'VB'), ('hat', 'NN'), ('lot', 'NN'), ('better', 'JJ'), ('spell', 'NN'), ('wish', 'VB'), ('tri', 'VB'), ('everyon', 'NN'), ('watch', 'NN')]
+	Rank: 84, Score: 1.021713
+Sentence: [('horribl', 'JJ'), ('thought', 'JJ'), ('struck', 'NN'), ('harri', 'NN'), ('horribl', 'JJ'), ('thought', 'NN'), ('alway', 'RB'), ('nervou', 'JJ')]
+	Rank: 83, Score: 1.058397
+Sentence: [('everyon', 'NN'), ('pick', 'VB'), ('favorit', 'JJ'), ('tune', 'NN'), ('said', 'VB'), ('dumbledor', 'NN'), ('go', 'VB'), ('school', 'NN'), ('bellow', 'VB'), ('hogwart', 'NN'), ('hogwart', 'NN'), ('hoggi', 'NN'), ('warti', 'NN'), ('hogwart', 'NN'), ('teach', 'NN'), ('someth', 'NN'), ('pleas', 'VB'), ('whether', 'NN'), ('old', 'JJ'), ('bald', 'NN'), ('young', 'JJ'), ('scabbi', 'JJ'), ('knee', 'NN'), ('head', 'NN'), ('fill', 'VB'), ('interest', 'JJ'), ('stuff', 'NN'), ('bare', 'VB'), ('full', 'JJ'), ('air', 'NN'), ('dead', 'NN'), ('fli', 'NN'), ('bit', 'NN'), ('fluff', 'NN'), ('teach', 'VB'), ('thing', 'NN'), ('worth', 'JJ'), ('know', 'VB'), ('bring', 'NN'), ('forgot', 'VB'), ('best', 'JJ'), ('rest', 'NN'), ('learn', 'NN'), ('brain', 'NN'), ('rot', 'VB')]
+	Rank: 82, Score: 1.061220
+Sentence: [('scrambl', 'VB'), ('nevil', 'NN'), ('need', 'VB'), ('leg', 'NN'), ('found', 'VB'), ('gryffindor', 'NN'), ('common', 'JJ'), ('room', 'NN'), ('cozi', 'JJ'), ('round', 'NN'), ('room', 'NN'), ('full', 'JJ'), ('squashi', 'JJ'), ('armchair', 'NN')]
+	Rank: 81, Score: 1.067900
+Sentence: [('hope', 'VB'), ('go', 'VB'), ('help', 'VB'), ('win', 'VB'), ('hous', 'NN'), ('championship', 'NN'), ('year', 'NN')]
+	Rank: 80, Score: 1.072660
+Sentence: [('hat', 'NN'), ('took', 'VB'), ('long', 'JJ'), ('time', 'NN'), ('decid', 'VB'), ('nevil', 'NN')]
+	Rank: 79, Score: 1.076286
+Sentence: [('end', 'NN'), ('year', 'NN'), ('hous', 'NN'), ('point', 'NN'), ('award', 'VB'), ('hous', 'NN'), ('cup', 'VB'), ('great', 'JJ'), ('honor', 'NN')]
+	Rank: 78, Score: 1.077510
+Sentence: [('harri', 'NN'), ('leg', 'NN'), ('like', 'JJ'), ('lead', 'NN'), ('tire', 'JJ'), ('full', 'JJ'), ('food', 'NN')]
+	Rank: 77, Score: 1.078386
+Sentence: [('rip', 'NN'), ('brim', 'NN'), ('open', 'VB'), ('wide', 'JJ'), ('mouth', 'NN'), ('hat', 'NN'), ('began', 'VB'), ('sing', 'VB'), ('Oh', 'NN'), ('think', 'VB'), ('pretti', 'RB'), ("n't", 'RB'), ('judg', 'VB'), ('see', 'VB'), ('eat', 'VB'), ('find', 'VB'), ('smarter', 'NN'), ('hat', 'NN')]
+	Rank: 76, Score: 1.080627
+Sentence: [('must', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('frown', 'VB'), ('dumbledor', 'NN')]
+	Rank: 75, Score: 1.089971
+Sentence: [('hat', 'NN'), ('mention', 'VB'), ('hous', 'NN'), ('peopl', 'NN'), ('felt', 'VB'), ('bit', 'NN'), ('queasi', 'JJ')]
+	Rank: 74, Score: 1.095452
+Sentence: [('aunt', 'NN'), ('petunia', 'NN'), ("n't", 'RB'), ('let', 'VB'), ('hous', 'NN')]
+	Rank: 73, Score: 1.105490
+Sentence: [('harri', 'NN'), ('pile', 'VB'), ('plate', 'NN'), ('bit', 'NN'), ('everyth', 'NN'), ('peppermint', 'NN'), ('began', 'VB'), ('eat', 'VB')]
+	Rank: 72, Score: 1.107263
+Sentence: [('dursley', 'NN'), ('never', 'RB'), ('exactli', 'RB'), ('starv', 'VB'), ('harri', 'NN'), ('never', 'RB'), ('allow', 'VB'), ('eat', 'VB'), ('much', 'RB'), ('like', 'VB')]
+	Rank: 71, Score: 1.110829
+Sentence: [('climb', 'VB'), ('staircas', 'NN'), ('yawn', 'VB'), ('drag', 'VB'), ('feet', 'NN'), ('harri', 'NN'), ('wonder', 'VB'), ('much', 'JJ'), ('farther', 'NN'), ('go', 'VB'), ('came', 'VB'), ('sudden', 'JJ'), ('halt', 'NN')]
+	Rank: 70, Score: 1.111373
+Sentence: [('stern', 'JJ'), ('face', 'NN'), ('harri', 'NN'), ('first', 'RB'), ('thought', 'VB'), ('someon', 'NN'), ('cross', 'VB')]
+	Rank: 69, Score: 1.115653
+Sentence: [('final', 'RB'), ('shout', 'VB'), ('gryffindor', 'NN'), ('nevil', 'NN'), ('ran', 'VB'), ('still', 'RB'), ('wear', 'VB'), ('jog', 'VB'), ('back', 'RB'), ('gale', 'NN'), ('laughter', 'NN'), ('give', 'VB'), ('macdoug', 'NN'), ('morag', 'NN')]
+	Rank: 68, Score: 1.132194
+Sentence: [('reliev', 'VB'), ('chosen', 'VB'), ('put', 'VB'), ('slytherin', 'NN'), ('hardli', 'RB'), ('notic', 'VB'), ('get', 'VB'), ('loudest', 'JJ'), ('cheer', 'NN'), ('yet', 'RB')]
+	Rank: 67, Score: 1.136696
+Sentence: [('want', 'VB'), ('watch', 'VB'), ('peev', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('set', 'VB')]
+	Rank: 66, Score: 1.160929
+Sentence: [('peev', 'NN'), ('perci', 'NN'), ('whisper', 'VB'), ('first', 'JJ'), ('year', 'NN')]
+	Rank: 65, Score: 1.172477
+Sentence: [('gryffindor', 'NN'), ('never', 'RB'), ('gone', 'VB'), ('long', 'RB'), ('win', 'VB')]
+	Rank: 64, Score: 1.172828
+Sentence: [('ghost', 'NN'), ('pat', 'VB'), ('arm', 'NN'), ('give', 'VB'), ('harri', 'NN'), ('sudden', 'JJ'), ('horribl', 'JJ'), ('feel', 'NN'), ('plung', 'VB'), ('bucket', 'NN'), ('ice-cold', 'JJ'), ('water', 'NN')]
+	Rank: 63, Score: 1.188853
+Sentence: [('dudley', 'NN'), ('alway', 'RB'), ('taken', 'VB'), ('anyth', 'NN'), ('harri', 'NN'), ('realli', 'RB'), ('want', 'VB'), ('even', 'RB'), ('made', 'VB'), ('sick', 'VB')]
+	Rank: 62, Score: 1.190796
+Sentence: [('wonder', 'NN'), ('look', 'VB'), ('nervou', 'JJ'), ('professor', 'NN'), ('snape', 'NN')]
+	Rank: 61, Score: 1.195186
+Sentence: [('keep', 'VB'), ('bowler', 'NN'), ('black', 'JJ'), ('top', 'NN'), ('hat', 'NN'), ('sleek', 'VB'), ('tall', 'VB'), ('hogwart', 'NN'), ('sort', 'NN'), ('hat', 'NN'), ('cap', 'VB')]
+	Rank: 60, Score: 1.208816
+Sentence: [('perhap', 'RB'), ('harri', 'NN'), ('eaten', 'VB'), ('bit', 'RB'), ('much', 'JJ'), ('strang', 'JJ'), ('dream', 'NN')]
+	Rank: 59, Score: 1.210373
+Sentence: [('next', 'JJ'), ('second', 'NN'), ('look', 'VB'), ('black', 'JJ'), ('insid', 'NN'), ('hat', 'NN')]
+	Rank: 58, Score: 1.232805
+Sentence: [('harri', 'NN'), ('side', 'NN'), ('perci', 'NN'), ('weasley', 'NN'), ('hermion', 'NN'), ('talk', 'VB'), ('lesson', 'NN'), ('hope', 'RB'), ('start', 'VB'), ('right', 'JJ'), ('away', 'RB'), ('much', 'JJ'), ('learn', 'VB'), ("i'm", 'NN'), ('particularli', 'RB'), ('interest', 'JJ'), ('transfigur', 'NN'), ('know', 'VB'), ('turn', 'VB'), ('someth', 'NN'), ('someth', 'NN'), ('els', 'RB'), ('cours', 'NN'), ('suppos', 'VB'), ('difficult-', 'JJ'), ('start', 'VB'), ('small', 'JJ'), ('match', 'NN'), ('needl', 'NN'), ('sort', 'NN'), ('thing', 'NN')]
+	Rank: 57, Score: 1.241106
+Sentence: [('great', 'JJ'), ('know', 'VB'), ('head', 'NN'), ('slytherin', 'NN'), ('help', 'VB'), ('way', 'NN'), ('great', 'VB'), ('doubt', 'NN')]
+	Rank: 56, Score: 1.246710
+Sentence: [('harri', 'NN'), ('notic', 'VB'), ('teacher', 'NN'), ('smile', 'NN'), ('becom', 'VB'), ('rather', 'RB'), ('fix', 'JJ')]
+	Rank: 55, Score: 1.256102
+Sentence: [('harri', 'NN'), ('heart', 'NN'), ('gave', 'VB'), ('horribl', 'JJ'), ('jolt', 'NN')]
+	Rank: 54, Score: 1.277450
+Sentence: [('harri', 'NN'), ('never', 'RB'), ('even', 'RB'), ('imagin', 'VB'), ('strang', 'JJ'), ('splendid', 'JJ'), ('place', 'NN')]
+	Rank: 53, Score: 1.285196
+Sentence: [('harri', 'NN'), ('spot', 'VB'), ('professor', 'NN'), ('quirtel', 'NN'), ('nervou', 'JJ'), ('young', 'JJ'), ('man', 'NN'), ('leaki', 'NN'), ('cauldron', 'NN')]
+	Rank: 52, Score: 1.286158
+Sentence: [('form', 'VB'), ('line', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('told', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('follow', 'VB')]
+	Rank: 51, Score: 1.298558
+Sentence: [('call', 'VB'), ('name', 'NN'), ('put', 'VB'), ('hat', 'NN'), ('sit', 'NN'), ('stool', 'NN'), ('sort', 'VB'), ('said', 'VB')]
+	Rank: 50, Score: 1.330715
+Sentence: [('moon', 'NN'), ('nott', 'NN'), ('parkinson', 'NN'), ('pair', 'NN'), ('twin', 'JJ'), ('girl', 'NN'), ('patil', 'NN'), ('patil', 'NN'), ('perk', 'VB'), ('sally-ann', 'NN'), ('last', 'JJ'), ('potter', 'NN'), ('harri', 'NN'), ('harri', 'NN'), ('step', 'VB'), ('forward', 'RB'), ('whisper', 'NN'), ('suddenli', 'RB'), ('broke', 'VB'), ('littl', 'JJ'), ('hiss', 'JJ'), ('fire', 'NN'), ('hall', 'NN')]
+	Rank: 49, Score: 1.338462
+Sentence: [('bloodi', 'NN'), ('baron', 'NN'), ('becom', 'VB'), ('almost', 'RB'), ('unbear', 'JJ'), ('slytherin', 'NN'), ('ghost', 'NN')]
+	Rank: 48, Score: 1.343891
+Sentence: [('professor', 'NN'), ('mcgonagal', 'NN'), ('talk', 'VB'), ('professor', 'NN'), ('dumbledor', 'NN')]
+	Rank: 47, Score: 1.363946
+Sentence: [('welcom', 'VB'), ('hogwart', 'NN'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+	Rank: 46, Score: 1.390786
+Sentence: [('mainli', 'RB'), ('avoid', 'VB'), ('stare', 'VB'), ('eye', 'NN'), ('harri', 'NN'), ('look', 'VB'), ('upward', 'JJ'), ('saw', 'VB'), ('velveti', 'NN'), ('black', 'JJ'), ('ceil', 'NN'), ('dot', 'VB'), ('star', 'NN')]
+	Rank: 45, Score: 1.393483
+Sentence: [('perhap', 'RB'), ("harry'", 'NN'), ('imagin', 'NN'), ('heard', 'VB'), ('slytherin', 'NN'), ('thought', 'VB'), ('look', 'VB'), ('unpleas', 'JJ'), ('lot', 'NN')]
+	Rank: 44, Score: 1.395126
+Sentence: [('return', 'VB'), ('readi', 'JJ'), ('said', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN')]
+	Rank: 43, Score: 1.406352
+Sentence: [('harri', 'NN'), ('saw', 'VB'), ('ghost', 'NN'), ('fat', 'NN'), ('friar', 'NN'), ('wave', 'VB'), ('merrili', 'RB')]
+	Rank: 42, Score: 1.409643
+Sentence: [('slytherin', 'NN'), ('got', 'VB'), ('cup', 'NN'), ('year', 'NN'), ('row', 'NN')]
+	Rank: 41, Score: 1.412770
+Sentence: [('feel', 'VB'), ('oddli', 'RB'), ('leg', 'NN'), ('turn', 'VB'), ('lead', 'VB'), ('harri', 'NN'), ('got', 'VB'), ('line', 'NN'), ('boy', 'NN'), ('sandi', 'JJ'), ('hair', 'NN'), ('ron', 'NN'), ('walk', 'VB'), ('chamber', 'NN'), ('back', 'RB'), ('hall', 'NN'), ('pair', 'NN'), ('doubl', 'JJ'), ('door', 'NN'), ('great', 'NN'), ('hall', 'NN')]
+	Rank: 40, Score: 1.419821
+Sentence: [('wear', 'VB'), ('professor', 'NN'), ('quirrel', 'NN'), ('turban', 'NN'), ('kept', 'VB'), ('talk', 'VB'), ('tell', 'VB'), ('transfer', 'VB'), ('slytherin', 'NN'), ('destini', 'NN')]
+	Rank: 39, Score: 1.421773
+Sentence: [('harri', 'NN'), ('go', 'VB'), ('ask', 'VB'), ('ron', 'NN'), ('treacl', 'NN'), ('tart', 'NN'), ('fell', 'VB'), ('asleep', 'RB'), ('almost', 'RB')]
+	Rank: 38, Score: 1.427319
+Sentence: [('professor', 'NN'), ('mcgonagal', 'NN'), ('led', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('came', 'VB'), ('halt', 'NN'), ('line', 'NN'), ('face', 'VB'), ('student', 'NN'), ('teacher', 'NN')]
+	Rank: 37, Score: 1.431477
+Sentence: [('got', 'VB'), ('potter', 'NN'), ('harri', 'NN'), ('sat', 'VB'), ('opposit', 'RB'), ('ghost', 'NN'), ('ruff', 'NN'), ('seen', 'VB'), ('earlier', 'RB')]
+	Rank: 36, Score: 1.436098
+Sentence: [('harri', 'NN'), ('nervous', 'RB'), ('tri', 'VB'), ('flatten', 'VB'), ('hair', 'NN')]
+	Rank: 35, Score: 1.439841
+Sentence: [('noth', 'NN'), ('hidden', 'NN'), ('head', 'NN'), ('sort', 'VB'), ('hat', 'NN'), ("n't", 'RB'), ('see', 'VB'), ('tri', 'VB'), ('tell', 'VB')]
+	Rank: 34, Score: 1.441657
+Sentence: [('ouch', 'JJ'), ('harri', 'NN'), ('clap', 'VB'), ('hand', 'NN'), ('head', 'NN')]
+	Rank: 33, Score: 1.461423
+Sentence: [('professor', 'NN'), ('mcgonagal', 'NN'), ('roll', 'VB'), ('scroll', 'NN'), ('took', 'VB'), ('sort', 'NN'), ('hat', 'NN'), ('away', 'RB')]
+	Rank: 32, Score: 1.530770
+Sentence: [('belong', 'VB'), ('gryffindor', 'NN'), ('dwell', 'VB'), ('brave', 'NN'), ('heart', 'NN'), ('dare', 'NN'), ('nerv', 'NN'), ('chivalri', 'NN'), ('set', 'NN'), ('gryffindor', 'NN'), ('apart', 'RB'), ('belong', 'VB'), ('hufflepuff', 'NN'), ('loyal', 'JJ'), ('patient', 'JJ'), ('hufflepuffi', 'NN'), ('true', 'JJ'), ('unafraid', 'JJ'), ('toil', 'NN'), ('yet', 'RB'), ('wise', 'NN'), ('old', 'JJ'), ('ravenclaw', 'NN'), ('readi', 'JJ'), ('mind', 'NN'), ('wit', 'NN'), ('learn', 'NN'), ('alway', 'RB'), ('find', 'VB'), ('kind', 'NN'), ('perhap', 'RB'), ('slytherin', 'NN'), ('make', 'VB'), ('real', 'JJ'), ('friend', 'NN'), ('cun', 'VB'), ('folk', 'NN'), ('use', 'NN'), ('mean', 'NN'), ('achiev', 'VB'), ('end', 'NN')]
+	Rank: 31, Score: 1.556364
+Sentence: [('malfoy', 'NN'), ('swagger', 'VB'), ('forward', 'RB'), ('name', 'NN'), ('call', 'VB'), ('got', 'VB'), ('wish', 'NN'), ('hat', 'NN'), ('bare', 'RB'), ('touch', 'VB'), ('head', 'NN'), ('scream', 'VB'), ('slytherin', 'NN'), ('malfoy', 'NN'), ('went', 'VB'), ('join', 'VB'), ('friend', 'NN'), ('crabb', 'NN'), ('goyl', 'NN'), ('look', 'VB'), ('pleas', 'JJ')]
+	Rank: 30, Score: 1.600952
+Sentence: [('look', 'VB'), ('pleas', 'VB'), ('stun', 'JJ'), ('look', 'NN'), ('face', 'VB'), ('nearli', 'RB'), ('headless', 'NN'), ('nick', 'NN'), ('flip', 'VB'), ('head', 'NN'), ('back', 'RB'), ('neck', 'NN'), ('cough', 'VB'), ('said', 'VB'), ('new', 'JJ'), ('gryffindor', 'NN')]
+	Rank: 29, Score: 1.605145
+Sentence: [('harri', 'NN'), ('grip', 'VB'), ('edg', 'NN'), ('stool', 'NN'), ('thought', 'VB'), ('slytherin', 'NN'), ('slytherin', 'NN')]
+	Rank: 28, Score: 1.616357
+Sentence: [('harri', 'NN'), ('start', 'VB'), ('feel', 'VB'), ('warm', 'JJ'), ('sleepi', 'NN'), ('look', 'VB'), ('high', 'NN'), ('tabl', 'NN')]
+	Rank: 27, Score: 1.629141
+Sentence: [('trot', 'VB'), ('gryffindor', 'NN'), ('first', 'JJ'), ('year', 'NN'), ('follow', 'VB'), ('perci', 'NN'), ('chatter', 'NN'), ('crowd', 'VB'), ('great', 'NN'), ('hall', 'NN'), ('marbl', 'JJ'), ('staircas', 'NN')]
+	Rank: 26, Score: 1.631927
+Sentence: [('last', 'JJ'), ('thing', 'NN'), ('harri', 'NN'), ('saw', 'VB'), ('hat', 'NN'), ('drop', 'VB'), ('eye', 'NN'), ('hall', 'JJ'), ('full', 'JJ'), ('peopl', 'NN'), ('crane', 'VB'), ('get', 'VB'), ('good', 'JJ'), ('look', 'NN')]
+	Rank: 25, Score: 1.634910
+Sentence: [('mayb', 'RB'), ('tri', 'VB'), ('get', 'VB'), ('rabbit', 'NN'), ('harri', 'NN'), ('thought', 'VB'), ('wildli', 'RB'), ('seem', 'VB'), ('sort', 'NN'), ('thing', 'NN'), ('notic', 'NN'), ('everyon', 'NN'), ('hall', 'NN'), ('stare', 'VB'), ('hat', 'NN'), ('stare', 'VB')]
+	Rank: 24, Score: 1.642438
+Sentence: [('fir', 'JJ'), ('year', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('said', 'VB'), ('hagrid', 'NN')]
+	Rank: 23, Score: 1.644519
+Sentence: [('brocklehurst', 'NN'), ('mandi', 'NN'), ('went', 'VB'), ('ravenclaw', 'NN'), ('brown', 'NN'), ('lavend', 'NN'), ('becam', 'VB'), ('first', 'JJ'), ('new', 'JJ'), ('gryffindor', 'NN'), ('tabl', 'NN'), ('far', 'RB'), ('left', 'NN'), ('explod', 'VB'), ('cheer', 'NN'), ('harri', 'NN'), ('see', 'VB'), ('ron', 'NN'), ('twin', 'VB'), ('brother', 'NN'), ('catcal', 'VB')]
+	Rank: 22, Score: 1.653845
+Sentence: [('right', 'JJ'), ('next', 'JJ'), ('malfoy', 'NN'), ('harri', 'NN'), ('pleas', 'JJ'), ('see', 'VB'), ("n't", 'RB'), ('look', 'VB'), ('pleas', 'JJ'), ('seat', 'NN'), ('arrang', 'NN')]
+	Rank: 21, Score: 1.665243
+Sentence: [('took', 'VB'), ('hat', 'NN'), ('walk', 'VB'), ('shakili', 'RB'), ('gryffindor', 'NN'), ('tabl', 'NN')]
+	Rank: 20, Score: 1.694572
+Sentence: [('hook-nos', 'JJ'), ('teacher', 'NN'), ('look', 'VB'), ('past', 'JJ'), ("quirrell'", 'NN'), ('turban', 'NN'), ('straight', 'VB'), ('harri', 'NN'), ('eye', 'NN'), ('sharp', 'JJ'), ('hot', 'JJ'), ('pain', 'NN'), ('shot', 'NN'), ('scar', 'NN'), ('harri', 'NN'), ('forehead', 'NN')]
+	Rank: 19, Score: 1.708914
+Sentence: [('harri', 'NN'), ('look', 'VB'), ('empti', 'JJ'), ('gold', 'NN'), ('plate', 'NN')]
+	Rank: 18, Score: 1.744847
+Sentence: [('hat', 'NN'), ('seem', 'VB'), ('ask', 'VB'), ('rather', 'RB'), ('alot', 'NN'), ('harri', 'NN'), ("n't", 'RB'), ('feel', 'VB'), ('brave', 'VB'), ('quick-wit', 'JJ'), ('moment', 'NN')]
+	Rank: 17, Score: 1.749295
+Sentence: [('sat', 'VB'), ('hat', 'NN'), ('eye', 'NN'), ('age', 'NN'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('jerk', 'VB'), ('head', 'NN'), ('said', 'VB'), ('obvious', 'RB'), ('mistak', 'NN'), ('better', 'JJ'), ('get', 'VB'), ('back', 'RB'), ('train', 'NN')]
+	Rank: 16, Score: 1.751406
+Sentence: [("n't", 'RB'), ('eaten', 'VB'), ('nearli', 'RB'), ('year', 'NN'), ('said', 'VB'), ('ghost', 'NN')]
+	Rank: 15, Score: 1.758701
+Sentence: [('harri', 'NN'), ('hear', 'VB'), ('drone', 'NN'), ('hundr', 'NN'), ('voic', 'NN'), ('doorway', 'NN'), ('right', 'JJ'), ('rest', 'NN'), ('school', 'NN'), ('alreadi', 'RB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('show', 'VB'), ('first', 'JJ'), ('year', 'NN'), ('small', 'JJ'), ('empti', 'JJ'), ('chamber', 'NN'), ('hall', 'NN')]
+	Rank: 14, Score: 1.792323
+Sentence: [('harri', 'NN'), ('watch', 'VB'), ('snape', 'NN'), ('snape', 'NN'), ("n't", 'RB'), ('look', 'VB')]
+	Rank: 13, Score: 1.798535
+Sentence: [('thoma', 'NN'), ('dean', 'NN'), ('black', 'NN'), ('boy', 'NN'), ('even', 'RB'), ('taller', 'JJ'), ('ron', 'NN'), ('join', 'VB'), ('harri', 'NN'), ('gryffindor', 'NN'), ('tabl', 'NN')]
+	Rank: 12, Score: 1.813424
+Sentence: [('sometim', 'NN'), ('harri', 'NN'), ('notic', 'VB'), ('hat', 'NN'), ('shout', 'VB'), ('hous', 'NN'), ('other', 'NN'), ('took', 'VB'), ('littl', 'JJ'), ('decid', 'VB')]
+	Rank: 11, Score: 1.877837
+Sentence: [('hous', 'NN'), ('call', 'VB'), ('gryffindor', 'NN'), ('hufflepuff', 'NN'), ('ravenclaw', 'NN'), ('slytherin', 'NN')]
+	Rank: 10, Score: 1.908035
+Sentence: [('harri', 'NN'), ('told', 'VB'), ('turban', 'NN'), ("n't", 'RB'), ('want', 'VB'), ('slytherin', 'NN'), ('got', 'VB'), ('heavier', 'RB'), ('heavier', 'RB'), ('tri', 'VB'), ('pull', 'VB'), ('tighten', 'VB'), ('pain', 'RB'), ('malfoy', 'NN'), ('laugh', 'VB'), ('struggl', 'VB'), ('malfoy', 'NN'), ('turn', 'VB'), ('hook-nos', 'JJ'), ('teacher', 'NN'), ('snape', 'NN'), ('laugh', 'NN'), ('becam', 'VB'), ('high', 'JJ'), ('cold', 'JJ'), ('burst', 'NN'), ('green', 'JJ'), ('light', 'NN'), ('harri', 'NN'), ('woke', 'VB'), ('sweat', 'VB'), ('shake', 'VB')]
+	Rank: 9, Score: 1.949127
+Sentence: [('finnigan', 'NN'), ('seamu', 'NN'), ('sandy-hair', 'JJ'), ('boy', 'NN'), ('harri', 'NN'), ('line', 'NN'), ('sat', 'VB'), ('stool', 'NN'), ('almost', 'RB'), ('whole', 'JJ'), ('minut', 'NN'), ('hat', 'NN'), ('declar', 'VB'), ('gryffindor', 'NN')]
+	Rank: 8, Score: 1.987148
+Sentence: [('harder', 'JJ'), ('shake', 'VB'), ('feel', 'NN'), ('harri', 'NN'), ('gotten', 'VB'), ('teacher', 'NN'), ('look', 'VB'), ('feel', 'NN'), ("n't", 'RB'), ('like', 'VB'), ('harri', 'NN')]
+	Rank: 7, Score: 1.989693
+Sentence: [('well', 'RB'), ('done', 'VB'), ('ron', 'NN'), ('excel', 'NN'), ('said', 'VB'), ('perci', 'NN'), ('weasley', 'NN'), ('pompous', 'NN'), ('across', 'VB'), ('harri', 'NN'), ('zabini', 'NN'), ('blais', 'NN'), ('made', 'VB'), ('slytherin', 'NN')]
+	Rank: 6, Score: 2.016267
+Sentence: [('harri', 'NN'), ('quickli', 'RB'), ('look', 'VB'), ('professor', 'NN'), ('mcgonagal', 'NN'), ('silent', 'RB'), ('place', 'VB'), ('four-leg', 'JJ'), ('stool', 'NN'), ('front', 'NN'), ('first', 'JJ'), ('year', 'NN')]
+	Rank: 5, Score: 2.030374
+Sentence: [('look', 'VB'), ('good', 'JJ'), ('said', 'VB'), ('ghost', 'NN'), ('ruff', 'NN'), ('sadli', 'RB'), ('watch', 'VB'), ('harri', 'NN'), ('cut', 'VB'), ('steak', 'NN'), ('Ca', 'NN'), ("n't", 'RB')]
+	Rank: 4, Score: 2.119388
+Sentence: [('harri', 'NN'), ('look', 'VB'), ('slytherin', 'NN'), ('tabl', 'NN'), ('saw', 'VB'), ('horribl', 'JJ'), ('ghost', 'NN'), ('sit', 'VB'), ('blank', 'JJ'), ('stare', 'VB'), ('eye', 'NN'), ('gaunt', 'NN'), ('face', 'NN'), ('robe', 'NN'), ('stain', 'VB'), ('silver', 'NN'), ('blood', 'NN')]
+	Rank: 3, Score: 2.152454
+Sentence: [('got', 'VB'), ('tri', 'VB'), ('hat', 'NN'), ('ron', 'NN'), ('whisper', 'VB'), ('harri', 'NN')]
+	Rank: 2, Score: 2.152749
+Sentence: [('well', 'RB'), ('sure', 'VB'), ('better', 'JJ'), ('gryffindor', 'NN'), ('harri', 'NN'), ('heard', 'VB'), ('hat', 'NN'), ('shout', 'VB'), ('last', 'JJ'), ('word', 'NN'), ('whole', 'JJ'), ('hall', 'NN')]
+	Rank: 1, Score: 2.332317
+Sentence: [('harri', 'NN'), ('cross', 'VB'), ('finger', 'NN'), ('tabl', 'NN'), ('second', 'JJ'), ('later', 'RB'), ('hat', 'NN'), ('shout', 'VB'), ('gryffindor', 'NN'), ('harri', 'NN'), ('clap', 'VB'), ('loudli', 'RB'), ('rest', 'NN'), ('ron', 'NN'), ('collaps', 'VB'), ('chair', 'NN'), ('next', 'JJ')]

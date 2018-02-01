@@ -1,8 +1,7 @@
-from summarizer import sentence_similarity
-import nltk
+from nltk import pos_tag
+from summarizer import symmetric_sentence_similarity
 
-tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+a = pos_tag("Cats are beautiful animals.")
+b = pos_tag("Some gorgeous creatures are felines.")
 
-sent1 = "The four houses are called Gryffindor, Hufflepuff, Ravenclaw, and Slytherin."
-sent2 = "'HUFFLEPUFF!' shouted the hat again, and Susan scuttled off to sit next to Hannah."
-print(tokenizer.tokenize(sent2))
+print(symmetric_sentence_similarity(a, b))

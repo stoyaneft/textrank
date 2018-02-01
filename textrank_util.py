@@ -77,10 +77,10 @@ ps = PorterStemmer()
 def is_not_function_word(tagged_word):
     word, tag = tagged_word
     return word.lower() not in STOP_WORDS and tag not in FUNCTIONAL_TAGS
-print(STOP_WORDS)
 
-def stem_sentence(sentence):
-    return list([(ps.stem(word), fix_tag(tag))
+
+def stem_sentence(sentence, stem=True):
+    return list([(ps.stem(word) if stem else word, fix_tag(tag))
                  for word, tag in filter(is_not_function_word, sentence)])
 
 
@@ -105,10 +105,10 @@ def get_tagged_words(sentences):
     return {word: fix_tag(key) for (word, key) in tagged_words}
 
 
-def get_tagged_sentences(sentences):
+def get_tagged_sentences(sentences, stem=True):
     tagged_sentences = pos_tag_sents(sentences)
     # TODO stemming may not be a good idea
-    return [stem_sentence(sentence) for sentence in tagged_sentences]
+    return [stem_sentence(sentence, stem) for sentence in tagged_sentences]
 
 
 def sentence_to_words(sentence):
