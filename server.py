@@ -21,14 +21,14 @@ def main_page():
 #     return render_template('summary.html', summary=summarize(text, int(sentences)))
 
 
-@app.route('/results/')
+@app.route('/results/', methods=['POST'])
 def get_results():
-    text = request.args.get('text', '')
-    sentences = request.args.get('sentences_count', 10)
-    is_summary = request.args.get('summary')
-    print(request.args)
-    print('is', is_summary)
-    if is_summary is not None:
+    text = request.form['text']
+    sentences = request.form['sentences_count']
+    is_summary = 'summary' in request.form
+    # print(request.form)
+    # print('is', is_summary)
+    if is_summary:
         return render_template('summary.html', summary=summarize(text, int(sentences)))
     return render_template('keywords.html', keywords=extract_keywords(text, int(sentences)))
 
